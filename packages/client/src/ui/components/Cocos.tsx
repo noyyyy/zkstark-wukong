@@ -1,9 +1,8 @@
 export function Cocos() {
     return (
         <iframe
+            className="h-screen w-screen"
             src="/cocos-build/index.html"
-            width="100%"
-            height="500px"
             title="Embedded Content"
         />
     );

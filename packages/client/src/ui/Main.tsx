@@ -8,7 +8,7 @@ export function Main() {
     } = useDojo();
 
     return (
-        <div>
+        <div className="w-screen h-screen">
             <div>hello world</div>
             <Cocos />
         </div>

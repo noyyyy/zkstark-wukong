@@ -14,7 +14,7 @@ export const createNetworkLayer = async () => {
     const urlParams = new URLSearchParams(queryString);
     const network = urlParams.get("network");
 
-    const defaultLayer = "fly";
+    const defaultLayer = "local";
 
     const config = supportedNetworks[network || defaultLayer];
 
