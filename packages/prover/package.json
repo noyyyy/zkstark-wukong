@@ -1,0 +1,16 @@
+{
+  "name": "prover",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cairo-vm.git": "github:lambdaclass/cairo-vm",
+    "stone-prover.git": "github:starkware-libs/stone-prover"
+  }
+}

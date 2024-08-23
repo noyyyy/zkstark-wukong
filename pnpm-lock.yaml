@@ -252,6 +252,15 @@ importers:
 
   packages/cocos: {}
 
+  packages/prover:
+    dependencies:
+      cairo-vm.git:
+        specifier: github:lambdaclass/cairo-vm
+        version: github.com/lambdaclass/cairo-vm/93f1f54f38059af89850b1c06d4c901300f9b94d
+      stone-prover.git:
+        specifier: github:starkware-libs/stone-prover
+        version: github.com/starkware-libs/stone-prover/ba85f37de3f8473525b7dc03de36cdf8f1567775
+
 packages:
 
   /@aashutoshrathi/word-wrap@1.2.6:
@@ -8130,4 +8139,16 @@ packages:
       '@types/react': 18.2.45
       react: 18.2.0
       use-sync-external-store: 1.2.0(react@18.2.0)
+    dev: false
+
+  github.com/lambdaclass/cairo-vm/93f1f54f38059af89850b1c06d4c901300f9b94d:
+    resolution: {tarball: https://codeload.github.com/lambdaclass/cairo-vm/tar.gz/93f1f54f38059af89850b1c06d4c901300f9b94d}
+    name: cairo-vm.git
+    version: 0.0.0
+    dev: false
+
+  github.com/starkware-libs/stone-prover/ba85f37de3f8473525b7dc03de36cdf8f1567775:
+    resolution: {tarball: https://codeload.github.com/starkware-libs/stone-prover/tar.gz/ba85f37de3f8473525b7dc03de36cdf8f1567775}
+    name: stone-prover
+    version: 0.0.0
     dev: false
