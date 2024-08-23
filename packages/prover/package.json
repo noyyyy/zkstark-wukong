@@ -9,8 +9,5 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "cairo-vm.git": "github:lambdaclass/cairo-vm",
-    "stone-prover.git": "github:starkware-libs/stone-prover"
-  }
+  "dependencies": {}
 }
