@@ -41,7 +41,7 @@ echo "Generate fri steps list successfully"
 
 start=$(date +%s.%N)
 
-cpu_air_prover --out_file=proof/fibonacci_proof.json --private_input_file=proof/private_input.json --public_input_file=proof/public_input.json --prover_config_file=config/cpu_air_prover_config.json --parameter_file=config/cpu_air_params.json
+cpu_air_prover --out_file=proof/proof.json --private_input_file=proof/private_input.json --public_input_file=proof/public_input.json --prover_config_file=config/cpu_air_prover_config.json --parameter_file=config/cpu_air_params.json
 
 end=$(date +%s.%N)
 runtime=$(echo "$end - $start" | bc)
@@ -50,4 +50,4 @@ echo "Generate Proof Time: $runtime seconds"
 
 ## verify proof
 
-cpu_air_verifier --in_file=proof/fibonacci_proof.json
+cpu_air_verifier --in_file=proof/proof.json
