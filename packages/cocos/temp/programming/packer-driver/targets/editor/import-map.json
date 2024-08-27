@@ -17,9 +17,8 @@
     "file:///Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/prefab/HolUserResource.ts": "./chunks/a4/a475742b3432d8266358cc552be6b6cb35dde29d.js",
     "file:///Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/scenes/CommonCanvas.ts": "./chunks/eb/eb363953dd3df854cc8c9f7e4ca7f6938fb84bca.js",
     "file:///Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/util/util.ts": "./chunks/3c/3c7358834054f73d76773dd591e372a4bc41291a.js",
-    "file:///Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/common/common/common.ts": "./chunks/ab/ab7512ed66622acd0d3317cbff6ad4fed270575a.js",
-    "file:///Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/common/config/config.ts": "./chunks/e5/e53629a47e55b452b9a896e5173c2c77e5353e5b.js",
     "file:///Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/game/fight/ActionState.ts": "./chunks/32/32458e9c43d4e72e41574f1cc2e3d92c1508835b.js",
+    "file:///Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/common/config/config.ts": "./chunks/e5/e53629a47e55b452b9a896e5173c2c77e5353e5b.js",
     "file:///Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/game/fight/BasicMetaState.ts": "./chunks/28/2876537869eeb95a92266c2a8cf62b0809b71ce5.js",
     "file:///Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/game/fight/BasicState.ts": "./chunks/03/03a35977c52cca2c2ab3138f2ffd4a9f16e20765.js",
     "file:///Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/game/fight/OnBeTarget.ts": "./chunks/b5/b541ce89888345b23b42b2a73e550454f061ad7f.js",
@@ -57,15 +56,16 @@
     "file:///Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/game/fight_entity/character/fearOfDemons.ts": "./chunks/e0/e00902a95a242725894733340f6bb6cbb0d16bfb.js",
     "file:///Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/game/fight_entity/character/sunwukong.ts": "./chunks/06/0609e5bb6ea9ea553b969d8a0ecdb5c8eb6c108e.js",
     "file:///Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/scenes/Fight/Canvas/FightFailure.ts": "./chunks/af/afaa7e45bf4b9395074042c7f0853e868af1b98d.js",
-    "file:///Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/scenes/Fight/Canvas/FightMap.ts": "./chunks/f9/f903e63b8250920f92ee3ec49082be737a463578.js",
     "file:///Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/scenes/Fight/Canvas/FightSuccess.ts": "./chunks/61/618addf722c9a7d38ddf563b0bf18739e40b9ac7.js",
     "file:///Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/scenes/Fight/Canvas/FightUi.ts": "./chunks/5f/5f26a682e6024ac99043b686292cd0c34b9442f4.js",
-    "file:///Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/scenes/Hero/Canvas/HeroAllHeros.ts": "./chunks/f2/f279c8ed4c480d33d9a9de94894660ff67d2e691.js",
     "file:///Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/scenes/Hero/Canvas/HeroCharacterDetail.ts": "./chunks/0c/0c121c428da109119f2e4826f6decc20271a5933.js",
+    "file:///Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/scenes/Hero/Canvas/HeroAllHeros.ts": "./chunks/f2/f279c8ed4c480d33d9a9de94894660ff67d2e691.js",
     "file:///Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/scenes/Hero/Canvas/HeroUi.ts": "./chunks/f2/f200af5ed603b30c850fadc568185719f98514ba.js",
     "file:///Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/scenes/Home/Canvas/HomeBuildings.ts": "./chunks/c9/c97e7b3160dc54a81f10d7f7c92b7cd54f33a8c0.js",
     "file:///Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/scenes/Home/Canvas/HomeUi.ts": "./chunks/0e/0e9ec6b06932273d0e5616299e493461cc4fc86d.js",
-    "file:///Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/scenes/Hero/Canvas/CharacterDetail/HeroCharacterDetailPorperty.ts": "./chunks/a3/a33356131256bb8b26807bcd0f32ce0eec47a58a.js"
+    "file:///Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/scenes/Hero/Canvas/CharacterDetail/HeroCharacterDetailPorperty.ts": "./chunks/a3/a33356131256bb8b26807bcd0f32ce0eec47a58a.js",
+    "file:///Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/common/common/common.ts": "./chunks/2a/2aa876b026850a062bc59027511d79c0bed58496.js",
+    "file:///Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/scenes/Fight/Canvas/FightMap.ts": "./chunks/16/164173530283d27502dadadd295dbbe11e3499f4.js"
   },
   "scopes": {
     "./chunks/ce/cee638a986ad8fae09398db255647defcaa6612a.js": {
@@ -101,7 +101,7 @@
     },
     "./chunks/09/0972a0f13f2921efc845aa10fe551751ad9e7e82.js": {
       "__unresolved_0": "./chunks/21/2149071586fb5ee96d3e15df3a10b119fd0c3790.js",
-      "__unresolved_1": "./chunks/ab/ab7512ed66622acd0d3317cbff6ad4fed270575a.js",
+      "__unresolved_1": "./chunks/2a/2aa876b026850a062bc59027511d79c0bed58496.js",
       "__unresolved_10": "./chunks/e1/e1660dee3a79ae212c9d82b4f8add4938d61cfe0.js",
       "__unresolved_11": "./chunks/ae/aea8e33a5cc7b98050aa372acd4c4165eb87cafe.js",
       "__unresolved_12": "./chunks/c8/c87ebddd846d0f6213377454841d247fdfefc164.js",
@@ -133,7 +133,7 @@
       "__unresolved_36": "./chunks/a4/a475742b3432d8266358cc552be6b6cb35dde29d.js",
       "__unresolved_37": "./chunks/eb/eb363953dd3df854cc8c9f7e4ca7f6938fb84bca.js",
       "__unresolved_38": "./chunks/af/afaa7e45bf4b9395074042c7f0853e868af1b98d.js",
-      "__unresolved_39": "./chunks/f9/f903e63b8250920f92ee3ec49082be737a463578.js",
+      "__unresolved_39": "./chunks/16/164173530283d27502dadadd295dbbe11e3499f4.js",
       "__unresolved_4": "./chunks/28/2876537869eeb95a92266c2a8cf62b0809b71ce5.js",
       "__unresolved_40": "./chunks/61/618addf722c9a7d38ddf563b0bf18739e40b9ac7.js",
       "__unresolved_41": "./chunks/5f/5f26a682e6024ac99043b686292cd0c34b9442f4.js",
@@ -392,19 +392,19 @@
       "__unresolved_0": "./chunks/84/84741ad843cea9a440c5d8c2d379669b6551400d.js",
       "__unresolved_1": "./chunks/5c/5ce0b4698145368424e1d8e9f0c4416b857fff79.js",
       "__unresolved_2": "./chunks/3c/3c7358834054f73d76773dd591e372a4bc41291a.js",
-      "__unresolved_3": "./chunks/f9/f903e63b8250920f92ee3ec49082be737a463578.js",
+      "__unresolved_3": "./chunks/16/164173530283d27502dadadd295dbbe11e3499f4.js",
       "cc": "./chunks/ce/cee638a986ad8fae09398db255647defcaa6612a.js"
     },
-    "./chunks/f9/f903e63b8250920f92ee3ec49082be737a463578.js": {
+    "./chunks/16/164173530283d27502dadadd295dbbe11e3499f4.js": {
       "__unresolved_0": "./chunks/84/84741ad843cea9a440c5d8c2d379669b6551400d.js",
       "__unresolved_1": "./chunks/3c/3c7358834054f73d76773dd591e372a4bc41291a.js",
       "__unresolved_2": "./chunks/5c/5ce0b4698145368424e1d8e9f0c4416b857fff79.js",
       "__unresolved_3": "./chunks/fc/fc7b1e9423ca8da6ff731f17986e5494808b3a2c.js",
-      "__unresolved_4": "./chunks/ab/ab7512ed66622acd0d3317cbff6ad4fed270575a.js",
+      "__unresolved_4": "./chunks/2a/2aa876b026850a062bc59027511d79c0bed58496.js",
       "__unresolved_5": "./chunks/6c/6c993e4b0a5d181940c91f3346116de0e793d5ba.js",
       "cc": "./chunks/ce/cee638a986ad8fae09398db255647defcaa6612a.js"
     },
-    "./chunks/ab/ab7512ed66622acd0d3317cbff6ad4fed270575a.js": {
+    "./chunks/2a/2aa876b026850a062bc59027511d79c0bed58496.js": {
       "__unresolved_0": "./chunks/84/84741ad843cea9a440c5d8c2d379669b6551400d.js",
       "cc": "./chunks/ce/cee638a986ad8fae09398db255647defcaa6612a.js"
     },

@@ -1116,3 +1116,514 @@
 2024-8-27 20:30:29-debug: build success in 12402 ms!
 2024-8-27 20:30:29-debug: ================================ build Task (web-desktop) Finished in (12406)ms ================================
 2024-8-27 20:30:29-debug: Stop record console. {file(/Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/temp/builder/log/web-desktop2024-8-27 20-30.log)}
+2024-8-27 20:54:17-debug: refresh db internal success
+2024-8-27 20:54:17-debug: asset-db:worker-effect-data-processing (163ms)
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effectbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/fontbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/imagebackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/soundbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/prefabbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/gamebackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resourcesbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/scenesbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/scriptbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/gamebackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/prefabbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/scenes/Fight.scenebackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/commonbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/scenes/Home.scenebackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/scenes/Hero.scenebackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/utilbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/scenes/Preload.scenebackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/scenesbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect/gainbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect/fight_resultbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect/legend_borderbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect/levelupbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect/loadbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect/starbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect/up_effectbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/game/fight_entitybackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/buildingbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/font/font_title.fntbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/backbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/camp_iconbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/font/dfyuanw7-gb2312.ttfbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/buttonbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/fightMapbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/font/hycyj.ttfbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/numberbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/font/font_title_0.pngbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/quality_borderbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/uibackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/prefab/HolAnimation.prefabbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/prefab/HolCharacter.prefabbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/prefab/HolCharacterAvatar.prefabbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/prefab/HolCharactersQueue.prefabbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/prefab/HolConfirmMessage.prefabbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/prefab/HolIntroduceMessage.prefabbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/prefab/HolLoadMessage.prefabbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/prefab/HolNumber.prefabbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/prefab/HolNumberAddReduce.prefabbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/prefab/HolPreLoad.prefabbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/prefab/HolPromptMessage.prefabbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/prefab/HolUserResource.prefabbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/sound/fightbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/sound/homebackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/sound/otherbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/common/commonbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/common/configbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/game/fight_entitybackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/game/fightbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/prefab/HolAnimation.tsbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/prefab/HolCharacter.tsbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/prefab/HolCharacterAvatar.tsbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/prefab/HolCharactersQueue.tsbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/prefab/HolConfirmMessage.tsbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/prefab/HolIntroduceMessage.tsbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/prefab/HolLoadMessage.tsbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/prefab/HolNumber.tsbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/prefab/HolNumberAddReduce.tsbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/prefab/HolPreLoad.tsbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/prefab/HolPromptMessage.tsbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/prefab/HolUserResource.tsbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/scenes/CommonCanvas.tsbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/scenes/Fightbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/scenes/Herobackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/scenes/Homebackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/scenes/Preloadbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/util/outbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/util/bundlebackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/util/messagebackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/util/resourcebackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/util/util.tsbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/util/sundrybackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect/fight_result/uieffect_7.jsonbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect/fight_result/uieffect_7.atlasbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect/gain/uieffect_6.atlasbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect/fight_result/uieffect_7.pngbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-log: UUID is initialized for "%s"./Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect/fight_result/uieffect_7.png
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect/gain/uieffect_6.jsonbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect/fight_result/uieffect_7.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect/legend_border/skeleton.atlasbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-log: UUID is initialized for "%s"./Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect/gain/uieffect_6.png
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect/gain/uieffect_6.pngbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect/fight_result/uieffect_7.png@f9941background: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect/legend_border/skeleton.jsonbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-log: UUID is initialized for "%s"./Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect/legend_border/skeleton.png
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect/legend_border/skeleton.pngbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect/levelup/uieffect_9.jsonbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect/levelup/uieffect_9.atlasbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-log: UUID is initialized for "%s"./Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect/levelup/uieffect_9.png
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect/load/skeleton.atlasbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect/levelup/uieffect_9.pngbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect/legend_border/skeleton.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect/gain/uieffect_6.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect/legend_border/skeleton.png@f9941background: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect/gain/uieffect_6.png@f9941background: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect/load/skeleton.jsonbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-log: UUID is initialized for "%s"./Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect/load/skeleton.png
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect/load/skeleton.pngbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect/star/uieffect_4.atlasbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect/levelup/uieffect_9.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect/star/uieffect_4.jsonbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect/up_effect/uieffect_20.atlasbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-log: UUID is initialized for "%s"./Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect/star/uieffect_4.png
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect/star/uieffect_4.pngbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect/up_effect/uieffect_20.pngbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect/up_effect/uieffect_20.jsonbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect/load/skeleton.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect/star/uieffect_4.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect/load/skeleton.png@f9941background: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-log: UUID is initialized for "%s"./Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect/up_effect/uieffect_20.png
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect/star/uieffect_4.png@f9941background: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/game/fight_entity/buffbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:17-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/game/fight_entity/characterbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/back/HeroBackground.pngbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/back/001.pngbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect/up_effect/uieffect_20.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/back/allCharacterBack.pngbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/back/introduceBack.pngbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/back/001.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/back/001.png@f9941background: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/back/introduceBack.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/back/introduceBack.png@f9941background: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/back/HomeBg.pngbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/back/HeroBackground.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/back/HeroBackground.png@f9941background: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/back/allCharacterBack.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/font/font_title_0.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/back/allCharacterBack.png@f9941background: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/back/number.jpgbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/font/font_title_0.png@f9941background: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/back/number.jpg@6c48abackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/back/background.jpgbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/back/number.jpg@f9941background: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/back/background.jpg@6c48abackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/back/promptBorder.pngbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/back/background.jpg@f9941background: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/back/promptBorder.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/back/sky.pngbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/back/promptBorder.png@f9941background: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/back/temp_face_2.pngbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/building/conquer.pngbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/back/temp_face_2.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/back/HomeBg.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/back/temp_face_2.png@f9941background: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/back/HomeBg.png@f9941background: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/building/couragebackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/building/conquer.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/building/conquer.png@f9941background: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/button/button.pngbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/building/shop.pngbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/building/zhangyi.pngbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/back/sky.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/back/sky.png@f9941background: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/button/cancel.pngbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/button/button.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/button/button.png@f9941background: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/building/shop.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/building/shop.png@f9941background: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/building/zhangyi.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/button/hero.pngbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/building/zhangyi.png@f9941background: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/button/cancel.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/button/pass.pngbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/button/cancel.png@f9941background: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/button/hero_train.pngbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/button/reduce.pngbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/button/pass.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/button/sure.pngbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/button/pass.png@f9941background: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/button/hero_train.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/button/hero.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/button/hero_train.png@f9941background: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/button/hero.png@f9941background: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/button/time scale.pngbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/button/sure.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/button/add.pngbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/button/sure.png@f9941background: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/button/reduce.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/button/reduce.png@f9941background: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/button/ui_001039_1.pngbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/button/time scale.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/button/add.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/camp_icon/abyss.pngbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/button/time scale.png@f9941background: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/button/add.png@f9941background: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/camp_icon/abyssBack.pngbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/camp_icon/dark.pngbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/camp_icon/darkBack.pngbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/camp_icon/abyss.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/camp_icon/abyss.png@f9941background: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/button/ui_001039_1.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/button/ui_001039_1.png@f9941background: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/camp_icon/dark.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/camp_icon/machine.pngbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/camp_icon/dark.png@f9941background: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/camp_icon/machineBack.pngbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/camp_icon/nature.pngbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/camp_icon/machine.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/camp_icon/machine.png@f9941background: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/camp_icon/machineBack.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/camp_icon/machineBack.png@f9941background: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/camp_icon/natureBack.pngbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/camp_icon/nature.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/camp_icon/abyssBack.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/camp_icon/darkBack.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/camp_icon/nature.png@f9941background: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/camp_icon/abyssBack.png@f9941background: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/camp_icon/darkBack.png@f9941background: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/camp_icon/natureBack.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/camp_icon/natureBack.png@f9941background: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/camp_icon/ordinaryBack.pngbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/camp_icon/ordinary.pngbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/camp_icon/ordinaryBack.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/camp_icon/ordinaryBack.png@f9941background: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/camp_icon/ordinary.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/camp_icon/sacred.pngbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/camp_icon/ordinary.png@f9941background: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/fightMap/map_7.pngbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/camp_icon/sacredBack.pngbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/camp_icon/sacred.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/fightMap/conquer_1.pngbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/camp_icon/sacred.png@f9941background: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/camp_icon/sacredBack.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/camp_icon/sacredBack.png@f9941background: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/fightMap/conquer_1.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/fightMap/conquer_1.png@f9941background: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/fightMap/map_8.pngbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/fightMap/map_lhjt.pngbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/fightMap/map_8.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/fightMap/map_8.png@f9941background: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/fightMap/map_lhjt.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/fightMap/map_lhjt.png@f9941background: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/fightMap/map_pvp.pngbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/fightMap/map_7.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/fightMap/map_7.png@f9941background: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/fightMap/map_pvp.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/fightMap/map_pvp.png@f9941background: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/number/+.pngbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/number/-.pngbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/number/+.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/number/+.png@f9941background: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/number/0.pngbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/number/2.pngbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/number/-.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/number/3.pngbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/number/-.png@f9941background: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/number/0.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/number/0.png@f9941background: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/number/1.pngbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/number/2.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/number/4.pngbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/number/2.png@f9941background: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/number/3.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/number/3.png@f9941background: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/number/1.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/number/5.pngbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/number/1.png@f9941background: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/number/4.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/number/6.pngbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/number/5.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/number/7.pngbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/number/4.png@f9941background: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/number/5.png@f9941background: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/number/8.pngbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/number/9.pngbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/number/6.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/quality_border/1.pngbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/number/6.png@f9941background: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/number/7.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/number/7.png@f9941background: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/number/8.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/number/8.png@f9941background: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/number/9.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/quality_border/2.pngbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/number/9.png@f9941background: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/quality_border/1.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/quality_border/3.pngbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/quality_border/1.png@f9941background: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/quality_border/4.pngbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/quality_border/5.pngbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/quality_border/2.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/quality_border/2.png@f9941background: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/quality_border/4.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/quality_border/3.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/ui/0f31b07587ea473d805630163bca745d.pngbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/quality_border/5.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/quality_border/4.png@f9941background: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/quality_border/3.png@f9941background: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/quality_border/5.png@f9941background: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/ui/0f31b07587ea473d805630163bca745d.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/ui/0f31b07587ea473d805630163bca745d.png@f9941background: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/ui/70c51da122274ce4948e7303dbb0e746.pngbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/ui/Face.pngbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/ui/a3154f5697724b42a9382de44169ba57.pngbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/ui/c343cbf2718048abb0aa68c32b8a783b.pngbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/ui/b9e816ee8d524e3c9800e6dc6f66a85f.pngbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/ui/70c51da122274ce4948e7303dbb0e746.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/ui/70c51da122274ce4948e7303dbb0e746.png@f9941background: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/ui/b9e816ee8d524e3c9800e6dc6f66a85f.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/ui/a3154f5697724b42a9382de44169ba57.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/ui/b9e816ee8d524e3c9800e6dc6f66a85f.png@f9941background: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/ui/a3154f5697724b42a9382de44169ba57.png@f9941background: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/ui/Face.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/ui/d37b90214cfa4b488685504fd692b296.pngbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/ui/Face.png@f9941background: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/ui/c343cbf2718048abb0aa68c32b8a783b.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/ui/c343cbf2718048abb0aa68c32b8a783b.png@f9941background: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/ui/d7c1f269eea34473820bf253e7733e83.pngbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/ui/diamond.pngbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/ui/d37b90214cfa4b488685504fd692b296.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/ui/hp_energy_value.pngbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/ui/d37b90214cfa4b488685504fd692b296.png@f9941background: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/ui/d7c1f269eea34473820bf253e7733e83.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/ui/d7c1f269eea34473820bf253e7733e83.png@f9941background: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/ui/hp_energy_border  .pngbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/ui/diamond.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/ui/diamond.png@f9941background: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/ui/hp_energy_value.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/ui/new_general_atlas.pngbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/ui/hp_energy_value.png@f9941background: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/ui/hp_energy_border  .png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/ui/process_border.pngbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/ui/resource_gold.pngbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/ui/hp_energy_border  .png@f9941background: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/ui/process_value.pngbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/ui/new_general_atlas.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/ui/new_general_atlas.png@f9941background: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/ui/process_border.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/ui/resource_gold.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/ui/soul.pngbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/ui/resource_gold.png@f9941background: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/ui/process_border.png@f9941background: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/ui/process_value.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/ui/process_value.png@f9941background: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/ui/talent_frame.pngbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/sound/fight/backbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/sound/fight/endbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/ui/teamupgrade_icon.pngbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/sound/home/dengluqu.oggbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/ui/soul.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/sound/home/music_aogeruima.oggbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/ui/talent_frame.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/ui/soul.png@f9941background: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/ui/talent_frame.png@f9941background: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/sound/home/ui_bg1.mp3background: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/sound/home/ui_bg.mp3background: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/ui/teamupgrade_icon.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/ui/teamupgrade_icon.png@f9941background: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/sound/other/levelUp.mp3background: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/common/common/common.tsbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/game/fight/ActionState.tsbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/common/config/config.tsbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/game/fight/BasicMetaState.tsbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/game/fight/BasicState.tsbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/game/fight/OnBeTarget.tsbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/game/fight/RoundState.tsbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/game/fight/buffbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/game/fight/characterbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/game/fight/equipmentbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/game/fight/itembackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/scenes/Fight/Canvasbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/game/fight_entity/characterbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/game/fight_entity/buffbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/scenes/Fight/FightCanvas.tsbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/scenes/Hero/Canvasbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/scenes/Home/Canvasbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/scenes/Hero/HeroCanvas.tsbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/scenes/Home/HomeCanvas.tsbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/scenes/Preload/PreloadCanvas.tsbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/util/bundle/load.tsbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/util/bundle/loadDir.tsbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/util/message/confirm.tsbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/util/message/introduce.tsbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/util/message/load.tsbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/util/message/prompt.tsbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/util/out/error.tsbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/util/out/log.tsbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/util/resource/getNodePool.tsbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/util/sundry/formateNumber.tsbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/util/sundry/moveNodeToPosition.tsbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/game/fight_entity/character/fearOfDemonsbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/game/fight_entity/character/sunwukongbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/building/courage/skeleton.jsonbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/building/courage/skeleton.atlasbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/game/fight_entity/buff/fear.pngbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/game/fight_entity/buff/bleed.pngbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/game/fight_entity/buff/vertigo.pngbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-log: UUID is initialized for "%s"./Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/building/courage/skeleton.png
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/game/fight_entity/buff/fear.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/sound/fight/back/arena_bg.mp3background: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/game/fight_entity/buff/fear.png@f9941background: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/building/courage/skeleton.pngbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/game/fight_entity/buff/vertigo.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/game/fight_entity/buff/bleed.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/game/fight_entity/buff/vertigo.png@f9941background: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/game/fight_entity/buff/bleed.png@f9941background: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/building/courage/skeleton.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/building/courage/skeleton.png@f9941background: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/sound/fight/back/fight_bg1.mp3background: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/sound/fight/back/fight_bg2.mp3background: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/sound/fight/end/failure.mp3background: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/sound/fight/end/success.mp3background: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/game/fight/buff/BuffEnum.tsbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/game/fight/buff/BuffMetaState.tsbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/game/fight/buff/BuffState.tsbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/game/fight/character/CharacterEnum.tsbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/game/fight/character/CharacterMetaState.tsbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/game/fight/character/CharacterState.tsbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/game/fight/equipment/EquipmentMetaState.tsbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/game/fight/equipment/EquipmentEnum.tsbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/game/fight/equipment/EquipmentState.tsbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/game/fight/item/ItemEnum.tsbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/game/fight/item/ItemMetaState.tsbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/game/fight/item/ItemState.tsbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/game/fight_entity/buff/fear.tsbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/game/fight_entity/buff/bleed.tsbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/game/fight_entity/buff/vertigo.tsbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/game/fight_entity/character/fearOfDemons.tsbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/game/fight_entity/character/sunwukong.tsbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/scenes/Fight/Canvas/FightMap.tsbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/scenes/Fight/Canvas/FightFailure.tsbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/scenes/Fight/Canvas/FightSuccess.tsbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/scenes/Fight/Canvas/FightUi.tsbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/scenes/Hero/Canvas/CharacterDetailbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/scenes/Hero/Canvas/HeroAllHeros.tsbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/scenes/Hero/Canvas/HeroCharacterDetail.tsbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/scenes/Hero/Canvas/HeroUi.tsbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/scenes/Home/Canvas/HomeBuildings.tsbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/scenes/Home/Canvas/HomeUi.tsbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/game/fight_entity/character/fearOfDemons/DT.atlasbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/game/fight_entity/character/fearOfDemons/DT.jsonbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/game/fight_entity/character/fearOfDemons/avatar.pngbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/game/fight_entity/character/fearOfDemons/DT.pngbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/game/fight_entity/character/sunwukong/MK.pngbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-log: UUID is initialized for "%s"./Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/game/fight_entity/character/fearOfDemons/DT.png
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/game/fight_entity/character/sunwukong/MK.atlasbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/game/fight_entity/character/sunwukong/MK.jsonbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/game/fight_entity/character/fearOfDemons/avatar.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/game/fight_entity/character/sunwukong/MK.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/game/fight_entity/character/fearOfDemons/avatar.png@f9941background: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/game/fight_entity/character/sunwukong/MK.png@f9941background: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/game/fight_entity/character/sunwukong/avatar.pngbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-log: UUID is initialized for "%s"./Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/game/fight_entity/character/sunwukong/MK.png
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/scenes/Hero/Canvas/CharacterDetail/HeroCharacterDetailPorperty.tsbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/game/fight_entity/character/fearOfDemons/DT.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/game/fight_entity/character/sunwukong/avatar.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/game/fight_entity/character/fearOfDemons/DT.png@f9941background: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/game/fight_entity/character/sunwukong/avatar.png@f9941background: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:18-debug: refresh db assets success
+2024-8-27 20:54:19-debug: asset-db:refresh-all-database (1549ms)
+2024-8-27 20:54:19-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect/legend_border/skeleton.jsonbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:19-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect/levelup/uieffect_9.jsonbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:19-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect/fight_result/uieffect_7.jsonbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:19-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect/load/skeleton.jsonbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:19-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect/gain/uieffect_6.jsonbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:19-log: UUID is initialized for "%s"./Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect/levelup/uieffect_9.png
+2024-8-27 20:54:19-log: UUID is initialized for "%s"./Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect/legend_border/skeleton.png
+2024-8-27 20:54:19-log: UUID is initialized for "%s"./Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect/fight_result/uieffect_7.png
+2024-8-27 20:54:19-log: UUID is initialized for "%s"./Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect/load/skeleton.png
+2024-8-27 20:54:19-log: UUID is initialized for "%s"./Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect/gain/uieffect_6.png
+2024-8-27 20:54:19-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect/up_effect/uieffect_20.jsonbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:19-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect/star/uieffect_4.jsonbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:19-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/building/courage/skeleton.jsonbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:19-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/font/font_title.fntbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:19-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/game/fight_entity/character/sunwukong/MK.jsonbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:19-log: UUID is initialized for "%s"./Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect/up_effect/uieffect_20.png
+2024-8-27 20:54:19-log: UUID is initialized for "%s"./Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect/star/uieffect_4.png
+2024-8-27 20:54:19-log: UUID is initialized for "%s"./Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/building/courage/skeleton.png
+2024-8-27 20:54:19-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/game/fight_entity/character/fearOfDemons/DT.jsonbackground: #aaff85; color: #000;color: #000;
+2024-8-27 20:54:19-log: UUID is initialized for "%s"./Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/game/fight_entity/character/sunwukong/MK.png
+2024-8-27 20:54:19-log: UUID is initialized for "%s"./Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/game/fight_entity/character/fearOfDemons/DT.png
+2024-8-27 21:05:54-debug: refresh db internal success
+2024-8-27 21:05:54-debug: asset-db:worker-effect-data-processing (165ms)
+2024-8-27 21:05:54-debug: refresh db assets success
+2024-8-27 21:05:54-debug: asset-db:refresh-all-database (268ms)
+2024-8-27 21:09:55-debug: refresh db internal success
+2024-8-27 21:09:55-debug: asset-db:worker-effect-data-processing (108ms)
+2024-8-27 21:09:55-debug: refresh db assets success
+2024-8-27 21:09:55-debug: asset-db:refresh-all-database (207ms)
+2024-8-27 21:10:22-debug: refresh db internal success
+2024-8-27 21:10:22-debug: asset-db:worker-effect-data-processing (104ms)
+2024-8-27 21:10:22-debug: refresh db assets success
+2024-8-27 21:10:22-debug: asset-db:refresh-all-database (172ms)
+2024-8-27 21:11:15-debug: refresh db internal success
+2024-8-27 21:11:16-debug: asset-db:worker-effect-data-processing (118ms)
+2024-8-27 21:11:16-debug: refresh db assets success
+2024-8-27 21:11:16-debug: asset-db:refresh-all-database (200ms)
+2024-8-27 21:12:41-debug: refresh db internal success
+2024-8-27 21:12:41-debug: asset-db:worker-effect-data-processing (101ms)
+2024-8-27 21:12:41-debug: refresh db assets success
+2024-8-27 21:12:41-debug: asset-db:refresh-all-database (218ms)
+2024-8-27 21:15:33-debug: refresh db internal success
+2024-8-27 21:15:33-debug: asset-db:worker-effect-data-processing (109ms)
+2024-8-27 21:15:33-debug: refresh db assets success
+2024-8-27 21:15:33-debug: asset-db:refresh-all-database (182ms)
+2024-8-27 21:57:31-debug: refresh db internal success
+2024-8-27 21:57:31-debug: asset-db:worker-effect-data-processing (104ms)
+2024-8-27 21:57:31-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/common/common/common.tsbackground: #aaff85; color: #000;color: #000;
+2024-8-27 21:57:31-debug: %cImport%c: /Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/scenes/Fight/Canvas/FightMap.tsbackground: #aaff85; color: #000;color: #000;
+2024-8-27 21:57:31-debug: refresh db assets success
+2024-8-27 21:57:31-debug: asset-db:refresh-all-database (257ms)

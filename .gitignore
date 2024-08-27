@@ -4,3 +4,4 @@ indexer.db
 .vercel
 manifests
 .DS_Store
+temp

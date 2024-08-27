@@ -33,38 +33,38 @@
     "/Users/ruoyan/Desktop/WorkSpace/LegendOfWarcraftHeroes/assets/resources/game/fight_entity/character/sunwukong/MK.json": [
       "/Users/ruoyan/Desktop/WorkSpace/LegendOfWarcraftHeroes/assets/resources/game/fight_entity/character/sunwukong/MK.atlas"
     ],
-    "/Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect/fight_result/uieffect_7.json": [
-      "/Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect/fight_result/uieffect_7.atlas"
+    "/Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect/levelup/uieffect_9.json": [
+      "/Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect/levelup/uieffect_9.atlas"
     ],
     "/Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect/legend_border/skeleton.json": [
       "/Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect/legend_border/skeleton.atlas"
     ],
-    "/Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect/gain/uieffect_6.json": [
-      "/Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect/gain/uieffect_6.atlas"
-    ],
-    "/Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect/star/uieffect_4.json": [
-      "/Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect/star/uieffect_4.atlas"
+    "/Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect/fight_result/uieffect_7.json": [
+      "/Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect/fight_result/uieffect_7.atlas"
     ],
     "/Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect/load/skeleton.json": [
       "/Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect/load/skeleton.atlas"
     ],
+    "/Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect/gain/uieffect_6.json": [
+      "/Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect/gain/uieffect_6.atlas"
+    ],
     "/Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/font/font_title.fnt": [
       "/Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/font/font_title_0.png"
-    ],
-    "/Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect/levelup/uieffect_9.json": [
-      "/Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect/levelup/uieffect_9.atlas"
     ],
     "/Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect/up_effect/uieffect_20.json": [
       "/Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect/up_effect/uieffect_20.atlas"
     ],
+    "/Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect/star/uieffect_4.json": [
+      "/Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect/star/uieffect_4.atlas"
+    ],
     "/Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/building/courage/skeleton.json": [
       "/Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/building/courage/skeleton.atlas"
     ],
-    "/Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/game/fight_entity/character/fearOfDemons/DT.json": [
-      "/Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/game/fight_entity/character/fearOfDemons/DT.atlas"
-    ],
     "/Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/game/fight_entity/character/sunwukong/MK.json": [
       "/Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/game/fight_entity/character/sunwukong/MK.atlas"
+    ],
+    "/Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/game/fight_entity/character/fearOfDemons/DT.json": [
+      "/Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/game/fight_entity/character/fearOfDemons/DT.atlas"
     ]
   },
   "uuid": {

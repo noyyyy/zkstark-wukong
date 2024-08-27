@@ -30,6 +30,16 @@ export class FightMap extends Component {
     actionAwaitQueue: Promise<any>[] = []
 
     protected async start() {
+
+        window.addEventListener("message" , async (event) => {
+            const battleData = event.data;
+
+            await this.battle();
+            console.log( '打架了')
+        })
+
+    }
+    protected async battle() {
         // HolPreLoad 预加载进度条
         const holPreLoad = this.node.parent.getChildByName("HolPreLoad").getComponent(HolPreLoad)
         holPreLoad.setTips([
@@ -60,6 +70,8 @@ export class FightMap extends Component {
             if (result) this.fightSuccess()
             // 战斗失败结算
             else this.fightEnd()
+            // 战斗演示结束 给客户端发消息 
+            
         })
         // 设置 100%
         holPreLoad.setProcess(100)
