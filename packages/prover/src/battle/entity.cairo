@@ -10,7 +10,7 @@ const base_initiative: u16 = 10;
 pub enum Side {
     Invalid,
     Defender,
-    Challender,
+    Challenger,
 }
 
 #[derive(Drop, Copy)]
