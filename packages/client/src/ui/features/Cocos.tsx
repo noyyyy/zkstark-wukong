@@ -6,6 +6,7 @@ export function Cocos() {
 
     return (
         <iframe
+            id="Cocos Game"
             className={cn(" absolute inset-0 h-screen w-screen t-0 l-0 z-50", {
                 invisible: !show,
             })}

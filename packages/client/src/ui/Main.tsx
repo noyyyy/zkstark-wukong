@@ -3,6 +3,19 @@ import { useDojo } from "./hooks/useDojo";
 import { ShowItem, useUIStore } from "../store";
 import { Button } from "./components/button";
 
+const data = {
+    challenger: {
+        strength: 10,
+        agility: 0,
+        intelligence: 20,
+    },
+    defender: {
+        strength: 10,
+        agility: 0,
+        intelligence: 20,
+    },
+};
+
 export function Main() {
     const {
         clientComponents: {},
@@ -17,6 +30,13 @@ export function Main() {
             <div>hello world</div>
             <Button
                 onClick={() => {
+                    const iframe = document.getElementById(
+                        "Cocos Game"
+                    ) as HTMLIFrameElement;
+
+                    const d = JSON.stringify(data);
+                    iframe.contentWindow!.postMessage(d, "*");
+
                     setShow(ShowItem.Cocos, !getShow(ShowItem.Cocos));
                 }}
             >
