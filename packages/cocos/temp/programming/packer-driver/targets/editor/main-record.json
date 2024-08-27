@@ -619,7 +619,7 @@
       ]
     },
     "cce:/internal/x/prerequisite-imports": {
-      "mTimestamp": 5333975.905875027,
+      "mTimestamp": 7494766.607958019,
       "chunkId": "0972a0f13f2921efc845aa10fe551751ad9e7e82",
       "imports": [
         {
@@ -7423,10 +7423,10 @@
     },
     "file:///Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/common/common/common.ts": {
       "mTimestamp": {
-        "mtime": 1724765538654.7285,
+        "mtime": 1724769195686.8093,
         "uuid": "2b47e573-c7c7-42e3-b575-2d401f57aaf2"
       },
-      "chunkId": "2aa876b026850a062bc59027511d79c0bed58496",
+      "chunkId": "b82bf5d517ca9a42f4b44509700eb9dbf0eb8fbd",
       "imports": [
         {
           "value": "cce:/internal/code-quality/cr.mjs",
@@ -11282,10 +11282,10 @@
     },
     "file:///Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/scenes/Fight/Canvas/FightMap.ts": {
       "mTimestamp": {
-        "mtime": 1724766522098.4917,
+        "mtime": 1724768991834.684,
         "uuid": "f3242da7-d22b-46e1-a825-6e29eb1d2484"
       },
-      "chunkId": "164173530283d27502dadadd295dbbe11e3499f4",
+      "chunkId": "e6ad0471545fbf2705837902a27a03c1090cc0cb",
       "imports": [
         {
           "value": "cce:/internal/code-quality/cr.mjs",

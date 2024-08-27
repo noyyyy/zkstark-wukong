@@ -64,8 +64,8 @@
     "file:///Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/scenes/Home/Canvas/HomeBuildings.ts": "./chunks/7b/7b471625b96dc50bed244253959b9ad3d2b592c3.js",
     "file:///Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/scenes/Home/Canvas/HomeUi.ts": "./chunks/ef/ef546c1d6f7e08a9082d072f1efe2b117f4fe495.js",
     "file:///Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/scenes/Hero/Canvas/CharacterDetail/HeroCharacterDetailPorperty.ts": "./chunks/97/97c94c8b74f98b94ece0e30446564db5d8795ed2.js",
-    "file:///Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/common/common/common.ts": "./chunks/2a/2aa876b026850a062bc59027511d79c0bed58496.js",
-    "file:///Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/scenes/Fight/Canvas/FightMap.ts": "./chunks/55/5547ea5d70f8c04cb64b6e52924c9b7113b361a9.js"
+    "file:///Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/scenes/Fight/Canvas/FightMap.ts": "./chunks/84/844435196a23829f8616c8c1a97063b63f843ff6.js",
+    "file:///Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/common/common/common.ts": "./chunks/b8/b82bf5d517ca9a42f4b44509700eb9dbf0eb8fbd.js"
   },
   "scopes": {
     "./chunks/02/02454ce52c24527a6d11792cfd90549c5b418480.js": {
@@ -92,7 +92,7 @@
     },
     "./chunks/c7/c7801b45b9c9c382660a7a0cdbd42513887b5ce1.js": {
       "__unresolved_0": "./chunks/66/66b66e850204b3ee6da410c92dca2f7f34e85947.js",
-      "__unresolved_1": "./chunks/2a/2aa876b026850a062bc59027511d79c0bed58496.js",
+      "__unresolved_1": "./chunks/b8/b82bf5d517ca9a42f4b44509700eb9dbf0eb8fbd.js",
       "__unresolved_10": "./chunks/ad/adc925a209a630a5bcfdc01fb64527c341c508b0.js",
       "__unresolved_11": "./chunks/ae/aea8e33a5cc7b98050aa372acd4c4165eb87cafe.js",
       "__unresolved_12": "./chunks/ba/ba6159470d5ae434763b7ed5ea862ba464459e72.js",
@@ -124,7 +124,7 @@
       "__unresolved_36": "./chunks/29/29c0a0fa8f62f01d6953b6382bdfe434fec9cb72.js",
       "__unresolved_37": "./chunks/eb/eb363953dd3df854cc8c9f7e4ca7f6938fb84bca.js",
       "__unresolved_38": "./chunks/af/afaa7e45bf4b9395074042c7f0853e868af1b98d.js",
-      "__unresolved_39": "./chunks/55/5547ea5d70f8c04cb64b6e52924c9b7113b361a9.js",
+      "__unresolved_39": "./chunks/84/844435196a23829f8616c8c1a97063b63f843ff6.js",
       "__unresolved_4": "./chunks/d3/d39c1ffaf742f187de5df4faf0fb883cda737faf.js",
       "__unresolved_40": "./chunks/61/618addf722c9a7d38ddf563b0bf18739e40b9ac7.js",
       "__unresolved_41": "./chunks/fd/fdd3a16b743917f7c00658f9b3cf2eeb5670c13c.js",
@@ -383,19 +383,19 @@
       "__unresolved_0": "./chunks/3a/3a1fd7b13056478820ebedd306d3446d1aa408cc.js",
       "__unresolved_1": "./chunks/b3/b345ff3fa1cf0aea761f7cd78e7155b6cf4bcb01.js",
       "__unresolved_2": "./chunks/3c/3c7358834054f73d76773dd591e372a4bc41291a.js",
-      "__unresolved_3": "./chunks/55/5547ea5d70f8c04cb64b6e52924c9b7113b361a9.js",
+      "__unresolved_3": "./chunks/84/844435196a23829f8616c8c1a97063b63f843ff6.js",
       "cc": "./chunks/02/02454ce52c24527a6d11792cfd90549c5b418480.js"
     },
-    "./chunks/55/5547ea5d70f8c04cb64b6e52924c9b7113b361a9.js": {
+    "./chunks/84/844435196a23829f8616c8c1a97063b63f843ff6.js": {
       "__unresolved_0": "./chunks/3a/3a1fd7b13056478820ebedd306d3446d1aa408cc.js",
       "__unresolved_1": "./chunks/3c/3c7358834054f73d76773dd591e372a4bc41291a.js",
       "__unresolved_2": "./chunks/b3/b345ff3fa1cf0aea761f7cd78e7155b6cf4bcb01.js",
       "__unresolved_3": "./chunks/fc/fc7b1e9423ca8da6ff731f17986e5494808b3a2c.js",
-      "__unresolved_4": "./chunks/2a/2aa876b026850a062bc59027511d79c0bed58496.js",
+      "__unresolved_4": "./chunks/b8/b82bf5d517ca9a42f4b44509700eb9dbf0eb8fbd.js",
       "__unresolved_5": "./chunks/fb/fb3452d352f9092c95ab1e9564486cf7bf5852a8.js",
       "cc": "./chunks/02/02454ce52c24527a6d11792cfd90549c5b418480.js"
     },
-    "./chunks/2a/2aa876b026850a062bc59027511d79c0bed58496.js": {
+    "./chunks/b8/b82bf5d517ca9a42f4b44509700eb9dbf0eb8fbd.js": {
       "__unresolved_0": "./chunks/3a/3a1fd7b13056478820ebedd306d3446d1aa408cc.js",
       "cc": "./chunks/02/02454ce52c24527a6d11792cfd90549c5b418480.js"
     },

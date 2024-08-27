@@ -8,6 +8,16 @@ import { common } from '../../../common/common/common';
 import { HolPreLoad } from '../../../prefab/HolPreLoad';
 const { ccclass, property } = _decorator;
 
+export interface Strategy {
+    strength: number;
+    agility: number;
+    intelligence: number;
+}
+
+export interface ClientData {
+    challenger: Strategy;
+    defender: Strategy;
+}
 @ccclass('FightMap')
 export class FightMap extends Component {
 
@@ -32,8 +42,30 @@ export class FightMap extends Component {
     protected async start() {
 
         window.addEventListener("message" , async (event) => {
-            const battleData = event.data;
-
+            const battleData = JSON.parse(event.data) as ClientData;
+            if(battleData.challenger == null || battleData.defender == null){
+                return
+            }
+            console.log("battleData", battleData);
+            common.leftCharacter.set({row: 2 , col: 2} , {
+                id: "sunwukong" ,
+                lv: 1 ,
+                star: 1 ,
+                equipment: [],
+                strength: battleData.challenger.strength,
+                agility: battleData.challenger.agility,
+                intelligence: battleData.challenger.intelligence    
+            })
+            common.rightCharacter.set({row: 2 , col: 2} , {
+                id: "sunwukong" ,
+                lv: 1 ,
+                star: 1 ,
+                equipment: [],
+                strength: battleData.defender.strength,
+                agility: battleData.defender.agility,
+                intelligence: battleData.defender.intelligence
+            })
+            console.log( '数据改了')
             await this.battle();
             console.log( '打架了')
         })
