@@ -1,0 +1,90 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "abyss",
+    "atlas": "",
+    "rect": {
+      "x": 1,
+      "y": 1,
+      "width": 62,
+      "height": 62
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 64,
+      "height": 64
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "vertices": {
+      "rawPosition": [
+        -31,
+        -31,
+        0,
+        31,
+        -31,
+        0,
+        -31,
+        31,
+        0,
+        31,
+        31,
+        0
+      ],
+      "indexes": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        3
+      ],
+      "uv": [
+        1,
+        63,
+        63,
+        63,
+        1,
+        1,
+        63,
+        1
+      ],
+      "nuv": [
+        0.015625,
+        0.015625,
+        0.984375,
+        0.015625,
+        0.015625,
+        0.984375,
+        0.984375,
+        0.984375
+      ],
+      "minPos": {
+        "x": -31,
+        "y": -31,
+        "z": 0
+      },
+      "maxPos": {
+        "x": 31,
+        "y": 31,
+        "z": 0
+      }
+    },
+    "texture": "4cac8a86-4cf7-4361-9f51-6898e18f6cb1@6c48a",
+    "packable": true,
+    "pixelsToUnit": 100,
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "meshType": 0
+  }
+}

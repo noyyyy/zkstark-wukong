@@ -1,0 +1,73 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "skeleton",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "yfIGMwwY96S4gBZdM0ndVmt/S7c",
+      "spine": "3.8.75",
+      "x": -120,
+      "y": -120,
+      "width": 240,
+      "height": 240,
+      "images": "C:/Users/jiangjiasheng/Desktop/新建文件夹",
+      "audio": ""
+    },
+    "bones": [
+      {
+        "name": "root"
+      }
+    ],
+    "slots": [
+      {
+        "name": "load magic",
+        "bone": "root",
+        "attachment": "load magic"
+      }
+    ],
+    "skins": [
+      {
+        "name": "default",
+        "attachments": {
+          "load magic": {
+            "load magic": {
+              "width": 240,
+              "height": 240
+            }
+          }
+        }
+      }
+    ],
+    "animations": {
+      "animation": {
+        "bones": {
+          "root": {
+            "rotate": [
+              {},
+              {
+                "time": 0.5,
+                "angle": -90
+              },
+              {
+                "time": 1,
+                "angle": -180
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "textures": [
+    {
+      "__uuid__": "41486ff4-1182-4c25-8f67-df2cfef9510e@6c48a",
+      "__expectedType__": "cc.Texture2D"
+    }
+  ],
+  "textureNames": [
+    "skeleton.png"
+  ],
+  "scale": 1,
+  "_atlasText": "\nskeleton.png\nsize: 256,256\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nload magic\n  rotate: false\n  xy: 2, 2\n  size: 238, 239\n  orig: 240, 240\n  offset: 1, 0\n  index: -1\n"
+}

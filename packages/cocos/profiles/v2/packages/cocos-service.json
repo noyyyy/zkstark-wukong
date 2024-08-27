@@ -1,0 +1,22 @@
+{
+  "__version__": "3.0.7",
+  "builder": {
+    "options": {
+      "web-desktop": {
+        "configID": "fc0929",
+        "services": []
+      }
+    },
+    "taskOptionsMap": {
+      "1724761816780": {
+        "configID": "fc0929",
+        "services": []
+      }
+    },
+    "__version__": "1.3.5"
+  },
+  "builder-options": {
+    "configID": "fc0929",
+    "services": []
+  }
+}
