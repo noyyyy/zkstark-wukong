@@ -22,7 +22,7 @@ impl ResultImpl of ResultTrait {
 
         let winner = match v {
             0 => Side::Invalid,
-            1 => Side::Challender,
+            1 => Side::Challenger,
             2 => Side::Defender,
             _ => Side::Invalid,
         };

@@ -1,9 +1,14 @@
-use game::models::{Example};
+use game::models::{Strategy, GlobalState, CreatedStrategy};
+
+// let (mut position, mut moves) = get!(world, player, (Position, Moves));
+
 
 
 #[dojo::interface]
 trait IHome {
-    fn initialize();
+    // fn initialize();
+    fn create_strategy(Strength: u8, Agility: u8, Intelligence: u8);
+    fn battlefield(challengerID: u8, defenderID: u8, result: bool);
 }
 
 use starknet::{
@@ -25,6 +30,7 @@ mod home {
     use core::poseidon::{PoseidonTrait, poseidon_hash_span};
     use core::hash::{HashStateTrait, HashStateExTrait};
     use super::IHome;
+    use game::models::{Strategy, GlobalState, CreatedStrategy};
 
 
     // impl: implement functions specified in trait
@@ -33,7 +39,49 @@ mod home {
         // intialize all args
         // TODO: set as real args
 
-        fn initialize(world: IWorldDispatcher) {}
+        // fn initialize(world: IWorldDispatcher) {}
+        fn create_strategy(world: IWorldDispatcher, Strength: u8, Agility: u8, Intelligence: u8) {
+            let Player = get_caller_address();
+            let mut counter = get!(world, 0, (GlobalState));
+            let mut attributes = get!(world, counter, (Strategy));
+            let uid = counter.counter;
+            let attribute = Strategy{
+                id : counter.counter,
+                player : Player,
+                ranking: uid,
+                strength : Strength,
+                agility : Agility,
+                intelligence : Intelligence,
+            };
+            set!(world, (attribute));
+            counter.counter += 1;
+            set!(world, (GlobalState{
+                id: 0,
+                counter: counter.counter,
+            }));
+            // Emit the CreateStrategy event:
+            emit!(world, (CreatedStrategy { player: Player, id: counter.counter, strategies: attribute }));
+        }
+        
+        
+        fn battlefield(world: IWorldDispatcher, challengerID: u8, defenderID: u8, result: bool) {
+            let mut challenger_strategy = get!(world, challengerID, (Strategy));
+            let mut defender_strategy = get!(world, defenderID, (Strategy));
+            let strategyOwner = challenger_strategy.player;
+            let currentUser = get_caller_address();
+            if(strategyOwner == currentUser){panic!("Owner of Strategy does not match currentUser address.");};
+            if result {
+                let tmp = challenger_strategy.ranking;
+                challenger_strategy.ranking = defender_strategy.ranking;
+                defender_strategy.ranking = tmp;
+            } else {
+                let tmp = defender_strategy.ranking;
+                defender_strategy.ranking = challenger_strategy.ranking;
+                challenger_strategy.ranking = tmp;
+            }
+            set!(world, (challenger_strategy));
+            set!(world, (defender_strategy));
+        }
     }
 }
 

@@ -18,7 +18,7 @@ pub trait SimulatorTrait {
 
 pub impl SimulatorImpl of SimulatorTrait {
     fn initialize(c: @Strategy, d: @Strategy) -> Simulator {
-        let challenger = EntityTrait::new(c, Side::Challender);
+        let challenger = EntityTrait::new(c, Side::Challenger);
         let defender = EntityTrait::new(d, Side::Defender);
 
         return Simulator { challenger, defender, result: ResultTrait::new() };
@@ -36,7 +36,7 @@ pub impl SimulatorImpl of SimulatorTrait {
                 break;
             }
             if (self.defender.isDead()) {
-                winner = Side::Challender;
+                winner = Side::Challenger;
                 break;
             }
 
