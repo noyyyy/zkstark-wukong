@@ -103,7 +103,13 @@ export class FightMap extends Component {
             // 战斗失败结算
             else this.fightEnd()
             // 战斗演示结束 给客户端发消息 
-            
+            const battleResult = JSON.stringify({
+                result: result,
+                isEnd: true
+            })
+            window.postMessage(battleResult);
+            console.log("Result", result);
+            console.log("IsEnd", true);
         })
         // 设置 100%
         holPreLoad.setProcess(100)
