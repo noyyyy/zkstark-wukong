@@ -1,0 +1,1 @@
+{"version":3,"sources":["file:///Users/ruoyan/Desktop/WorkSpace/LegendOfWarcraftHeroes/assets/script/util/out/log.ts"],"names":["log","ccLog"],"mappings":";;;;;AAEO,WAASA,GAAT,GAA0B;AAC7B,WAAOC,KAAK,CAAC,YAAD,CAAZ;AACH;;iBAFeD,G;;;;;;;AAFDC,MAAAA,K,OAAPD,G","sourcesContent":["import {log as ccLog} from \"cc\"\n\nexport function log(...arg: any) {\n    return ccLog(...arg)\n}"]}

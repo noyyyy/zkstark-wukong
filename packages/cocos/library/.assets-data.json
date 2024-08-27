@@ -1,0 +1,3001 @@
+{
+  "67c280fa-6999-4696-8e37-9665e38a33a4": {
+    "url": "db://assets/resources",
+    "value": {}
+  },
+  "ad633c89-031b-4d54-b636-1509cf0eb897": {
+    "url": "db://assets/scenes",
+    "value": {}
+  },
+  "9e1860c9-d54b-453f-b836-0dd7d6846b8f": {
+    "url": "db://assets/script",
+    "value": {}
+  },
+  "c2d8130e-ce73-4a63-bc99-091c9bad11b9": {
+    "url": "db://assets/resources/effect",
+    "value": {}
+  },
+  "e4d5363b-e6ff-4b11-8628-2c1007f9d5f4": {
+    "url": "db://assets/resources/font",
+    "value": {}
+  },
+  "73eb870f-a102-4a9d-abb1-918dca0de407": {
+    "url": "db://assets/resources/game",
+    "value": {}
+  },
+  "230e9238-f1eb-49dc-b1e7-923da0132867": {
+    "url": "db://assets/resources/image",
+    "value": {}
+  },
+  "da9cdee6-b5d6-42cb-b920-6aa10d4b9306": {
+    "url": "db://assets/resources/prefab",
+    "value": {}
+  },
+  "61431757-113a-49f1-8086-45906ad049b0": {
+    "url": "db://assets/resources/sound",
+    "value": {}
+  },
+  "6efae261-6083-443d-afc5-3612daf4e9db": {
+    "url": "db://assets/script/common",
+    "value": {}
+  },
+  "a7829125-db07-4937-bb77-356253e3f901": {
+    "url": "db://assets/script/game",
+    "value": {}
+  },
+  "b1f9a390-7f17-4c3f-9dcf-27f5d3afd2b8": {
+    "url": "db://assets/script/prefab",
+    "value": {}
+  },
+  "e632e1cc-b628-4f11-a819-ec89de2a458c": {
+    "url": "db://assets/script/scenes",
+    "value": {}
+  },
+  "47e3fb8e-0817-4cad-9f27-b9830f04e154": {
+    "url": "db://assets/script/util",
+    "value": {}
+  },
+  "f532f0ff-67f2-401e-b0f8-7e3bc018e0cb": {
+    "url": "db://assets/resources/effect/fight_result",
+    "value": {}
+  },
+  "051f8e2e-ff8d-42e9-9390-82718ed5c6a9": {
+    "url": "db://assets/resources/effect/gain",
+    "value": {}
+  },
+  "fa75ddc7-f22a-43d1-a09b-ea341d8c622a": {
+    "url": "db://assets/resources/effect/legend_border",
+    "value": {}
+  },
+  "c0b75d71-873b-4a00-bc5d-64f23b6c341b": {
+    "url": "db://assets/resources/effect/levelup",
+    "value": {}
+  },
+  "869ac9a5-b1ea-4e69-90c3-b5ab7e75f901": {
+    "url": "db://assets/resources/effect/load",
+    "value": {}
+  },
+  "b76bcd15-afb8-4603-ae3d-71cdb03b1915": {
+    "url": "db://assets/resources/effect/star",
+    "value": {}
+  },
+  "2fc6ba29-6876-46d6-a42a-4e751801905c": {
+    "url": "db://assets/resources/effect/up_effect",
+    "value": {}
+  },
+  "9c61afef-d4a0-4201-9bf5-f41343c890e4": {
+    "url": "db://assets/resources/game/fight_entity",
+    "value": {}
+  },
+  "543e127b-4dfc-4a2f-9632-a761d976f00a": {
+    "url": "db://assets/resources/image/back",
+    "value": {}
+  },
+  "1a3a0325-b9d4-4aaa-9672-cd8da164b311": {
+    "url": "db://assets/resources/image/building",
+    "value": {}
+  },
+  "54180f8d-909c-4c7e-b6a9-15c3ee029b0d": {
+    "url": "db://assets/resources/image/button",
+    "value": {}
+  },
+  "6991c8f9-862f-42cb-8003-66216a71856b": {
+    "url": "db://assets/resources/image/camp_icon",
+    "value": {}
+  },
+  "df296712-ddf3-4078-a599-3a7583b581a6": {
+    "url": "db://assets/resources/image/fightMap",
+    "value": {}
+  },
+  "494b7149-d10a-47eb-9850-0b7e74489609": {
+    "url": "db://assets/resources/image/number",
+    "value": {}
+  },
+  "2f84beac-b5b6-4167-b943-adf40ec02c02": {
+    "url": "db://assets/resources/image/quality_border",
+    "value": {}
+  },
+  "a3cb3b57-6458-435a-948a-577b2f70b6b2": {
+    "url": "db://assets/resources/image/ui",
+    "value": {}
+  },
+  "c122a158-598b-4985-a069-f1a7c43b21e0": {
+    "url": "db://assets/resources/sound/fight",
+    "value": {}
+  },
+  "72fe6cca-9893-43e1-845d-9406e60c384b": {
+    "url": "db://assets/resources/sound/home",
+    "value": {}
+  },
+  "939ed33b-6197-402d-a650-5109492cc433": {
+    "url": "db://assets/resources/sound/other",
+    "value": {}
+  },
+  "d755c6e9-0a0b-43fb-aaf4-1dee945d480f": {
+    "url": "db://assets/script/common/common",
+    "value": {}
+  },
+  "c2808833-bd55-4645-86bf-6d980f59f1f3": {
+    "url": "db://assets/script/common/config",
+    "value": {}
+  },
+  "994eef2e-7cb5-468d-8e07-5e5a4f4bb84f": {
+    "url": "db://assets/script/game/fight",
+    "value": {}
+  },
+  "1fc7627b-a2c0-4b48-ae6c-fb714a83119b": {
+    "url": "db://assets/script/game/fight_entity",
+    "value": {}
+  },
+  "37e2b0ba-1131-4723-9186-a44e04cdb10f": {
+    "url": "db://assets/script/scenes/Fight",
+    "value": {}
+  },
+  "e0b7ee3f-5573-4f82-8e1f-9fe84fbf24f3": {
+    "url": "db://assets/script/scenes/Hero",
+    "value": {}
+  },
+  "148829f8-4cdb-43ae-9df0-e479870c71a3": {
+    "url": "db://assets/script/scenes/Home",
+    "value": {}
+  },
+  "0a063b45-c06f-4c9c-95d7-c91ac80700f6": {
+    "url": "db://assets/script/scenes/Preload",
+    "value": {}
+  },
+  "a9ae14de-6953-44f2-af59-b50f3c8332f2": {
+    "url": "db://assets/script/util/bundle",
+    "value": {}
+  },
+  "0254eae8-fb19-40ff-8a83-876ac43f6482": {
+    "url": "db://assets/script/util/message",
+    "value": {}
+  },
+  "846ea793-636c-4965-94d0-23333c72a35e": {
+    "url": "db://assets/script/util/out",
+    "value": {}
+  },
+  "ab3990c4-70b4-4e87-984a-3945f182e818": {
+    "url": "db://assets/script/util/resource",
+    "value": {}
+  },
+  "51eaef50-639a-4017-91c1-d2de03cc2be5": {
+    "url": "db://assets/script/util/sundry",
+    "value": {}
+  },
+  "8881901b-c316-409f-b776-8dab7ef59512": {
+    "url": "db://assets/resources/game/fight_entity/buff",
+    "value": {}
+  },
+  "b8acf18d-dc6d-4a2e-967e-82becf0bc57f": {
+    "url": "db://assets/resources/game/fight_entity/character",
+    "value": {}
+  },
+  "331ff710-7d38-4c28-850a-3132828ac163": {
+    "url": "db://assets/resources/image/building/courage",
+    "value": {}
+  },
+  "6092a771-f4ee-44a6-8868-bd180cd2b966": {
+    "url": "db://assets/resources/sound/fight/back",
+    "value": {}
+  },
+  "8d0f7a55-6c23-4e17-8705-6e058ea8f89b": {
+    "url": "db://assets/resources/sound/fight/end",
+    "value": {}
+  },
+  "92baf819-b817-4670-ae36-fd2093d3488c": {
+    "url": "db://assets/script/game/fight/buff",
+    "value": {}
+  },
+  "2e2b226c-7db2-485e-9aba-de38176a5204": {
+    "url": "db://assets/script/game/fight/character",
+    "value": {}
+  },
+  "e4c71a2a-5d08-457e-9f15-45725c5f85f0": {
+    "url": "db://assets/script/game/fight/equipment",
+    "value": {}
+  },
+  "fcee7cfe-9fbb-44e0-98f6-e81a41243108": {
+    "url": "db://assets/script/game/fight/item",
+    "value": {}
+  },
+  "dbd7b277-4b15-4f5e-b346-c67725e8f4f5": {
+    "url": "db://assets/script/game/fight_entity/buff",
+    "value": {}
+  },
+  "bb2b19d9-462d-4846-b35f-3e071b2332dc": {
+    "url": "db://assets/script/game/fight_entity/character",
+    "value": {}
+  },
+  "51605303-ab04-4b65-9ef9-88101ca96839": {
+    "url": "db://assets/script/scenes/Fight/Canvas",
+    "value": {}
+  },
+  "c047928c-9b35-4178-8ffc-748f8cc30d50": {
+    "url": "db://assets/script/scenes/Hero/Canvas",
+    "value": {}
+  },
+  "2908ac8e-a067-4305-8a98-57809afe2de0": {
+    "url": "db://assets/script/scenes/Home/Canvas",
+    "value": {}
+  },
+  "2cb1c630-9d00-44a7-b526-ec484f0e6046": {
+    "url": "db://assets/resources/game/fight_entity/character/fearOfDemons",
+    "value": {}
+  },
+  "65271251-ea82-4986-a96f-87088e608c2d": {
+    "url": "db://assets/resources/game/fight_entity/character/sunwukong",
+    "value": {}
+  },
+  "5e8264bf-a214-49d6-8fe3-68e8ca22e14e": {
+    "url": "db://assets/script/scenes/Hero/Canvas/CharacterDetail",
+    "value": {}
+  },
+  "c3b1bb7d-6e16-43ed-a194-714c60c3a57c": {
+    "url": "db://assets/script/prefab/HolAnimation.ts",
+    "value": {}
+  },
+  "3bfdd41b-5b99-4c14-af4b-1414b720aabf": {
+    "url": "db://assets/script/prefab/HolCharacter.ts",
+    "value": {}
+  },
+  "4326415b-1ab0-48ae-a7af-1e05b1a7c1e3": {
+    "url": "db://assets/script/prefab/HolCharacterAvatar.ts",
+    "value": {}
+  },
+  "abd83847-d9f0-40c1-bbdc-009e6b2852db": {
+    "url": "db://assets/script/prefab/HolCharactersQueue.ts",
+    "value": {}
+  },
+  "a13cf877-6479-4d45-a34c-0ef372129529": {
+    "url": "db://assets/script/prefab/HolConfirmMessage.ts",
+    "value": {}
+  },
+  "9e604af5-a4b5-4ba6-8c35-1ba47e44815b": {
+    "url": "db://assets/script/prefab/HolIntroduceMessage.ts",
+    "value": {}
+  },
+  "58805e7e-f909-4d2f-aee3-ee12d033fc0a": {
+    "url": "db://assets/script/prefab/HolLoadMessage.ts",
+    "value": {}
+  },
+  "90730ac5-7eb0-4048-8fd3-0faffdeacbef": {
+    "url": "db://assets/script/prefab/HolNumber.ts",
+    "value": {}
+  },
+  "8ffbda34-b86c-4e26-a758-940cbbe7869c": {
+    "url": "db://assets/script/prefab/HolNumberAddReduce.ts",
+    "value": {}
+  },
+  "e06588f2-aa2d-4769-bf04-2c63f709bcb4": {
+    "url": "db://assets/script/prefab/HolPreLoad.ts",
+    "value": {}
+  },
+  "3c34d45a-782c-452f-86a2-08c3d61347b1": {
+    "url": "db://assets/script/prefab/HolPromptMessage.ts",
+    "value": {}
+  },
+  "f651bfad-809d-4f02-b642-e720ec238831": {
+    "url": "db://assets/script/prefab/HolUserResource.ts",
+    "value": {}
+  },
+  "4d33dee4-e975-4b4a-833e-c1a167e98913": {
+    "url": "db://assets/script/scenes/CommonCanvas.ts",
+    "value": {}
+  },
+  "c5e5764d-7b0b-43f0-a1c4-ae358f0aa59d": {
+    "url": "db://assets/script/util/util.ts",
+    "value": {}
+  },
+  "2b47e573-c7c7-42e3-b575-2d401f57aaf2": {
+    "url": "db://assets/script/common/common/common.ts",
+    "value": {}
+  },
+  "8739f21b-55f5-4005-bd98-08ffd9471670": {
+    "url": "db://assets/script/common/config/config.ts",
+    "value": {}
+  },
+  "16c1afaf-53b7-450f-96df-432c4ca655e5": {
+    "url": "db://assets/script/game/fight/ActionState.ts",
+    "value": {}
+  },
+  "050ce938-628f-4835-bc96-2ac76a67b6e3": {
+    "url": "db://assets/script/game/fight/BasicMetaState.ts",
+    "value": {}
+  },
+  "4e73f7e9-65c3-4d55-9523-74f7e83adcac": {
+    "url": "db://assets/script/game/fight/BasicState.ts",
+    "value": {}
+  },
+  "5fb03487-b092-4edf-b3dc-f4d3fa284539": {
+    "url": "db://assets/script/game/fight/OnBeTarget.ts",
+    "value": {}
+  },
+  "2b37abef-b8f7-43c1-afbf-1bc2c2a1ea07": {
+    "url": "db://assets/script/game/fight/RoundState.ts",
+    "value": {}
+  },
+  "13e46700-a4f4-4cf8-8fbf-482882194a65": {
+    "url": "db://assets/script/scenes/Fight/FightCanvas.ts",
+    "value": {}
+  },
+  "1e36164f-db11-497a-ba4b-5bc40a1f413e": {
+    "url": "db://assets/script/scenes/Hero/HeroCanvas.ts",
+    "value": {}
+  },
+  "0c45f40a-a448-49c0-82ad-76b6ca3f489e": {
+    "url": "db://assets/script/scenes/Home/HomeCanvas.ts",
+    "value": {}
+  },
+  "5059ba41-8f8f-44c5-a860-7eeea8a977cd": {
+    "url": "db://assets/script/scenes/Preload/PreloadCanvas.ts",
+    "value": {}
+  },
+  "74b1fcc9-6466-4409-8612-779bae9bde44": {
+    "url": "db://assets/script/util/bundle/load.ts",
+    "value": {}
+  },
+  "40d1009e-85b6-4690-b9f2-dedbb8e82733": {
+    "url": "db://assets/script/util/bundle/loadDir.ts",
+    "value": {}
+  },
+  "2792e413-4456-4d47-a938-fba3e057aac3": {
+    "url": "db://assets/script/util/message/confirm.ts",
+    "value": {}
+  },
+  "7813c262-1181-4c1d-970f-2e1f6f3ed0fa": {
+    "url": "db://assets/script/util/message/introduce.ts",
+    "value": {}
+  },
+  "60768089-32cd-410d-95de-7ee04169b3cd": {
+    "url": "db://assets/script/util/message/load.ts",
+    "value": {}
+  },
+  "21c76842-bfdf-48e6-9a9d-0beb989517e2": {
+    "url": "db://assets/script/util/message/prompt.ts",
+    "value": {}
+  },
+  "c604b04e-393c-4cd1-ac6d-0db8732aecce": {
+    "url": "db://assets/script/util/out/error.ts",
+    "value": {}
+  },
+  "80c16e82-2857-4cda-8500-6f1e1be1ed19": {
+    "url": "db://assets/script/util/out/log.ts",
+    "value": {}
+  },
+  "fd71b148-c493-48ea-9e24-41f439315c2e": {
+    "url": "db://assets/script/util/resource/getNodePool.ts",
+    "value": {}
+  },
+  "8d1d6219-7c60-403a-883c-91a8cc35265d": {
+    "url": "db://assets/script/util/sundry/formateNumber.ts",
+    "value": {}
+  },
+  "c50e6e09-5fe2-4458-9617-21d62507d5f1": {
+    "url": "db://assets/script/util/sundry/moveNodeToPosition.ts",
+    "value": {}
+  },
+  "cdf648f7-e170-458b-a0c8-f4c825ad8cd7": {
+    "url": "db://assets/script/game/fight/buff/BuffEnum.ts",
+    "value": {}
+  },
+  "610932f4-8492-4e06-9f53-1bd502783444": {
+    "url": "db://assets/script/game/fight/buff/BuffMetaState.ts",
+    "value": {}
+  },
+  "a264f544-482a-406a-817c-b67322da4719": {
+    "url": "db://assets/script/game/fight/buff/BuffState.ts",
+    "value": {}
+  },
+  "e5ca1135-d66f-400e-80a7-38f4f7696929": {
+    "url": "db://assets/script/game/fight/character/CharacterEnum.ts",
+    "value": {}
+  },
+  "89cbd3e2-0dad-4bcd-a8a5-3bb646fe62de": {
+    "url": "db://assets/script/game/fight/character/CharacterMetaState.ts",
+    "value": {}
+  },
+  "644ca047-33f0-493d-9836-9684a1de87d5": {
+    "url": "db://assets/script/game/fight/character/CharacterState.ts",
+    "value": {}
+  },
+  "a8a6eac0-0819-4d3d-8bf5-8cf84130043b": {
+    "url": "db://assets/script/game/fight/equipment/EquipmentEnum.ts",
+    "value": {}
+  },
+  "1286c283-b5de-477e-9d7f-701d7f700b7c": {
+    "url": "db://assets/script/game/fight/equipment/EquipmentMetaState.ts",
+    "value": {}
+  },
+  "dc76c1a9-7d9b-47ae-b11a-e500b05b87d5": {
+    "url": "db://assets/script/game/fight/equipment/EquipmentState.ts",
+    "value": {}
+  },
+  "300882de-24a4-4994-9597-3c1863ae1d6e": {
+    "url": "db://assets/script/game/fight/item/ItemEnum.ts",
+    "value": {}
+  },
+  "15cf809f-589d-4e4a-8d87-6d854d7fd286": {
+    "url": "db://assets/script/game/fight/item/ItemMetaState.ts",
+    "value": {}
+  },
+  "a057b990-1520-4d86-95cc-a7d247e98560": {
+    "url": "db://assets/script/game/fight/item/ItemState.ts",
+    "value": {}
+  },
+  "3b7b4288-41d3-4e5a-b71f-f4e7c1bd0c26": {
+    "url": "db://assets/script/game/fight_entity/buff/bleed.ts",
+    "value": {}
+  },
+  "e9a61436-4a75-4d1d-bd90-eb7b2135c252": {
+    "url": "db://assets/script/game/fight_entity/buff/fear.ts",
+    "value": {}
+  },
+  "786cedc4-841f-47f7-8ac9-845ac6429513": {
+    "url": "db://assets/script/game/fight_entity/buff/vertigo.ts",
+    "value": {}
+  },
+  "3dc09994-0405-4eab-a15d-c9ab6c321df1": {
+    "url": "db://assets/script/game/fight_entity/character/fearOfDemons.ts",
+    "value": {}
+  },
+  "b5ba8a4d-d656-40d0-ad60-fa005c9c3846": {
+    "url": "db://assets/script/game/fight_entity/character/sunwukong.ts",
+    "value": {}
+  },
+  "ce49870f-6219-4fe2-9e7a-a23a3e0db023": {
+    "url": "db://assets/script/scenes/Fight/Canvas/FightFailure.ts",
+    "value": {}
+  },
+  "f3242da7-d22b-46e1-a825-6e29eb1d2484": {
+    "url": "db://assets/script/scenes/Fight/Canvas/FightMap.ts",
+    "value": {}
+  },
+  "c8187f75-ae04-4f13-8897-58c799f3e988": {
+    "url": "db://assets/script/scenes/Fight/Canvas/FightSuccess.ts",
+    "value": {}
+  },
+  "8b8eaa78-27ec-411e-b27e-a014238f3811": {
+    "url": "db://assets/script/scenes/Fight/Canvas/FightUi.ts",
+    "value": {}
+  },
+  "f94f07a0-02cf-42ff-bd65-5defcef2e08a": {
+    "url": "db://assets/script/scenes/Hero/Canvas/HeroAllHeros.ts",
+    "value": {}
+  },
+  "6ece1982-dd7f-4cac-863a-cf1ad3eeca53": {
+    "url": "db://assets/script/scenes/Hero/Canvas/HeroCharacterDetail.ts",
+    "value": {}
+  },
+  "94827560-9cfd-4791-890f-295d7dabf354": {
+    "url": "db://assets/script/scenes/Hero/Canvas/HeroUi.ts",
+    "value": {}
+  },
+  "da25eb63-2e16-4902-8c09-ead88a321f12": {
+    "url": "db://assets/script/scenes/Home/Canvas/HomeBuildings.ts",
+    "value": {}
+  },
+  "782cff83-cbd7-457f-b3bf-661d6a5d15ea": {
+    "url": "db://assets/script/scenes/Home/Canvas/HomeUi.ts",
+    "value": {}
+  },
+  "93a3c1c6-76ef-43f6-b8e9-b2875e95d85a": {
+    "url": "db://assets/script/scenes/Hero/Canvas/CharacterDetail/HeroCharacterDetailPorperty.ts",
+    "value": {}
+  },
+  "ff2ad814-d744-4b35-bb00-89b8ff612b2e": {
+    "url": "db://assets/scenes/Fight.scene",
+    "value": {
+      "depends": [
+        "ff2ad814-d744-4b35-bb00-89b8ff612b2e",
+        "2f230ddd-490b-4dd1-80ca-1c3163375d75@f9941",
+        "ffced869-cbef-4cb1-adcc-cadb6205f454",
+        "2b76bc1a-1eac-4b03-8ddd-324d09eb715f@f9941",
+        "2b76bc1a-1eac-4b03-8ddd-324d09eb715f@f9941",
+        "ecf9e6fb-c71f-4b13-99c8-af86b7a86731@f9941",
+        "ecf9e6fb-c71f-4b13-99c8-af86b7a86731@f9941",
+        "91b0ccaa-b52f-4a3e-b7ef-c9cdf88c3666@f9941",
+        "053d31aa-950f-4f0d-a3da-caa61c2943ed",
+        "91b0ccaa-b52f-4a3e-b7ef-c9cdf88c3666@f9941",
+        "053d31aa-950f-4f0d-a3da-caa61c2943ed",
+        "64ce3515-a48c-4572-9225-3f38e5b20ead",
+        "8ef0d9e7-a546-41e4-a82a-14f67ff25788@f9941",
+        "ff2ad814-d744-4b35-bb00-89b8ff612b2e"
+      ]
+    }
+  },
+  "1709f9cf-7e10-4a5a-abc6-c460f0c181e4": {
+    "url": "db://assets/scenes/Hero.scene",
+    "value": {
+      "depends": [
+        "1709f9cf-7e10-4a5a-abc6-c460f0c181e4",
+        "91a60f3d-7b91-401f-926e-7852bb8080f4@f9941",
+        "7f93be22-072b-425b-8956-c97817bef89c@f9941",
+        "ee099313-d300-49a1-94f8-cc58001ffa85",
+        "5037b1b7-7739-4809-b5d8-e5a958fb4afc@f9941",
+        "5037b1b7-7739-4809-b5d8-e5a958fb4afc@f9941",
+        "8fe9e071-10a4-4fdf-ae14-00e68ff00f2d@f9941",
+        "57982e63-ce34-40c8-a313-ff607acbf80e@f9941",
+        "57982e63-ce34-40c8-a313-ff607acbf80e@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+        "8fe9e071-10a4-4fdf-ae14-00e68ff00f2d@f9941",
+        "32660099-3f5d-463e-9072-46fb5c6ec849@f9941",
+        "32660099-3f5d-463e-9072-46fb5c6ec849@f9941",
+        "8fe9e071-10a4-4fdf-ae14-00e68ff00f2d@f9941",
+        "f3155999-97f9-4c93-a7d0-80f8e8307820@f9941",
+        "f3155999-97f9-4c93-a7d0-80f8e8307820@f9941",
+        "8fe9e071-10a4-4fdf-ae14-00e68ff00f2d@f9941",
+        "82510376-872e-4b2b-99d6-4cc680025e5c@f9941",
+        "8fe9e071-10a4-4fdf-ae14-00e68ff00f2d@f9941",
+        "564acb60-eb5e-4ac4-8fe5-c8a937217ae9@f9941",
+        "8fe9e071-10a4-4fdf-ae14-00e68ff00f2d@f9941",
+        "4cac8a86-4cf7-4361-9f51-6898e18f6cb1@f9941",
+        "4cac8a86-4cf7-4361-9f51-6898e18f6cb1@f9941",
+        "4cac8a86-4cf7-4361-9f51-6898e18f6cb1@f9941",
+        "d36427f8-14d9-4768-9733-1d2c9345fe93@f9941",
+        "d36427f8-14d9-4768-9733-1d2c9345fe93@f9941",
+        "5037b1b7-7739-4809-b5d8-e5a958fb4afc@f9941",
+        "5037b1b7-7739-4809-b5d8-e5a958fb4afc@f9941",
+        "ffced869-cbef-4cb1-adcc-cadb6205f454",
+        "96d93189-0f6b-44ad-b0f9-e77f7b603ebf",
+        "96d93189-0f6b-44ad-b0f9-e77f7b603ebf",
+        "ffced869-cbef-4cb1-adcc-cadb6205f454",
+        "6b762e1d-a53d-4e35-9e82-c7af105eca8b@f9941",
+        "94f0e954-4914-4af3-a831-180007b3b0ba@f9941",
+        "9513a404-b648-4b86-a260-dd8f9303244a@f9941",
+        "ffced869-cbef-4cb1-adcc-cadb6205f454",
+        "94f0e954-4914-4af3-a831-180007b3b0ba@f9941",
+        "ffced869-cbef-4cb1-adcc-cadb6205f454",
+        "d0794ef3-ab46-4f3d-9629-17efc9130d38@f9941",
+        "94f0e954-4914-4af3-a831-180007b3b0ba@f9941",
+        "ffced869-cbef-4cb1-adcc-cadb6205f454",
+        "cd69ccac-8b70-4021-9fe1-5cca27ec2615@f9941",
+        "94f0e954-4914-4af3-a831-180007b3b0ba@f9941",
+        "0a939bb0-d8bf-493a-93cd-2eee1c2c5ad0@f9941",
+        "0a939bb0-d8bf-493a-93cd-2eee1c2c5ad0@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+        "5f6cb67d-0959-41cd-89e1-b93011670db4@f9941",
+        "ffced869-cbef-4cb1-adcc-cadb6205f454",
+        "e36d3c8f-acf5-4fe4-83bd-ddd73f9f8ff5@f9941",
+        "ffced869-cbef-4cb1-adcc-cadb6205f454",
+        "60ef9450-6b55-48bc-82f6-923e0386faa4@f9941",
+        "60ef9450-6b55-48bc-82f6-923e0386faa4@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+        "34e5cd3b-bf14-454e-9109-b17f444377ef",
+        "bfc0036f-0f19-4a4e-884e-a332c64825ca",
+        "61361d69-eb66-49ac-af6f-02e65d796452",
+        "eeb4fd3b-9e8d-45f1-93b1-bd9f17998e9f@f9941",
+        "05fab88f-5ed3-425f-a5f3-6ee6872a8ef7@f9941",
+        "eeb4fd3b-9e8d-45f1-93b1-bd9f17998e9f@f9941",
+        "05fab88f-5ed3-425f-a5f3-6ee6872a8ef7@f9941",
+        "eeb4fd3b-9e8d-45f1-93b1-bd9f17998e9f@f9941",
+        "05fab88f-5ed3-425f-a5f3-6ee6872a8ef7@f9941",
+        "eeb4fd3b-9e8d-45f1-93b1-bd9f17998e9f@f9941",
+        "05fab88f-5ed3-425f-a5f3-6ee6872a8ef7@f9941",
+        "eeb4fd3b-9e8d-45f1-93b1-bd9f17998e9f@f9941",
+        "05fab88f-5ed3-425f-a5f3-6ee6872a8ef7@f9941",
+        "7f93be22-072b-425b-8956-c97817bef89c@f9941",
+        "f0fb4f44-f5bb-4bff-829c-e314fbaf6580",
+        "1709f9cf-7e10-4a5a-abc6-c460f0c181e4"
+      ]
+    }
+  },
+  "4ac7ba25-3f92-4c83-9444-5c1306dc763d": {
+    "url": "db://assets/scenes/Home.scene",
+    "value": {
+      "depends": [
+        "4ac7ba25-3f92-4c83-9444-5c1306dc763d",
+        "3016e47a-e35e-4a55-ab28-aed709cb7e2f@f9941",
+        "ffced869-cbef-4cb1-adcc-cadb6205f454",
+        "94f0e954-4914-4af3-a831-180007b3b0ba@f9941",
+        "d7c6f065-4332-4f0a-88b1-7339cfe3babd@f9941",
+        "d7c6f065-4332-4f0a-88b1-7339cfe3babd@f9941",
+        "ffced869-cbef-4cb1-adcc-cadb6205f454",
+        "94f0e954-4914-4af3-a831-180007b3b0ba@f9941",
+        "eabfe747-a73b-4517-8787-bace5a6216a4@f9941",
+        "eabfe747-a73b-4517-8787-bace5a6216a4@f9941",
+        "ffced869-cbef-4cb1-adcc-cadb6205f454",
+        "94f0e954-4914-4af3-a831-180007b3b0ba@f9941",
+        "2cfc3b6c-bc0f-4474-ab51-37e103ba3549@f9941",
+        "2cfc3b6c-bc0f-4474-ab51-37e103ba3549@f9941",
+        "1d79ede5-5c1c-4fbc-8c23-ce93c67e0fda",
+        "ffced869-cbef-4cb1-adcc-cadb6205f454",
+        "94f0e954-4914-4af3-a831-180007b3b0ba@f9941",
+        "68ac9b6a-a75e-49d7-8412-3df278cf4f20@f9941",
+        "fbfe10ac-730d-4a54-8918-ded134dfae74@f9941",
+        "813b571c-0cfc-43b5-b17a-74623ee2e3d8@f9941",
+        "813b571c-0cfc-43b5-b17a-74623ee2e3d8@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+        "f0fb4f44-f5bb-4bff-829c-e314fbaf6580",
+        "4ac7ba25-3f92-4c83-9444-5c1306dc763d"
+      ]
+    }
+  },
+  "c2be0a56-ae6b-49dd-92f4-c20e9e9616f7": {
+    "url": "db://assets/scenes/Preload.scene",
+    "value": {
+      "depends": [
+        "c2be0a56-ae6b-49dd-92f4-c20e9e9616f7",
+        "64ce3515-a48c-4572-9225-3f38e5b20ead",
+        "c2be0a56-ae6b-49dd-92f4-c20e9e9616f7"
+      ]
+    }
+  },
+  "4e3ee8b2-cec4-4a88-9815-8c247ad42b21": {
+    "url": "db://assets/resources/font/dfyuanw7-gb2312.ttf",
+    "value": {
+      "depends": []
+    }
+  },
+  "ffced869-cbef-4cb1-adcc-cadb6205f454": {
+    "url": "db://assets/resources/font/font_title.fnt",
+    "value": {
+      "depends": [
+        "e3f9ab8b-3930-4d18-99f6-c2487805aa69@f9941"
+      ]
+    }
+  },
+  "e3f9ab8b-3930-4d18-99f6-c2487805aa69": {
+    "url": "db://assets/resources/font/font_title_0.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "96d93189-0f6b-44ad-b0f9-e77f7b603ebf": {
+    "url": "db://assets/resources/font/hycyj.ttf",
+    "value": {
+      "depends": []
+    }
+  },
+  "aa34b4d8-4e4e-45bf-b229-b8ef0d5b2e1c": {
+    "url": "db://assets/resources/prefab/HolAnimation.prefab",
+    "value": {
+      "depends": []
+    }
+  },
+  "370240cf-4a29-463e-b096-cb4465b68616": {
+    "url": "db://assets/resources/prefab/HolCharacter.prefab",
+    "value": {
+      "depends": [
+        "aa34b4d8-4e4e-45bf-b229-b8ef0d5b2e1c",
+        "e52792b3-ecc9-4bba-8402-9261ab6986d6@f9941",
+        "f5d4d8c5-fad2-4ebe-80dd-621f2cae8471@f9941",
+        "e52792b3-ecc9-4bba-8402-9261ab6986d6@f9941",
+        "f5d4d8c5-fad2-4ebe-80dd-621f2cae8471@f9941",
+        "ffced869-cbef-4cb1-adcc-cadb6205f454",
+        "57982e63-ce34-40c8-a313-ff607acbf80e@f9941"
+      ]
+    }
+  },
+  "8be5ccc4-f256-4632-87fd-6b1b1960736e": {
+    "url": "db://assets/resources/prefab/HolCharacterAvatar.prefab",
+    "value": {
+      "depends": [
+        "9dc87981-6f81-4177-81ec-997d6143367f",
+        "7e87f8ea-975b-429a-8c35-d8cffc94b085@f9941",
+        "57982e63-ce34-40c8-a313-ff607acbf80e@f9941",
+        "ffced869-cbef-4cb1-adcc-cadb6205f454"
+      ]
+    }
+  },
+  "ee099313-d300-49a1-94f8-cc58001ffa85": {
+    "url": "db://assets/resources/prefab/HolCharactersQueue.prefab",
+    "value": {
+      "depends": []
+    }
+  },
+  "6ac01dc1-01e0-4ae9-9f75-dcf3a99fca69": {
+    "url": "db://assets/resources/prefab/HolConfirmMessage.prefab",
+    "value": {
+      "depends": [
+        "609da9bf-ec5a-47ca-b81c-9641a8f6a02a@f9941",
+        "609da9bf-ec5a-47ca-b81c-9641a8f6a02a@f9941",
+        "4e3ee8b2-cec4-4a88-9815-8c247ad42b21",
+        "96d93189-0f6b-44ad-b0f9-e77f7b603ebf",
+        "429eea89-60ba-4996-939c-a025b615a464@f9941",
+        "429eea89-60ba-4996-939c-a025b615a464@f9941",
+        "3c192d70-685a-47da-bd47-8e99da56470e@f9941",
+        "3c192d70-685a-47da-bd47-8e99da56470e@f9941",
+        "158e7e52-3220-4cd7-9694-713e0e6e8278@f9941",
+        "4e3ee8b2-cec4-4a88-9815-8c247ad42b21",
+        "11bdc4b0-64a8-4eb7-a2a7-9fb9e233e977@f9941",
+        "11bdc4b0-64a8-4eb7-a2a7-9fb9e233e977@f9941"
+      ]
+    }
+  },
+  "1d501ad1-2be8-4ec2-87b3-0ca39752bd70": {
+    "url": "db://assets/resources/prefab/HolIntroduceMessage.prefab",
+    "value": {
+      "depends": [
+        "ffced869-cbef-4cb1-adcc-cadb6205f454",
+        "ffced869-cbef-4cb1-adcc-cadb6205f454",
+        "21593729-cdb6-4715-89b5-04e9f4cb49ca@f9941",
+        "21593729-cdb6-4715-89b5-04e9f4cb49ca@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+        "ffced869-cbef-4cb1-adcc-cadb6205f454",
+        "21593729-cdb6-4715-89b5-04e9f4cb49ca@f9941",
+        "21593729-cdb6-4715-89b5-04e9f4cb49ca@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+        "8ef4f97d-92ad-4897-b934-9aab3cca19da@f9941"
+      ]
+    }
+  },
+  "6922b327-722d-4d3d-acbe-95685d4a1085": {
+    "url": "db://assets/resources/prefab/HolLoadMessage.prefab",
+    "value": {
+      "depends": [
+        "91b0ccaa-b52f-4a3e-b7ef-c9cdf88c3666@f9941",
+        "91b0ccaa-b52f-4a3e-b7ef-c9cdf88c3666@f9941",
+        "3f0e75ba-df11-4b92-b543-444a4cd84f2a"
+      ]
+    }
+  },
+  "7c079db3-dc0d-4460-b9dd-68362fac9908": {
+    "url": "db://assets/resources/prefab/HolNumber.prefab",
+    "value": {
+      "depends": []
+    }
+  },
+  "f94c8d60-e8b0-4958-9969-6422f8c32537": {
+    "url": "db://assets/resources/prefab/HolNumberAddReduce.prefab",
+    "value": {
+      "depends": [
+        "53e97bb4-c0f0-4f07-92f9-8ae3384962db@f9941",
+        "a8be7973-1719-4657-b267-8f11f855bd17@f9941",
+        "4e3ee8b2-cec4-4a88-9815-8c247ad42b21",
+        "a8be7973-1719-4657-b267-8f11f855bd17@f9941",
+        "a8be7973-1719-4657-b267-8f11f855bd17@f9941",
+        "439c6602-d848-4d06-a8bf-84df5a349c6f@f9941"
+      ]
+    }
+  },
+  "64ce3515-a48c-4572-9225-3f38e5b20ead": {
+    "url": "db://assets/resources/prefab/HolPreLoad.prefab",
+    "value": {
+      "depends": [
+        "ffced869-cbef-4cb1-adcc-cadb6205f454",
+        "c5de646c-18b9-44b9-a36a-bd547589d637@f9941",
+        "848e01ec-426e-4ba0-95ee-d4112f1e9c0c@f9941",
+        "f0966b3b-5b21-4952-9c6e-9f85dfcc424d@f9941",
+        "8ef0d9e7-a546-41e4-a82a-14f67ff25788@f9941"
+      ]
+    }
+  },
+  "9750b4cb-db6f-4bf4-b7d2-68e2b9428734": {
+    "url": "db://assets/resources/prefab/HolPromptMessage.prefab",
+    "value": {
+      "depends": [
+        "06d47342-02ac-4b95-b5b7-81c0e5dbe9c9@f9941",
+        "4e3ee8b2-cec4-4a88-9815-8c247ad42b21"
+      ]
+    }
+  },
+  "f0fb4f44-f5bb-4bff-829c-e314fbaf6580": {
+    "url": "db://assets/resources/prefab/HolUserResource.prefab",
+    "value": {
+      "depends": [
+        "5f6cb67d-0959-41cd-89e1-b93011670db4@f9941",
+        "ffced869-cbef-4cb1-adcc-cadb6205f454",
+        "37be62af-8e64-44b4-afdb-992476cf4a1d@f9941",
+        "6db43ecf-6dae-454d-91e8-9caad65d4625@f9941",
+        "ffced869-cbef-4cb1-adcc-cadb6205f454",
+        "37be62af-8e64-44b4-afdb-992476cf4a1d@f9941",
+        "e36d3c8f-acf5-4fe4-83bd-ddd73f9f8ff5@f9941",
+        "ffced869-cbef-4cb1-adcc-cadb6205f454",
+        "37be62af-8e64-44b4-afdb-992476cf4a1d@f9941"
+      ]
+    }
+  },
+  "42243db9-20ff-498c-8a91-1603505ec671": {
+    "url": "db://assets/resources/effect/fight_result/uieffect_7.atlas",
+    "value": {
+      "depends": []
+    }
+  },
+  "053d31aa-950f-4f0d-a3da-caa61c2943ed": {
+    "url": "db://assets/resources/effect/fight_result/uieffect_7.json",
+    "value": {
+      "depends": [
+        "306795c1-704a-4247-8666-00d7df74566d@6c48a"
+      ]
+    }
+  },
+  "306795c1-704a-4247-8666-00d7df74566d": {
+    "url": "db://assets/resources/effect/fight_result/uieffect_7.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "351e160a-c9ee-453b-8be3-8a8f6a6f9352": {
+    "url": "db://assets/resources/effect/gain/uieffect_6.atlas",
+    "value": {
+      "depends": []
+    }
+  },
+  "7156d939-6555-44aa-b00b-2c7349fcb64c": {
+    "url": "db://assets/resources/effect/gain/uieffect_6.json",
+    "value": {
+      "depends": [
+        "f58612e5-8db1-44d8-92de-edf4f49a1d84@6c48a"
+      ]
+    }
+  },
+  "f58612e5-8db1-44d8-92de-edf4f49a1d84": {
+    "url": "db://assets/resources/effect/gain/uieffect_6.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "8fb249cc-e0b7-414e-83a9-fed1d67d1ee3": {
+    "url": "db://assets/resources/effect/legend_border/skeleton.atlas",
+    "value": {
+      "depends": []
+    }
+  },
+  "306795c1-704a-4247-8666-00d7df74566d@6c48a": {
+    "url": "db://assets/resources/effect/fight_result/uieffect_7.png@6c48a",
+    "value": {
+      "depends": [
+        "306795c1-704a-4247-8666-00d7df74566d"
+      ]
+    }
+  },
+  "9dc87981-6f81-4177-81ec-997d6143367f": {
+    "url": "db://assets/resources/effect/legend_border/skeleton.json",
+    "value": {
+      "depends": [
+        "43484123-9383-4425-a34a-e1eb22bf89ff@6c48a"
+      ]
+    }
+  },
+  "43484123-9383-4425-a34a-e1eb22bf89ff": {
+    "url": "db://assets/resources/effect/legend_border/skeleton.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "306795c1-704a-4247-8666-00d7df74566d@f9941": {
+    "url": "db://assets/resources/effect/fight_result/uieffect_7.png@f9941",
+    "value": {
+      "depends": [
+        "306795c1-704a-4247-8666-00d7df74566d@6c48a"
+      ]
+    }
+  },
+  "59d28957-9ef5-4d32-b6c9-8aa51bdc0ff6": {
+    "url": "db://assets/resources/effect/levelup/uieffect_9.atlas",
+    "value": {
+      "depends": []
+    }
+  },
+  "bfc0036f-0f19-4a4e-884e-a332c64825ca": {
+    "url": "db://assets/resources/effect/levelup/uieffect_9.json",
+    "value": {
+      "depends": [
+        "3087acef-4e6e-4b54-baad-224a2c312c1b@6c48a"
+      ]
+    }
+  },
+  "3087acef-4e6e-4b54-baad-224a2c312c1b": {
+    "url": "db://assets/resources/effect/levelup/uieffect_9.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "43484123-9383-4425-a34a-e1eb22bf89ff@6c48a": {
+    "url": "db://assets/resources/effect/legend_border/skeleton.png@6c48a",
+    "value": {
+      "depends": [
+        "43484123-9383-4425-a34a-e1eb22bf89ff"
+      ]
+    }
+  },
+  "f45d6ecf-b25d-4ce8-ba92-8dbc6a84601b": {
+    "url": "db://assets/resources/effect/load/skeleton.atlas",
+    "value": {
+      "depends": []
+    }
+  },
+  "43484123-9383-4425-a34a-e1eb22bf89ff@f9941": {
+    "url": "db://assets/resources/effect/legend_border/skeleton.png@f9941",
+    "value": {
+      "depends": [
+        "43484123-9383-4425-a34a-e1eb22bf89ff@6c48a"
+      ]
+    }
+  },
+  "3f0e75ba-df11-4b92-b543-444a4cd84f2a": {
+    "url": "db://assets/resources/effect/load/skeleton.json",
+    "value": {
+      "depends": [
+        "41486ff4-1182-4c25-8f67-df2cfef9510e@6c48a"
+      ]
+    }
+  },
+  "41486ff4-1182-4c25-8f67-df2cfef9510e": {
+    "url": "db://assets/resources/effect/load/skeleton.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "f58612e5-8db1-44d8-92de-edf4f49a1d84@6c48a": {
+    "url": "db://assets/resources/effect/gain/uieffect_6.png@6c48a",
+    "value": {
+      "depends": [
+        "f58612e5-8db1-44d8-92de-edf4f49a1d84"
+      ]
+    }
+  },
+  "c66ca21e-11fb-4586-aa6c-21aaed14ac2e": {
+    "url": "db://assets/resources/effect/star/uieffect_4.atlas",
+    "value": {
+      "depends": []
+    }
+  },
+  "3087acef-4e6e-4b54-baad-224a2c312c1b@6c48a": {
+    "url": "db://assets/resources/effect/levelup/uieffect_9.png@6c48a",
+    "value": {
+      "depends": [
+        "3087acef-4e6e-4b54-baad-224a2c312c1b"
+      ]
+    }
+  },
+  "87117611-8381-4701-bd0a-efbfa67b2cb8": {
+    "url": "db://assets/resources/effect/star/uieffect_4.json",
+    "value": {
+      "depends": [
+        "f4425368-11bb-4541-aeef-1fb1bc27ed6f@6c48a"
+      ]
+    }
+  },
+  "f4425368-11bb-4541-aeef-1fb1bc27ed6f": {
+    "url": "db://assets/resources/effect/star/uieffect_4.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "1b24c2c4-d347-4507-9dce-c358d54a1ebd": {
+    "url": "db://assets/resources/effect/up_effect/uieffect_20.atlas",
+    "value": {
+      "depends": []
+    }
+  },
+  "f4425368-11bb-4541-aeef-1fb1bc27ed6f@6c48a": {
+    "url": "db://assets/resources/effect/star/uieffect_4.png@6c48a",
+    "value": {
+      "depends": [
+        "f4425368-11bb-4541-aeef-1fb1bc27ed6f"
+      ]
+    }
+  },
+  "34e5cd3b-bf14-454e-9109-b17f444377ef": {
+    "url": "db://assets/resources/effect/up_effect/uieffect_20.json",
+    "value": {
+      "depends": [
+        "5feda927-c554-4979-ae9d-d0cfc1abd55c@6c48a"
+      ]
+    }
+  },
+  "f58612e5-8db1-44d8-92de-edf4f49a1d84@f9941": {
+    "url": "db://assets/resources/effect/gain/uieffect_6.png@f9941",
+    "value": {
+      "depends": [
+        "f58612e5-8db1-44d8-92de-edf4f49a1d84@6c48a"
+      ]
+    }
+  },
+  "f4425368-11bb-4541-aeef-1fb1bc27ed6f@f9941": {
+    "url": "db://assets/resources/effect/star/uieffect_4.png@f9941",
+    "value": {
+      "depends": [
+        "f4425368-11bb-4541-aeef-1fb1bc27ed6f@6c48a"
+      ]
+    }
+  },
+  "5feda927-c554-4979-ae9d-d0cfc1abd55c": {
+    "url": "db://assets/resources/effect/up_effect/uieffect_20.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "609da9bf-ec5a-47ca-b81c-9641a8f6a02a": {
+    "url": "db://assets/resources/image/back/001.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "91a60f3d-7b91-401f-926e-7852bb8080f4": {
+    "url": "db://assets/resources/image/back/HeroBackground.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "41486ff4-1182-4c25-8f67-df2cfef9510e@6c48a": {
+    "url": "db://assets/resources/effect/load/skeleton.png@6c48a",
+    "value": {
+      "depends": [
+        "41486ff4-1182-4c25-8f67-df2cfef9510e"
+      ]
+    }
+  },
+  "41486ff4-1182-4c25-8f67-df2cfef9510e@f9941": {
+    "url": "db://assets/resources/effect/load/skeleton.png@f9941",
+    "value": {
+      "depends": [
+        "41486ff4-1182-4c25-8f67-df2cfef9510e@6c48a"
+      ]
+    }
+  },
+  "fbfe10ac-730d-4a54-8918-ded134dfae74": {
+    "url": "db://assets/resources/image/back/HomeBg.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "609da9bf-ec5a-47ca-b81c-9641a8f6a02a@6c48a": {
+    "url": "db://assets/resources/image/back/001.png@6c48a",
+    "value": {
+      "depends": [
+        "609da9bf-ec5a-47ca-b81c-9641a8f6a02a"
+      ]
+    }
+  },
+  "609da9bf-ec5a-47ca-b81c-9641a8f6a02a@f9941": {
+    "url": "db://assets/resources/image/back/001.png@f9941",
+    "value": {
+      "depends": [
+        "609da9bf-ec5a-47ca-b81c-9641a8f6a02a@6c48a"
+      ]
+    }
+  },
+  "7f93be22-072b-425b-8956-c97817bef89c": {
+    "url": "db://assets/resources/image/back/allCharacterBack.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "5feda927-c554-4979-ae9d-d0cfc1abd55c@6c48a": {
+    "url": "db://assets/resources/effect/up_effect/uieffect_20.png@6c48a",
+    "value": {
+      "depends": [
+        "5feda927-c554-4979-ae9d-d0cfc1abd55c"
+      ]
+    }
+  },
+  "91b0ccaa-b52f-4a3e-b7ef-c9cdf88c3666": {
+    "url": "db://assets/resources/image/back/background.jpg",
+    "value": {
+      "depends": []
+    }
+  },
+  "91a60f3d-7b91-401f-926e-7852bb8080f4@6c48a": {
+    "url": "db://assets/resources/image/back/HeroBackground.png@6c48a",
+    "value": {
+      "depends": [
+        "91a60f3d-7b91-401f-926e-7852bb8080f4"
+      ]
+    }
+  },
+  "91b0ccaa-b52f-4a3e-b7ef-c9cdf88c3666@6c48a": {
+    "url": "db://assets/resources/image/back/background.jpg@6c48a",
+    "value": {
+      "depends": [
+        "91b0ccaa-b52f-4a3e-b7ef-c9cdf88c3666"
+      ]
+    }
+  },
+  "fbfe10ac-730d-4a54-8918-ded134dfae74@6c48a": {
+    "url": "db://assets/resources/image/back/HomeBg.png@6c48a",
+    "value": {
+      "depends": [
+        "fbfe10ac-730d-4a54-8918-ded134dfae74"
+      ]
+    }
+  },
+  "91b0ccaa-b52f-4a3e-b7ef-c9cdf88c3666@f9941": {
+    "url": "db://assets/resources/image/back/background.jpg@f9941",
+    "value": {
+      "depends": [
+        "91b0ccaa-b52f-4a3e-b7ef-c9cdf88c3666@6c48a"
+      ]
+    }
+  },
+  "8ef4f97d-92ad-4897-b934-9aab3cca19da": {
+    "url": "db://assets/resources/image/back/introduceBack.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "91a60f3d-7b91-401f-926e-7852bb8080f4@f9941": {
+    "url": "db://assets/resources/image/back/HeroBackground.png@f9941",
+    "value": {
+      "depends": [
+        "91a60f3d-7b91-401f-926e-7852bb8080f4@6c48a"
+      ]
+    }
+  },
+  "a8be7973-1719-4657-b267-8f11f855bd17": {
+    "url": "db://assets/resources/image/back/number.jpg",
+    "value": {
+      "depends": []
+    }
+  },
+  "e3f9ab8b-3930-4d18-99f6-c2487805aa69@6c48a": {
+    "url": "db://assets/resources/font/font_title_0.png@6c48a",
+    "value": {
+      "depends": [
+        "e3f9ab8b-3930-4d18-99f6-c2487805aa69"
+      ]
+    }
+  },
+  "8ef4f97d-92ad-4897-b934-9aab3cca19da@6c48a": {
+    "url": "db://assets/resources/image/back/introduceBack.png@6c48a",
+    "value": {
+      "depends": [
+        "8ef4f97d-92ad-4897-b934-9aab3cca19da"
+      ]
+    }
+  },
+  "a8be7973-1719-4657-b267-8f11f855bd17@6c48a": {
+    "url": "db://assets/resources/image/back/number.jpg@6c48a",
+    "value": {
+      "depends": [
+        "a8be7973-1719-4657-b267-8f11f855bd17"
+      ]
+    }
+  },
+  "8ef4f97d-92ad-4897-b934-9aab3cca19da@f9941": {
+    "url": "db://assets/resources/image/back/introduceBack.png@f9941",
+    "value": {
+      "depends": [
+        "8ef4f97d-92ad-4897-b934-9aab3cca19da@6c48a"
+      ]
+    }
+  },
+  "06d47342-02ac-4b95-b5b7-81c0e5dbe9c9": {
+    "url": "db://assets/resources/image/back/promptBorder.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "a8be7973-1719-4657-b267-8f11f855bd17@f9941": {
+    "url": "db://assets/resources/image/back/number.jpg@f9941",
+    "value": {
+      "depends": [
+        "a8be7973-1719-4657-b267-8f11f855bd17@6c48a"
+      ]
+    }
+  },
+  "3016e47a-e35e-4a55-ab28-aed709cb7e2f": {
+    "url": "db://assets/resources/image/back/sky.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "fbfe10ac-730d-4a54-8918-ded134dfae74@f9941": {
+    "url": "db://assets/resources/image/back/HomeBg.png@f9941",
+    "value": {
+      "depends": [
+        "fbfe10ac-730d-4a54-8918-ded134dfae74@6c48a"
+      ]
+    }
+  },
+  "8ef0d9e7-a546-41e4-a82a-14f67ff25788": {
+    "url": "db://assets/resources/image/back/temp_face_2.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "06d47342-02ac-4b95-b5b7-81c0e5dbe9c9@6c48a": {
+    "url": "db://assets/resources/image/back/promptBorder.png@6c48a",
+    "value": {
+      "depends": [
+        "06d47342-02ac-4b95-b5b7-81c0e5dbe9c9"
+      ]
+    }
+  },
+  "7f93be22-072b-425b-8956-c97817bef89c@6c48a": {
+    "url": "db://assets/resources/image/back/allCharacterBack.png@6c48a",
+    "value": {
+      "depends": [
+        "7f93be22-072b-425b-8956-c97817bef89c"
+      ]
+    }
+  },
+  "06d47342-02ac-4b95-b5b7-81c0e5dbe9c9@f9941": {
+    "url": "db://assets/resources/image/back/promptBorder.png@f9941",
+    "value": {
+      "depends": [
+        "06d47342-02ac-4b95-b5b7-81c0e5dbe9c9@6c48a"
+      ]
+    }
+  },
+  "eabfe747-a73b-4517-8787-bace5a6216a4": {
+    "url": "db://assets/resources/image/building/conquer.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "8ef0d9e7-a546-41e4-a82a-14f67ff25788@6c48a": {
+    "url": "db://assets/resources/image/back/temp_face_2.png@6c48a",
+    "value": {
+      "depends": [
+        "8ef0d9e7-a546-41e4-a82a-14f67ff25788"
+      ]
+    }
+  },
+  "7f93be22-072b-425b-8956-c97817bef89c@f9941": {
+    "url": "db://assets/resources/image/back/allCharacterBack.png@f9941",
+    "value": {
+      "depends": [
+        "7f93be22-072b-425b-8956-c97817bef89c@6c48a"
+      ]
+    }
+  },
+  "2cfc3b6c-bc0f-4474-ab51-37e103ba3549": {
+    "url": "db://assets/resources/image/building/shop.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "8ef0d9e7-a546-41e4-a82a-14f67ff25788@f9941": {
+    "url": "db://assets/resources/image/back/temp_face_2.png@f9941",
+    "value": {
+      "depends": [
+        "8ef0d9e7-a546-41e4-a82a-14f67ff25788@6c48a"
+      ]
+    }
+  },
+  "d7c6f065-4332-4f0a-88b1-7339cfe3babd": {
+    "url": "db://assets/resources/image/building/zhangyi.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "eabfe747-a73b-4517-8787-bace5a6216a4@6c48a": {
+    "url": "db://assets/resources/image/building/conquer.png@6c48a",
+    "value": {
+      "depends": [
+        "eabfe747-a73b-4517-8787-bace5a6216a4"
+      ]
+    }
+  },
+  "eabfe747-a73b-4517-8787-bace5a6216a4@f9941": {
+    "url": "db://assets/resources/image/building/conquer.png@f9941",
+    "value": {
+      "depends": [
+        "eabfe747-a73b-4517-8787-bace5a6216a4@6c48a"
+      ]
+    }
+  },
+  "439c6602-d848-4d06-a8bf-84df5a349c6f": {
+    "url": "db://assets/resources/image/button/add.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "2cfc3b6c-bc0f-4474-ab51-37e103ba3549@6c48a": {
+    "url": "db://assets/resources/image/building/shop.png@6c48a",
+    "value": {
+      "depends": [
+        "2cfc3b6c-bc0f-4474-ab51-37e103ba3549"
+      ]
+    }
+  },
+  "439c6602-d848-4d06-a8bf-84df5a349c6f@6c48a": {
+    "url": "db://assets/resources/image/button/add.png@6c48a",
+    "value": {
+      "depends": [
+        "439c6602-d848-4d06-a8bf-84df5a349c6f"
+      ]
+    }
+  },
+  "3016e47a-e35e-4a55-ab28-aed709cb7e2f@6c48a": {
+    "url": "db://assets/resources/image/back/sky.png@6c48a",
+    "value": {
+      "depends": [
+        "3016e47a-e35e-4a55-ab28-aed709cb7e2f"
+      ]
+    }
+  },
+  "2cfc3b6c-bc0f-4474-ab51-37e103ba3549@f9941": {
+    "url": "db://assets/resources/image/building/shop.png@f9941",
+    "value": {
+      "depends": [
+        "2cfc3b6c-bc0f-4474-ab51-37e103ba3549@6c48a"
+      ]
+    }
+  },
+  "21593729-cdb6-4715-89b5-04e9f4cb49ca": {
+    "url": "db://assets/resources/image/button/button.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "439c6602-d848-4d06-a8bf-84df5a349c6f@f9941": {
+    "url": "db://assets/resources/image/button/add.png@f9941",
+    "value": {
+      "depends": [
+        "439c6602-d848-4d06-a8bf-84df5a349c6f@6c48a"
+      ]
+    }
+  },
+  "3c192d70-685a-47da-bd47-8e99da56470e": {
+    "url": "db://assets/resources/image/button/cancel.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "d7c6f065-4332-4f0a-88b1-7339cfe3babd@6c48a": {
+    "url": "db://assets/resources/image/building/zhangyi.png@6c48a",
+    "value": {
+      "depends": [
+        "d7c6f065-4332-4f0a-88b1-7339cfe3babd"
+      ]
+    }
+  },
+  "d7c6f065-4332-4f0a-88b1-7339cfe3babd@f9941": {
+    "url": "db://assets/resources/image/building/zhangyi.png@f9941",
+    "value": {
+      "depends": [
+        "d7c6f065-4332-4f0a-88b1-7339cfe3babd@6c48a"
+      ]
+    }
+  },
+  "813b571c-0cfc-43b5-b17a-74623ee2e3d8": {
+    "url": "db://assets/resources/image/button/hero.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "21593729-cdb6-4715-89b5-04e9f4cb49ca@6c48a": {
+    "url": "db://assets/resources/image/button/button.png@6c48a",
+    "value": {
+      "depends": [
+        "21593729-cdb6-4715-89b5-04e9f4cb49ca"
+      ]
+    }
+  },
+  "e3f9ab8b-3930-4d18-99f6-c2487805aa69@f9941": {
+    "url": "db://assets/resources/font/font_title_0.png@f9941",
+    "value": {
+      "depends": [
+        "e3f9ab8b-3930-4d18-99f6-c2487805aa69@6c48a"
+      ]
+    }
+  },
+  "60ef9450-6b55-48bc-82f6-923e0386faa4": {
+    "url": "db://assets/resources/image/button/hero_train.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "3c192d70-685a-47da-bd47-8e99da56470e@6c48a": {
+    "url": "db://assets/resources/image/button/cancel.png@6c48a",
+    "value": {
+      "depends": [
+        "3c192d70-685a-47da-bd47-8e99da56470e"
+      ]
+    }
+  },
+  "3016e47a-e35e-4a55-ab28-aed709cb7e2f@f9941": {
+    "url": "db://assets/resources/image/back/sky.png@f9941",
+    "value": {
+      "depends": [
+        "3016e47a-e35e-4a55-ab28-aed709cb7e2f@6c48a"
+      ]
+    }
+  },
+  "ecf9e6fb-c71f-4b13-99c8-af86b7a86731": {
+    "url": "db://assets/resources/image/button/pass.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "21593729-cdb6-4715-89b5-04e9f4cb49ca@f9941": {
+    "url": "db://assets/resources/image/button/button.png@f9941",
+    "value": {
+      "depends": [
+        "21593729-cdb6-4715-89b5-04e9f4cb49ca@6c48a"
+      ]
+    }
+  },
+  "53e97bb4-c0f0-4f07-92f9-8ae3384962db": {
+    "url": "db://assets/resources/image/button/reduce.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "3c192d70-685a-47da-bd47-8e99da56470e@f9941": {
+    "url": "db://assets/resources/image/button/cancel.png@f9941",
+    "value": {
+      "depends": [
+        "3c192d70-685a-47da-bd47-8e99da56470e@6c48a"
+      ]
+    }
+  },
+  "429eea89-60ba-4996-939c-a025b615a464": {
+    "url": "db://assets/resources/image/button/sure.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "813b571c-0cfc-43b5-b17a-74623ee2e3d8@6c48a": {
+    "url": "db://assets/resources/image/button/hero.png@6c48a",
+    "value": {
+      "depends": [
+        "813b571c-0cfc-43b5-b17a-74623ee2e3d8"
+      ]
+    }
+  },
+  "60ef9450-6b55-48bc-82f6-923e0386faa4@6c48a": {
+    "url": "db://assets/resources/image/button/hero_train.png@6c48a",
+    "value": {
+      "depends": [
+        "60ef9450-6b55-48bc-82f6-923e0386faa4"
+      ]
+    }
+  },
+  "ecf9e6fb-c71f-4b13-99c8-af86b7a86731@6c48a": {
+    "url": "db://assets/resources/image/button/pass.png@6c48a",
+    "value": {
+      "depends": [
+        "ecf9e6fb-c71f-4b13-99c8-af86b7a86731"
+      ]
+    }
+  },
+  "60ef9450-6b55-48bc-82f6-923e0386faa4@f9941": {
+    "url": "db://assets/resources/image/button/hero_train.png@f9941",
+    "value": {
+      "depends": [
+        "60ef9450-6b55-48bc-82f6-923e0386faa4@6c48a"
+      ]
+    }
+  },
+  "2b76bc1a-1eac-4b03-8ddd-324d09eb715f": {
+    "url": "db://assets/resources/image/button/time scale.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "ecf9e6fb-c71f-4b13-99c8-af86b7a86731@f9941": {
+    "url": "db://assets/resources/image/button/pass.png@f9941",
+    "value": {
+      "depends": [
+        "ecf9e6fb-c71f-4b13-99c8-af86b7a86731@6c48a"
+      ]
+    }
+  },
+  "5037b1b7-7739-4809-b5d8-e5a958fb4afc": {
+    "url": "db://assets/resources/image/button/ui_001039_1.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "429eea89-60ba-4996-939c-a025b615a464@6c48a": {
+    "url": "db://assets/resources/image/button/sure.png@6c48a",
+    "value": {
+      "depends": [
+        "429eea89-60ba-4996-939c-a025b615a464"
+      ]
+    }
+  },
+  "813b571c-0cfc-43b5-b17a-74623ee2e3d8@f9941": {
+    "url": "db://assets/resources/image/button/hero.png@f9941",
+    "value": {
+      "depends": [
+        "813b571c-0cfc-43b5-b17a-74623ee2e3d8@6c48a"
+      ]
+    }
+  },
+  "4cac8a86-4cf7-4361-9f51-6898e18f6cb1": {
+    "url": "db://assets/resources/image/camp_icon/abyss.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "53e97bb4-c0f0-4f07-92f9-8ae3384962db@6c48a": {
+    "url": "db://assets/resources/image/button/reduce.png@6c48a",
+    "value": {
+      "depends": [
+        "53e97bb4-c0f0-4f07-92f9-8ae3384962db"
+      ]
+    }
+  },
+  "429eea89-60ba-4996-939c-a025b615a464@f9941": {
+    "url": "db://assets/resources/image/button/sure.png@f9941",
+    "value": {
+      "depends": [
+        "429eea89-60ba-4996-939c-a025b615a464@6c48a"
+      ]
+    }
+  },
+  "3c90a78a-769a-42f4-a861-28b9220dcecc": {
+    "url": "db://assets/resources/image/camp_icon/abyssBack.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "2b76bc1a-1eac-4b03-8ddd-324d09eb715f@6c48a": {
+    "url": "db://assets/resources/image/button/time scale.png@6c48a",
+    "value": {
+      "depends": [
+        "2b76bc1a-1eac-4b03-8ddd-324d09eb715f"
+      ]
+    }
+  },
+  "4cac8a86-4cf7-4361-9f51-6898e18f6cb1@6c48a": {
+    "url": "db://assets/resources/image/camp_icon/abyss.png@6c48a",
+    "value": {
+      "depends": [
+        "4cac8a86-4cf7-4361-9f51-6898e18f6cb1"
+      ]
+    }
+  },
+  "2b76bc1a-1eac-4b03-8ddd-324d09eb715f@f9941": {
+    "url": "db://assets/resources/image/button/time scale.png@f9941",
+    "value": {
+      "depends": [
+        "2b76bc1a-1eac-4b03-8ddd-324d09eb715f@6c48a"
+      ]
+    }
+  },
+  "f3155999-97f9-4c93-a7d0-80f8e8307820": {
+    "url": "db://assets/resources/image/camp_icon/dark.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "53e97bb4-c0f0-4f07-92f9-8ae3384962db@f9941": {
+    "url": "db://assets/resources/image/button/reduce.png@f9941",
+    "value": {
+      "depends": [
+        "53e97bb4-c0f0-4f07-92f9-8ae3384962db@6c48a"
+      ]
+    }
+  },
+  "66949444-ad09-45bc-8e90-b7e64cc85725": {
+    "url": "db://assets/resources/image/camp_icon/darkBack.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "4cac8a86-4cf7-4361-9f51-6898e18f6cb1@f9941": {
+    "url": "db://assets/resources/image/camp_icon/abyss.png@f9941",
+    "value": {
+      "depends": [
+        "4cac8a86-4cf7-4361-9f51-6898e18f6cb1@6c48a"
+      ]
+    }
+  },
+  "564acb60-eb5e-4ac4-8fe5-c8a937217ae9": {
+    "url": "db://assets/resources/image/camp_icon/machine.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "5037b1b7-7739-4809-b5d8-e5a958fb4afc@6c48a": {
+    "url": "db://assets/resources/image/button/ui_001039_1.png@6c48a",
+    "value": {
+      "depends": [
+        "5037b1b7-7739-4809-b5d8-e5a958fb4afc"
+      ]
+    }
+  },
+  "f3155999-97f9-4c93-a7d0-80f8e8307820@6c48a": {
+    "url": "db://assets/resources/image/camp_icon/dark.png@6c48a",
+    "value": {
+      "depends": [
+        "f3155999-97f9-4c93-a7d0-80f8e8307820"
+      ]
+    }
+  },
+  "564acb60-eb5e-4ac4-8fe5-c8a937217ae9@6c48a": {
+    "url": "db://assets/resources/image/camp_icon/machine.png@6c48a",
+    "value": {
+      "depends": [
+        "564acb60-eb5e-4ac4-8fe5-c8a937217ae9"
+      ]
+    }
+  },
+  "f3155999-97f9-4c93-a7d0-80f8e8307820@f9941": {
+    "url": "db://assets/resources/image/camp_icon/dark.png@f9941",
+    "value": {
+      "depends": [
+        "f3155999-97f9-4c93-a7d0-80f8e8307820@6c48a"
+      ]
+    }
+  },
+  "69d3914f-be70-4ee2-8439-cc2d0ad571d0": {
+    "url": "db://assets/resources/image/camp_icon/machineBack.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "5037b1b7-7739-4809-b5d8-e5a958fb4afc@f9941": {
+    "url": "db://assets/resources/image/button/ui_001039_1.png@f9941",
+    "value": {
+      "depends": [
+        "5037b1b7-7739-4809-b5d8-e5a958fb4afc@6c48a"
+      ]
+    }
+  },
+  "82510376-872e-4b2b-99d6-4cc680025e5c": {
+    "url": "db://assets/resources/image/camp_icon/nature.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "564acb60-eb5e-4ac4-8fe5-c8a937217ae9@f9941": {
+    "url": "db://assets/resources/image/camp_icon/machine.png@f9941",
+    "value": {
+      "depends": [
+        "564acb60-eb5e-4ac4-8fe5-c8a937217ae9@6c48a"
+      ]
+    }
+  },
+  "7094125b-eb85-49f0-8e88-23dcc7cecc38": {
+    "url": "db://assets/resources/image/camp_icon/natureBack.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "69d3914f-be70-4ee2-8439-cc2d0ad571d0@6c48a": {
+    "url": "db://assets/resources/image/camp_icon/machineBack.png@6c48a",
+    "value": {
+      "depends": [
+        "69d3914f-be70-4ee2-8439-cc2d0ad571d0"
+      ]
+    }
+  },
+  "69d3914f-be70-4ee2-8439-cc2d0ad571d0@f9941": {
+    "url": "db://assets/resources/image/camp_icon/machineBack.png@f9941",
+    "value": {
+      "depends": [
+        "69d3914f-be70-4ee2-8439-cc2d0ad571d0@6c48a"
+      ]
+    }
+  },
+  "57982e63-ce34-40c8-a313-ff607acbf80e": {
+    "url": "db://assets/resources/image/camp_icon/ordinary.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "7094125b-eb85-49f0-8e88-23dcc7cecc38@6c48a": {
+    "url": "db://assets/resources/image/camp_icon/natureBack.png@6c48a",
+    "value": {
+      "depends": [
+        "7094125b-eb85-49f0-8e88-23dcc7cecc38"
+      ]
+    }
+  },
+  "3c90a78a-769a-42f4-a861-28b9220dcecc@6c48a": {
+    "url": "db://assets/resources/image/camp_icon/abyssBack.png@6c48a",
+    "value": {
+      "depends": [
+        "3c90a78a-769a-42f4-a861-28b9220dcecc"
+      ]
+    }
+  },
+  "82510376-872e-4b2b-99d6-4cc680025e5c@6c48a": {
+    "url": "db://assets/resources/image/camp_icon/nature.png@6c48a",
+    "value": {
+      "depends": [
+        "82510376-872e-4b2b-99d6-4cc680025e5c"
+      ]
+    }
+  },
+  "66949444-ad09-45bc-8e90-b7e64cc85725@6c48a": {
+    "url": "db://assets/resources/image/camp_icon/darkBack.png@6c48a",
+    "value": {
+      "depends": [
+        "66949444-ad09-45bc-8e90-b7e64cc85725"
+      ]
+    }
+  },
+  "82510376-872e-4b2b-99d6-4cc680025e5c@f9941": {
+    "url": "db://assets/resources/image/camp_icon/nature.png@f9941",
+    "value": {
+      "depends": [
+        "82510376-872e-4b2b-99d6-4cc680025e5c@6c48a"
+      ]
+    }
+  },
+  "d36427f8-14d9-4768-9733-1d2c9345fe93": {
+    "url": "db://assets/resources/image/camp_icon/ordinaryBack.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "57982e63-ce34-40c8-a313-ff607acbf80e@6c48a": {
+    "url": "db://assets/resources/image/camp_icon/ordinary.png@6c48a",
+    "value": {
+      "depends": [
+        "57982e63-ce34-40c8-a313-ff607acbf80e"
+      ]
+    }
+  },
+  "7094125b-eb85-49f0-8e88-23dcc7cecc38@f9941": {
+    "url": "db://assets/resources/image/camp_icon/natureBack.png@f9941",
+    "value": {
+      "depends": [
+        "7094125b-eb85-49f0-8e88-23dcc7cecc38@6c48a"
+      ]
+    }
+  },
+  "32660099-3f5d-463e-9072-46fb5c6ec849": {
+    "url": "db://assets/resources/image/camp_icon/sacred.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "d36427f8-14d9-4768-9733-1d2c9345fe93@6c48a": {
+    "url": "db://assets/resources/image/camp_icon/ordinaryBack.png@6c48a",
+    "value": {
+      "depends": [
+        "d36427f8-14d9-4768-9733-1d2c9345fe93"
+      ]
+    }
+  },
+  "57982e63-ce34-40c8-a313-ff607acbf80e@f9941": {
+    "url": "db://assets/resources/image/camp_icon/ordinary.png@f9941",
+    "value": {
+      "depends": [
+        "57982e63-ce34-40c8-a313-ff607acbf80e@6c48a"
+      ]
+    }
+  },
+  "68294f58-728d-410d-a68f-76405e8a1c85": {
+    "url": "db://assets/resources/image/camp_icon/sacredBack.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "32660099-3f5d-463e-9072-46fb5c6ec849@6c48a": {
+    "url": "db://assets/resources/image/camp_icon/sacred.png@6c48a",
+    "value": {
+      "depends": [
+        "32660099-3f5d-463e-9072-46fb5c6ec849"
+      ]
+    }
+  },
+  "68294f58-728d-410d-a68f-76405e8a1c85@6c48a": {
+    "url": "db://assets/resources/image/camp_icon/sacredBack.png@6c48a",
+    "value": {
+      "depends": [
+        "68294f58-728d-410d-a68f-76405e8a1c85"
+      ]
+    }
+  },
+  "32660099-3f5d-463e-9072-46fb5c6ec849@f9941": {
+    "url": "db://assets/resources/image/camp_icon/sacred.png@f9941",
+    "value": {
+      "depends": [
+        "32660099-3f5d-463e-9072-46fb5c6ec849@6c48a"
+      ]
+    }
+  },
+  "2f230ddd-490b-4dd1-80ca-1c3163375d75": {
+    "url": "db://assets/resources/image/fightMap/conquer_1.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "3c90a78a-769a-42f4-a861-28b9220dcecc@f9941": {
+    "url": "db://assets/resources/image/camp_icon/abyssBack.png@f9941",
+    "value": {
+      "depends": [
+        "3c90a78a-769a-42f4-a861-28b9220dcecc@6c48a"
+      ]
+    }
+  },
+  "4de07898-ab30-4a96-ab26-5a38d2ea7054": {
+    "url": "db://assets/resources/image/fightMap/map_7.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "66949444-ad09-45bc-8e90-b7e64cc85725@f9941": {
+    "url": "db://assets/resources/image/camp_icon/darkBack.png@f9941",
+    "value": {
+      "depends": [
+        "66949444-ad09-45bc-8e90-b7e64cc85725@6c48a"
+      ]
+    }
+  },
+  "918b3664-9815-4976-be6f-673d51e33401": {
+    "url": "db://assets/resources/image/fightMap/map_8.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "68294f58-728d-410d-a68f-76405e8a1c85@f9941": {
+    "url": "db://assets/resources/image/camp_icon/sacredBack.png@f9941",
+    "value": {
+      "depends": [
+        "68294f58-728d-410d-a68f-76405e8a1c85@6c48a"
+      ]
+    }
+  },
+  "8d5673ca-09aa-42ff-bdef-9cd255388c19": {
+    "url": "db://assets/resources/image/fightMap/map_lhjt.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "d36427f8-14d9-4768-9733-1d2c9345fe93@f9941": {
+    "url": "db://assets/resources/image/camp_icon/ordinaryBack.png@f9941",
+    "value": {
+      "depends": [
+        "d36427f8-14d9-4768-9733-1d2c9345fe93@6c48a"
+      ]
+    }
+  },
+  "5e15bf07-3379-4776-94d0-374346da7a2f": {
+    "url": "db://assets/resources/image/fightMap/map_pvp.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "2f230ddd-490b-4dd1-80ca-1c3163375d75@6c48a": {
+    "url": "db://assets/resources/image/fightMap/conquer_1.png@6c48a",
+    "value": {
+      "depends": [
+        "2f230ddd-490b-4dd1-80ca-1c3163375d75"
+      ]
+    }
+  },
+  "918b3664-9815-4976-be6f-673d51e33401@6c48a": {
+    "url": "db://assets/resources/image/fightMap/map_8.png@6c48a",
+    "value": {
+      "depends": [
+        "918b3664-9815-4976-be6f-673d51e33401"
+      ]
+    }
+  },
+  "8d5673ca-09aa-42ff-bdef-9cd255388c19@6c48a": {
+    "url": "db://assets/resources/image/fightMap/map_lhjt.png@6c48a",
+    "value": {
+      "depends": [
+        "8d5673ca-09aa-42ff-bdef-9cd255388c19"
+      ]
+    }
+  },
+  "4de07898-ab30-4a96-ab26-5a38d2ea7054@6c48a": {
+    "url": "db://assets/resources/image/fightMap/map_7.png@6c48a",
+    "value": {
+      "depends": [
+        "4de07898-ab30-4a96-ab26-5a38d2ea7054"
+      ]
+    }
+  },
+  "2f230ddd-490b-4dd1-80ca-1c3163375d75@f9941": {
+    "url": "db://assets/resources/image/fightMap/conquer_1.png@f9941",
+    "value": {
+      "depends": [
+        "2f230ddd-490b-4dd1-80ca-1c3163375d75@6c48a"
+      ]
+    }
+  },
+  "5e15bf07-3379-4776-94d0-374346da7a2f@6c48a": {
+    "url": "db://assets/resources/image/fightMap/map_pvp.png@6c48a",
+    "value": {
+      "depends": [
+        "5e15bf07-3379-4776-94d0-374346da7a2f"
+      ]
+    }
+  },
+  "a52e31a8-8555-44b6-8c88-c1b2123d3d95": {
+    "url": "db://assets/resources/image/number/+.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "918b3664-9815-4976-be6f-673d51e33401@f9941": {
+    "url": "db://assets/resources/image/fightMap/map_8.png@f9941",
+    "value": {
+      "depends": [
+        "918b3664-9815-4976-be6f-673d51e33401@6c48a"
+      ]
+    }
+  },
+  "82248901-8826-4ec3-9b2b-1273878dc597": {
+    "url": "db://assets/resources/image/number/-.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "8d5673ca-09aa-42ff-bdef-9cd255388c19@f9941": {
+    "url": "db://assets/resources/image/fightMap/map_lhjt.png@f9941",
+    "value": {
+      "depends": [
+        "8d5673ca-09aa-42ff-bdef-9cd255388c19@6c48a"
+      ]
+    }
+  },
+  "ca424f03-946a-43d7-b6ee-d962bbe539d4": {
+    "url": "db://assets/resources/image/number/0.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "4de07898-ab30-4a96-ab26-5a38d2ea7054@f9941": {
+    "url": "db://assets/resources/image/fightMap/map_7.png@f9941",
+    "value": {
+      "depends": [
+        "4de07898-ab30-4a96-ab26-5a38d2ea7054@6c48a"
+      ]
+    }
+  },
+  "172813e9-cd6b-4e67-b74f-73d997813fc6": {
+    "url": "db://assets/resources/image/number/1.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "a52e31a8-8555-44b6-8c88-c1b2123d3d95@6c48a": {
+    "url": "db://assets/resources/image/number/+.png@6c48a",
+    "value": {
+      "depends": [
+        "a52e31a8-8555-44b6-8c88-c1b2123d3d95"
+      ]
+    }
+  },
+  "82248901-8826-4ec3-9b2b-1273878dc597@6c48a": {
+    "url": "db://assets/resources/image/number/-.png@6c48a",
+    "value": {
+      "depends": [
+        "82248901-8826-4ec3-9b2b-1273878dc597"
+      ]
+    }
+  },
+  "ca424f03-946a-43d7-b6ee-d962bbe539d4@6c48a": {
+    "url": "db://assets/resources/image/number/0.png@6c48a",
+    "value": {
+      "depends": [
+        "ca424f03-946a-43d7-b6ee-d962bbe539d4"
+      ]
+    }
+  },
+  "a52e31a8-8555-44b6-8c88-c1b2123d3d95@f9941": {
+    "url": "db://assets/resources/image/number/+.png@f9941",
+    "value": {
+      "depends": [
+        "a52e31a8-8555-44b6-8c88-c1b2123d3d95@6c48a"
+      ]
+    }
+  },
+  "55bacc68-377f-49ba-8fb1-12a45a5367f1": {
+    "url": "db://assets/resources/image/number/2.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "82248901-8826-4ec3-9b2b-1273878dc597@f9941": {
+    "url": "db://assets/resources/image/number/-.png@f9941",
+    "value": {
+      "depends": [
+        "82248901-8826-4ec3-9b2b-1273878dc597@6c48a"
+      ]
+    }
+  },
+  "3aef042f-8917-409a-9647-457958a0a3e5": {
+    "url": "db://assets/resources/image/number/3.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "172813e9-cd6b-4e67-b74f-73d997813fc6@6c48a": {
+    "url": "db://assets/resources/image/number/1.png@6c48a",
+    "value": {
+      "depends": [
+        "172813e9-cd6b-4e67-b74f-73d997813fc6"
+      ]
+    }
+  },
+  "ca424f03-946a-43d7-b6ee-d962bbe539d4@f9941": {
+    "url": "db://assets/resources/image/number/0.png@f9941",
+    "value": {
+      "depends": [
+        "ca424f03-946a-43d7-b6ee-d962bbe539d4@6c48a"
+      ]
+    }
+  },
+  "b78e8feb-8474-43d5-9efe-454326456e01": {
+    "url": "db://assets/resources/image/number/4.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "5e15bf07-3379-4776-94d0-374346da7a2f@f9941": {
+    "url": "db://assets/resources/image/fightMap/map_pvp.png@f9941",
+    "value": {
+      "depends": [
+        "5e15bf07-3379-4776-94d0-374346da7a2f@6c48a"
+      ]
+    }
+  },
+  "4921a733-a008-4da5-ae61-99be77f498c7": {
+    "url": "db://assets/resources/image/number/5.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "172813e9-cd6b-4e67-b74f-73d997813fc6@f9941": {
+    "url": "db://assets/resources/image/number/1.png@f9941",
+    "value": {
+      "depends": [
+        "172813e9-cd6b-4e67-b74f-73d997813fc6@6c48a"
+      ]
+    }
+  },
+  "68d778c0-6d60-42a6-a38f-3018e50fbce4": {
+    "url": "db://assets/resources/image/number/6.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "55bacc68-377f-49ba-8fb1-12a45a5367f1@6c48a": {
+    "url": "db://assets/resources/image/number/2.png@6c48a",
+    "value": {
+      "depends": [
+        "55bacc68-377f-49ba-8fb1-12a45a5367f1"
+      ]
+    }
+  },
+  "55bacc68-377f-49ba-8fb1-12a45a5367f1@f9941": {
+    "url": "db://assets/resources/image/number/2.png@f9941",
+    "value": {
+      "depends": [
+        "55bacc68-377f-49ba-8fb1-12a45a5367f1@6c48a"
+      ]
+    }
+  },
+  "a8d1eda5-0f3a-491b-a578-d8ee436a3a33": {
+    "url": "db://assets/resources/image/number/7.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "3aef042f-8917-409a-9647-457958a0a3e5@6c48a": {
+    "url": "db://assets/resources/image/number/3.png@6c48a",
+    "value": {
+      "depends": [
+        "3aef042f-8917-409a-9647-457958a0a3e5"
+      ]
+    }
+  },
+  "b78e8feb-8474-43d5-9efe-454326456e01@6c48a": {
+    "url": "db://assets/resources/image/number/4.png@6c48a",
+    "value": {
+      "depends": [
+        "b78e8feb-8474-43d5-9efe-454326456e01"
+      ]
+    }
+  },
+  "4921a733-a008-4da5-ae61-99be77f498c7@6c48a": {
+    "url": "db://assets/resources/image/number/5.png@6c48a",
+    "value": {
+      "depends": [
+        "4921a733-a008-4da5-ae61-99be77f498c7"
+      ]
+    }
+  },
+  "68d778c0-6d60-42a6-a38f-3018e50fbce4@6c48a": {
+    "url": "db://assets/resources/image/number/6.png@6c48a",
+    "value": {
+      "depends": [
+        "68d778c0-6d60-42a6-a38f-3018e50fbce4"
+      ]
+    }
+  },
+  "3aef042f-8917-409a-9647-457958a0a3e5@f9941": {
+    "url": "db://assets/resources/image/number/3.png@f9941",
+    "value": {
+      "depends": [
+        "3aef042f-8917-409a-9647-457958a0a3e5@6c48a"
+      ]
+    }
+  },
+  "d39e7f91-1ffd-4608-9712-ed4e0c105d97": {
+    "url": "db://assets/resources/image/number/8.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "b78e8feb-8474-43d5-9efe-454326456e01@f9941": {
+    "url": "db://assets/resources/image/number/4.png@f9941",
+    "value": {
+      "depends": [
+        "b78e8feb-8474-43d5-9efe-454326456e01@6c48a"
+      ]
+    }
+  },
+  "53b23ebe-d675-43e9-b3e7-59a9568fda25": {
+    "url": "db://assets/resources/image/number/9.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "4921a733-a008-4da5-ae61-99be77f498c7@f9941": {
+    "url": "db://assets/resources/image/number/5.png@f9941",
+    "value": {
+      "depends": [
+        "4921a733-a008-4da5-ae61-99be77f498c7@6c48a"
+      ]
+    }
+  },
+  "7e87f8ea-975b-429a-8c35-d8cffc94b085": {
+    "url": "db://assets/resources/image/quality_border/1.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "68d778c0-6d60-42a6-a38f-3018e50fbce4@f9941": {
+    "url": "db://assets/resources/image/number/6.png@f9941",
+    "value": {
+      "depends": [
+        "68d778c0-6d60-42a6-a38f-3018e50fbce4@6c48a"
+      ]
+    }
+  },
+  "cedc3061-08f5-4ad1-ba57-683f6083834b": {
+    "url": "db://assets/resources/image/quality_border/2.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "a8d1eda5-0f3a-491b-a578-d8ee436a3a33@6c48a": {
+    "url": "db://assets/resources/image/number/7.png@6c48a",
+    "value": {
+      "depends": [
+        "a8d1eda5-0f3a-491b-a578-d8ee436a3a33"
+      ]
+    }
+  },
+  "a8d1eda5-0f3a-491b-a578-d8ee436a3a33@f9941": {
+    "url": "db://assets/resources/image/number/7.png@f9941",
+    "value": {
+      "depends": [
+        "a8d1eda5-0f3a-491b-a578-d8ee436a3a33@6c48a"
+      ]
+    }
+  },
+  "9c8fcc40-69df-47ec-8f70-0d1047d1095e": {
+    "url": "db://assets/resources/image/quality_border/3.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "d39e7f91-1ffd-4608-9712-ed4e0c105d97@6c48a": {
+    "url": "db://assets/resources/image/number/8.png@6c48a",
+    "value": {
+      "depends": [
+        "d39e7f91-1ffd-4608-9712-ed4e0c105d97"
+      ]
+    }
+  },
+  "53b23ebe-d675-43e9-b3e7-59a9568fda25@6c48a": {
+    "url": "db://assets/resources/image/number/9.png@6c48a",
+    "value": {
+      "depends": [
+        "53b23ebe-d675-43e9-b3e7-59a9568fda25"
+      ]
+    }
+  },
+  "d39e7f91-1ffd-4608-9712-ed4e0c105d97@f9941": {
+    "url": "db://assets/resources/image/number/8.png@f9941",
+    "value": {
+      "depends": [
+        "d39e7f91-1ffd-4608-9712-ed4e0c105d97@6c48a"
+      ]
+    }
+  },
+  "6e325eb8-77fc-47ac-b552-674799b5203d": {
+    "url": "db://assets/resources/image/quality_border/4.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "53b23ebe-d675-43e9-b3e7-59a9568fda25@f9941": {
+    "url": "db://assets/resources/image/number/9.png@f9941",
+    "value": {
+      "depends": [
+        "53b23ebe-d675-43e9-b3e7-59a9568fda25@6c48a"
+      ]
+    }
+  },
+  "3206ff5f-c181-45fc-ba54-a208c9fffd9b": {
+    "url": "db://assets/resources/image/quality_border/5.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "7e87f8ea-975b-429a-8c35-d8cffc94b085@6c48a": {
+    "url": "db://assets/resources/image/quality_border/1.png@6c48a",
+    "value": {
+      "depends": [
+        "7e87f8ea-975b-429a-8c35-d8cffc94b085"
+      ]
+    }
+  },
+  "cedc3061-08f5-4ad1-ba57-683f6083834b@6c48a": {
+    "url": "db://assets/resources/image/quality_border/2.png@6c48a",
+    "value": {
+      "depends": [
+        "cedc3061-08f5-4ad1-ba57-683f6083834b"
+      ]
+    }
+  },
+  "9c8fcc40-69df-47ec-8f70-0d1047d1095e@6c48a": {
+    "url": "db://assets/resources/image/quality_border/3.png@6c48a",
+    "value": {
+      "depends": [
+        "9c8fcc40-69df-47ec-8f70-0d1047d1095e"
+      ]
+    }
+  },
+  "7e87f8ea-975b-429a-8c35-d8cffc94b085@f9941": {
+    "url": "db://assets/resources/image/quality_border/1.png@f9941",
+    "value": {
+      "depends": [
+        "7e87f8ea-975b-429a-8c35-d8cffc94b085@6c48a"
+      ]
+    }
+  },
+  "cd69ccac-8b70-4021-9fe1-5cca27ec2615": {
+    "url": "db://assets/resources/image/ui/0f31b07587ea473d805630163bca745d.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "cedc3061-08f5-4ad1-ba57-683f6083834b@f9941": {
+    "url": "db://assets/resources/image/quality_border/2.png@f9941",
+    "value": {
+      "depends": [
+        "cedc3061-08f5-4ad1-ba57-683f6083834b@6c48a"
+      ]
+    }
+  },
+  "8fe9e071-10a4-4fdf-ae14-00e68ff00f2d": {
+    "url": "db://assets/resources/image/ui/70c51da122274ce4948e7303dbb0e746.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "6e325eb8-77fc-47ac-b552-674799b5203d@6c48a": {
+    "url": "db://assets/resources/image/quality_border/4.png@6c48a",
+    "value": {
+      "depends": [
+        "6e325eb8-77fc-47ac-b552-674799b5203d"
+      ]
+    }
+  },
+  "3206ff5f-c181-45fc-ba54-a208c9fffd9b@6c48a": {
+    "url": "db://assets/resources/image/quality_border/5.png@6c48a",
+    "value": {
+      "depends": [
+        "3206ff5f-c181-45fc-ba54-a208c9fffd9b"
+      ]
+    }
+  },
+  "9c8fcc40-69df-47ec-8f70-0d1047d1095e@f9941": {
+    "url": "db://assets/resources/image/quality_border/3.png@f9941",
+    "value": {
+      "depends": [
+        "9c8fcc40-69df-47ec-8f70-0d1047d1095e@6c48a"
+      ]
+    }
+  },
+  "f0966b3b-5b21-4952-9c6e-9f85dfcc424d": {
+    "url": "db://assets/resources/image/ui/Face.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "cd69ccac-8b70-4021-9fe1-5cca27ec2615@6c48a": {
+    "url": "db://assets/resources/image/ui/0f31b07587ea473d805630163bca745d.png@6c48a",
+    "value": {
+      "depends": [
+        "cd69ccac-8b70-4021-9fe1-5cca27ec2615"
+      ]
+    }
+  },
+  "6e325eb8-77fc-47ac-b552-674799b5203d@f9941": {
+    "url": "db://assets/resources/image/quality_border/4.png@f9941",
+    "value": {
+      "depends": [
+        "6e325eb8-77fc-47ac-b552-674799b5203d@6c48a"
+      ]
+    }
+  },
+  "94f0e954-4914-4af3-a831-180007b3b0ba": {
+    "url": "db://assets/resources/image/ui/a3154f5697724b42a9382de44169ba57.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "cd69ccac-8b70-4021-9fe1-5cca27ec2615@f9941": {
+    "url": "db://assets/resources/image/ui/0f31b07587ea473d805630163bca745d.png@f9941",
+    "value": {
+      "depends": [
+        "cd69ccac-8b70-4021-9fe1-5cca27ec2615@6c48a"
+      ]
+    }
+  },
+  "9513a404-b648-4b86-a260-dd8f9303244a": {
+    "url": "db://assets/resources/image/ui/b9e816ee8d524e3c9800e6dc6f66a85f.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "3206ff5f-c181-45fc-ba54-a208c9fffd9b@f9941": {
+    "url": "db://assets/resources/image/quality_border/5.png@f9941",
+    "value": {
+      "depends": [
+        "3206ff5f-c181-45fc-ba54-a208c9fffd9b@6c48a"
+      ]
+    }
+  },
+  "d0794ef3-ab46-4f3d-9629-17efc9130d38": {
+    "url": "db://assets/resources/image/ui/c343cbf2718048abb0aa68c32b8a783b.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "8fe9e071-10a4-4fdf-ae14-00e68ff00f2d@6c48a": {
+    "url": "db://assets/resources/image/ui/70c51da122274ce4948e7303dbb0e746.png@6c48a",
+    "value": {
+      "depends": [
+        "8fe9e071-10a4-4fdf-ae14-00e68ff00f2d"
+      ]
+    }
+  },
+  "9513a404-b648-4b86-a260-dd8f9303244a@6c48a": {
+    "url": "db://assets/resources/image/ui/b9e816ee8d524e3c9800e6dc6f66a85f.png@6c48a",
+    "value": {
+      "depends": [
+        "9513a404-b648-4b86-a260-dd8f9303244a"
+      ]
+    }
+  },
+  "94f0e954-4914-4af3-a831-180007b3b0ba@6c48a": {
+    "url": "db://assets/resources/image/ui/a3154f5697724b42a9382de44169ba57.png@6c48a",
+    "value": {
+      "depends": [
+        "94f0e954-4914-4af3-a831-180007b3b0ba"
+      ]
+    }
+  },
+  "9513a404-b648-4b86-a260-dd8f9303244a@f9941": {
+    "url": "db://assets/resources/image/ui/b9e816ee8d524e3c9800e6dc6f66a85f.png@f9941",
+    "value": {
+      "depends": [
+        "9513a404-b648-4b86-a260-dd8f9303244a@6c48a"
+      ]
+    }
+  },
+  "0a939bb0-d8bf-493a-93cd-2eee1c2c5ad0": {
+    "url": "db://assets/resources/image/ui/d37b90214cfa4b488685504fd692b296.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "f0966b3b-5b21-4952-9c6e-9f85dfcc424d@6c48a": {
+    "url": "db://assets/resources/image/ui/Face.png@6c48a",
+    "value": {
+      "depends": [
+        "f0966b3b-5b21-4952-9c6e-9f85dfcc424d"
+      ]
+    }
+  },
+  "8fe9e071-10a4-4fdf-ae14-00e68ff00f2d@f9941": {
+    "url": "db://assets/resources/image/ui/70c51da122274ce4948e7303dbb0e746.png@f9941",
+    "value": {
+      "depends": [
+        "8fe9e071-10a4-4fdf-ae14-00e68ff00f2d@6c48a"
+      ]
+    }
+  },
+  "6b762e1d-a53d-4e35-9e82-c7af105eca8b": {
+    "url": "db://assets/resources/image/ui/d7c1f269eea34473820bf253e7733e83.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "94f0e954-4914-4af3-a831-180007b3b0ba@f9941": {
+    "url": "db://assets/resources/image/ui/a3154f5697724b42a9382de44169ba57.png@f9941",
+    "value": {
+      "depends": [
+        "94f0e954-4914-4af3-a831-180007b3b0ba@6c48a"
+      ]
+    }
+  },
+  "6db43ecf-6dae-454d-91e8-9caad65d4625": {
+    "url": "db://assets/resources/image/ui/diamond.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "d0794ef3-ab46-4f3d-9629-17efc9130d38@6c48a": {
+    "url": "db://assets/resources/image/ui/c343cbf2718048abb0aa68c32b8a783b.png@6c48a",
+    "value": {
+      "depends": [
+        "d0794ef3-ab46-4f3d-9629-17efc9130d38"
+      ]
+    }
+  },
+  "f0966b3b-5b21-4952-9c6e-9f85dfcc424d@f9941": {
+    "url": "db://assets/resources/image/ui/Face.png@f9941",
+    "value": {
+      "depends": [
+        "f0966b3b-5b21-4952-9c6e-9f85dfcc424d@6c48a"
+      ]
+    }
+  },
+  "f5d4d8c5-fad2-4ebe-80dd-621f2cae8471": {
+    "url": "db://assets/resources/image/ui/hp_energy_border  .png",
+    "value": {
+      "depends": []
+    }
+  },
+  "0a939bb0-d8bf-493a-93cd-2eee1c2c5ad0@6c48a": {
+    "url": "db://assets/resources/image/ui/d37b90214cfa4b488685504fd692b296.png@6c48a",
+    "value": {
+      "depends": [
+        "0a939bb0-d8bf-493a-93cd-2eee1c2c5ad0"
+      ]
+    }
+  },
+  "6b762e1d-a53d-4e35-9e82-c7af105eca8b@6c48a": {
+    "url": "db://assets/resources/image/ui/d7c1f269eea34473820bf253e7733e83.png@6c48a",
+    "value": {
+      "depends": [
+        "6b762e1d-a53d-4e35-9e82-c7af105eca8b"
+      ]
+    }
+  },
+  "6db43ecf-6dae-454d-91e8-9caad65d4625@6c48a": {
+    "url": "db://assets/resources/image/ui/diamond.png@6c48a",
+    "value": {
+      "depends": [
+        "6db43ecf-6dae-454d-91e8-9caad65d4625"
+      ]
+    }
+  },
+  "0a939bb0-d8bf-493a-93cd-2eee1c2c5ad0@f9941": {
+    "url": "db://assets/resources/image/ui/d37b90214cfa4b488685504fd692b296.png@f9941",
+    "value": {
+      "depends": [
+        "0a939bb0-d8bf-493a-93cd-2eee1c2c5ad0@6c48a"
+      ]
+    }
+  },
+  "e52792b3-ecc9-4bba-8402-9261ab6986d6": {
+    "url": "db://assets/resources/image/ui/hp_energy_value.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "6b762e1d-a53d-4e35-9e82-c7af105eca8b@f9941": {
+    "url": "db://assets/resources/image/ui/d7c1f269eea34473820bf253e7733e83.png@f9941",
+    "value": {
+      "depends": [
+        "6b762e1d-a53d-4e35-9e82-c7af105eca8b@6c48a"
+      ]
+    }
+  },
+  "37be62af-8e64-44b4-afdb-992476cf4a1d": {
+    "url": "db://assets/resources/image/ui/new_general_atlas.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "f5d4d8c5-fad2-4ebe-80dd-621f2cae8471@6c48a": {
+    "url": "db://assets/resources/image/ui/hp_energy_border  .png@6c48a",
+    "value": {
+      "depends": [
+        "f5d4d8c5-fad2-4ebe-80dd-621f2cae8471"
+      ]
+    }
+  },
+  "6db43ecf-6dae-454d-91e8-9caad65d4625@f9941": {
+    "url": "db://assets/resources/image/ui/diamond.png@f9941",
+    "value": {
+      "depends": [
+        "6db43ecf-6dae-454d-91e8-9caad65d4625@6c48a"
+      ]
+    }
+  },
+  "848e01ec-426e-4ba0-95ee-d4112f1e9c0c": {
+    "url": "db://assets/resources/image/ui/process_border.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "d0794ef3-ab46-4f3d-9629-17efc9130d38@f9941": {
+    "url": "db://assets/resources/image/ui/c343cbf2718048abb0aa68c32b8a783b.png@f9941",
+    "value": {
+      "depends": [
+        "d0794ef3-ab46-4f3d-9629-17efc9130d38@6c48a"
+      ]
+    }
+  },
+  "c5de646c-18b9-44b9-a36a-bd547589d637": {
+    "url": "db://assets/resources/image/ui/process_value.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "f5d4d8c5-fad2-4ebe-80dd-621f2cae8471@f9941": {
+    "url": "db://assets/resources/image/ui/hp_energy_border  .png@f9941",
+    "value": {
+      "depends": [
+        "f5d4d8c5-fad2-4ebe-80dd-621f2cae8471@6c48a"
+      ]
+    }
+  },
+  "5f6cb67d-0959-41cd-89e1-b93011670db4": {
+    "url": "db://assets/resources/image/ui/resource_gold.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "e52792b3-ecc9-4bba-8402-9261ab6986d6@6c48a": {
+    "url": "db://assets/resources/image/ui/hp_energy_value.png@6c48a",
+    "value": {
+      "depends": [
+        "e52792b3-ecc9-4bba-8402-9261ab6986d6"
+      ]
+    }
+  },
+  "e52792b3-ecc9-4bba-8402-9261ab6986d6@f9941": {
+    "url": "db://assets/resources/image/ui/hp_energy_value.png@f9941",
+    "value": {
+      "depends": [
+        "e52792b3-ecc9-4bba-8402-9261ab6986d6@6c48a"
+      ]
+    }
+  },
+  "e36d3c8f-acf5-4fe4-83bd-ddd73f9f8ff5": {
+    "url": "db://assets/resources/image/ui/soul.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "37be62af-8e64-44b4-afdb-992476cf4a1d@6c48a": {
+    "url": "db://assets/resources/image/ui/new_general_atlas.png@6c48a",
+    "value": {
+      "depends": [
+        "37be62af-8e64-44b4-afdb-992476cf4a1d"
+      ]
+    }
+  },
+  "848e01ec-426e-4ba0-95ee-d4112f1e9c0c@6c48a": {
+    "url": "db://assets/resources/image/ui/process_border.png@6c48a",
+    "value": {
+      "depends": [
+        "848e01ec-426e-4ba0-95ee-d4112f1e9c0c"
+      ]
+    }
+  },
+  "c5de646c-18b9-44b9-a36a-bd547589d637@6c48a": {
+    "url": "db://assets/resources/image/ui/process_value.png@6c48a",
+    "value": {
+      "depends": [
+        "c5de646c-18b9-44b9-a36a-bd547589d637"
+      ]
+    }
+  },
+  "c5de646c-18b9-44b9-a36a-bd547589d637@f9941": {
+    "url": "db://assets/resources/image/ui/process_value.png@f9941",
+    "value": {
+      "depends": [
+        "c5de646c-18b9-44b9-a36a-bd547589d637@6c48a"
+      ]
+    }
+  },
+  "05fab88f-5ed3-425f-a5f3-6ee6872a8ef7": {
+    "url": "db://assets/resources/image/ui/talent_frame.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "848e01ec-426e-4ba0-95ee-d4112f1e9c0c@f9941": {
+    "url": "db://assets/resources/image/ui/process_border.png@f9941",
+    "value": {
+      "depends": [
+        "848e01ec-426e-4ba0-95ee-d4112f1e9c0c@6c48a"
+      ]
+    }
+  },
+  "eeb4fd3b-9e8d-45f1-93b1-bd9f17998e9f": {
+    "url": "db://assets/resources/image/ui/teamupgrade_icon.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "37be62af-8e64-44b4-afdb-992476cf4a1d@f9941": {
+    "url": "db://assets/resources/image/ui/new_general_atlas.png@f9941",
+    "value": {
+      "depends": [
+        "37be62af-8e64-44b4-afdb-992476cf4a1d@6c48a"
+      ]
+    }
+  },
+  "1d9110c9-140b-41c7-89ad-730626389559": {
+    "url": "db://assets/resources/sound/home/dengluqu.ogg",
+    "value": {
+      "depends": []
+    }
+  },
+  "5f6cb67d-0959-41cd-89e1-b93011670db4@6c48a": {
+    "url": "db://assets/resources/image/ui/resource_gold.png@6c48a",
+    "value": {
+      "depends": [
+        "5f6cb67d-0959-41cd-89e1-b93011670db4"
+      ]
+    }
+  },
+  "e36d3c8f-acf5-4fe4-83bd-ddd73f9f8ff5@6c48a": {
+    "url": "db://assets/resources/image/ui/soul.png@6c48a",
+    "value": {
+      "depends": [
+        "e36d3c8f-acf5-4fe4-83bd-ddd73f9f8ff5"
+      ]
+    }
+  },
+  "5f6cb67d-0959-41cd-89e1-b93011670db4@f9941": {
+    "url": "db://assets/resources/image/ui/resource_gold.png@f9941",
+    "value": {
+      "depends": [
+        "5f6cb67d-0959-41cd-89e1-b93011670db4@6c48a"
+      ]
+    }
+  },
+  "8c17d0a1-f64e-41d6-be99-fb23679e6d60": {
+    "url": "db://assets/resources/sound/home/music_aogeruima.ogg",
+    "value": {
+      "depends": []
+    }
+  },
+  "848b8e96-2c13-44b6-8883-1819a3b5e3c1": {
+    "url": "db://assets/resources/sound/home/ui_bg.mp3",
+    "value": {
+      "depends": []
+    }
+  },
+  "05fab88f-5ed3-425f-a5f3-6ee6872a8ef7@6c48a": {
+    "url": "db://assets/resources/image/ui/talent_frame.png@6c48a",
+    "value": {
+      "depends": [
+        "05fab88f-5ed3-425f-a5f3-6ee6872a8ef7"
+      ]
+    }
+  },
+  "e36d3c8f-acf5-4fe4-83bd-ddd73f9f8ff5@f9941": {
+    "url": "db://assets/resources/image/ui/soul.png@f9941",
+    "value": {
+      "depends": [
+        "e36d3c8f-acf5-4fe4-83bd-ddd73f9f8ff5@6c48a"
+      ]
+    }
+  },
+  "be5a1f4b-d98a-40e6-a71a-8b50963741f4": {
+    "url": "db://assets/resources/sound/home/ui_bg1.mp3",
+    "value": {
+      "depends": []
+    }
+  },
+  "eeb4fd3b-9e8d-45f1-93b1-bd9f17998e9f@6c48a": {
+    "url": "db://assets/resources/image/ui/teamupgrade_icon.png@6c48a",
+    "value": {
+      "depends": [
+        "eeb4fd3b-9e8d-45f1-93b1-bd9f17998e9f"
+      ]
+    }
+  },
+  "61361d69-eb66-49ac-af6f-02e65d796452": {
+    "url": "db://assets/resources/sound/other/levelUp.mp3",
+    "value": {
+      "depends": []
+    }
+  },
+  "05fab88f-5ed3-425f-a5f3-6ee6872a8ef7@f9941": {
+    "url": "db://assets/resources/image/ui/talent_frame.png@f9941",
+    "value": {
+      "depends": [
+        "05fab88f-5ed3-425f-a5f3-6ee6872a8ef7@6c48a"
+      ]
+    }
+  },
+  "8a93960e-4d26-4386-b360-1e40c03a86ba": {
+    "url": "db://assets/resources/game/fight_entity/buff/bleed.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "eeb4fd3b-9e8d-45f1-93b1-bd9f17998e9f@f9941": {
+    "url": "db://assets/resources/image/ui/teamupgrade_icon.png@f9941",
+    "value": {
+      "depends": [
+        "eeb4fd3b-9e8d-45f1-93b1-bd9f17998e9f@6c48a"
+      ]
+    }
+  },
+  "ce15a915-1741-419a-a483-fefdb8ffc13f": {
+    "url": "db://assets/resources/game/fight_entity/buff/fear.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "7332c167-bfba-4f29-a8ab-b83b25acfb88": {
+    "url": "db://assets/resources/game/fight_entity/buff/vertigo.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "ce15a915-1741-419a-a483-fefdb8ffc13f@6c48a": {
+    "url": "db://assets/resources/game/fight_entity/buff/fear.png@6c48a",
+    "value": {
+      "depends": [
+        "ce15a915-1741-419a-a483-fefdb8ffc13f"
+      ]
+    }
+  },
+  "b0507f1e-a5ed-499b-aa1a-b2d820c4f224": {
+    "url": "db://assets/resources/image/building/courage/skeleton.atlas",
+    "value": {
+      "depends": []
+    }
+  },
+  "8a93960e-4d26-4386-b360-1e40c03a86ba@6c48a": {
+    "url": "db://assets/resources/game/fight_entity/buff/bleed.png@6c48a",
+    "value": {
+      "depends": [
+        "8a93960e-4d26-4386-b360-1e40c03a86ba"
+      ]
+    }
+  },
+  "1d79ede5-5c1c-4fbc-8c23-ce93c67e0fda": {
+    "url": "db://assets/resources/image/building/courage/skeleton.json",
+    "value": {
+      "depends": [
+        "32955b56-ece6-420f-8905-00d287b5f489@6c48a"
+      ]
+    }
+  },
+  "32955b56-ece6-420f-8905-00d287b5f489": {
+    "url": "db://assets/resources/image/building/courage/skeleton.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "bbb04437-3258-4384-8678-f056a896dfe1": {
+    "url": "db://assets/resources/sound/fight/back/arena_bg.mp3",
+    "value": {
+      "depends": []
+    }
+  },
+  "ce15a915-1741-419a-a483-fefdb8ffc13f@f9941": {
+    "url": "db://assets/resources/game/fight_entity/buff/fear.png@f9941",
+    "value": {
+      "depends": [
+        "ce15a915-1741-419a-a483-fefdb8ffc13f@6c48a"
+      ]
+    }
+  },
+  "53406f2e-e65e-4539-b046-30b1c7d2dd68": {
+    "url": "db://assets/resources/sound/fight/back/fight_bg1.mp3",
+    "value": {
+      "depends": []
+    }
+  },
+  "8a93960e-4d26-4386-b360-1e40c03a86ba@f9941": {
+    "url": "db://assets/resources/game/fight_entity/buff/bleed.png@f9941",
+    "value": {
+      "depends": [
+        "8a93960e-4d26-4386-b360-1e40c03a86ba@6c48a"
+      ]
+    }
+  },
+  "d55794ff-895d-46c7-bd88-668a18c8f879": {
+    "url": "db://assets/resources/sound/fight/back/fight_bg2.mp3",
+    "value": {
+      "depends": []
+    }
+  },
+  "32955b56-ece6-420f-8905-00d287b5f489@6c48a": {
+    "url": "db://assets/resources/image/building/courage/skeleton.png@6c48a",
+    "value": {
+      "depends": [
+        "32955b56-ece6-420f-8905-00d287b5f489"
+      ]
+    }
+  },
+  "7332c167-bfba-4f29-a8ab-b83b25acfb88@6c48a": {
+    "url": "db://assets/resources/game/fight_entity/buff/vertigo.png@6c48a",
+    "value": {
+      "depends": [
+        "7332c167-bfba-4f29-a8ab-b83b25acfb88"
+      ]
+    }
+  },
+  "44f74527-159e-4fee-8a48-3d57cd427f62": {
+    "url": "db://assets/resources/sound/fight/end/failure.mp3",
+    "value": {
+      "depends": []
+    }
+  },
+  "7332c167-bfba-4f29-a8ab-b83b25acfb88@f9941": {
+    "url": "db://assets/resources/game/fight_entity/buff/vertigo.png@f9941",
+    "value": {
+      "depends": [
+        "7332c167-bfba-4f29-a8ab-b83b25acfb88@6c48a"
+      ]
+    }
+  },
+  "c9dbd9e1-66ae-44f8-a1df-7a2f06dd4674": {
+    "url": "db://assets/resources/sound/fight/end/success.mp3",
+    "value": {
+      "depends": []
+    }
+  },
+  "a5e1ee3b-17f3-4de0-a88b-1e76704369e1": {
+    "url": "db://assets/resources/game/fight_entity/character/fearOfDemons/DT.atlas",
+    "value": {
+      "depends": []
+    }
+  },
+  "f8ab087c-ef9a-417a-b0f4-4f025a436eee": {
+    "url": "db://assets/resources/game/fight_entity/character/fearOfDemons/DT.json",
+    "value": {
+      "depends": [
+        "842ff091-1ebc-4f62-a855-1c390c09af6b@6c48a"
+      ]
+    }
+  },
+  "842ff091-1ebc-4f62-a855-1c390c09af6b": {
+    "url": "db://assets/resources/game/fight_entity/character/fearOfDemons/DT.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "32955b56-ece6-420f-8905-00d287b5f489@f9941": {
+    "url": "db://assets/resources/image/building/courage/skeleton.png@f9941",
+    "value": {
+      "depends": [
+        "32955b56-ece6-420f-8905-00d287b5f489@6c48a"
+      ]
+    }
+  },
+  "49231a6e-df7e-497f-a72e-220dbb0d95f3": {
+    "url": "db://assets/resources/game/fight_entity/character/fearOfDemons/avatar.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "c3446588-edd8-4c03-8554-6e4d4225e2c7": {
+    "url": "db://assets/resources/game/fight_entity/character/sunwukong/MK.atlas",
+    "value": {
+      "depends": []
+    }
+  },
+  "17528244-08e4-46db-a413-6339a409e8d4": {
+    "url": "db://assets/resources/game/fight_entity/character/sunwukong/MK.json",
+    "value": {
+      "depends": [
+        "aca57ba4-d382-413a-aeec-5f65024bcc01@6c48a"
+      ]
+    }
+  },
+  "aca57ba4-d382-413a-aeec-5f65024bcc01": {
+    "url": "db://assets/resources/game/fight_entity/character/sunwukong/MK.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "2abf7e41-2e90-4c7c-b3fa-3ba7eccb495d": {
+    "url": "db://assets/resources/game/fight_entity/character/sunwukong/avatar.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "49231a6e-df7e-497f-a72e-220dbb0d95f3@6c48a": {
+    "url": "db://assets/resources/game/fight_entity/character/fearOfDemons/avatar.png@6c48a",
+    "value": {
+      "depends": [
+        "49231a6e-df7e-497f-a72e-220dbb0d95f3"
+      ]
+    }
+  },
+  "842ff091-1ebc-4f62-a855-1c390c09af6b@6c48a": {
+    "url": "db://assets/resources/game/fight_entity/character/fearOfDemons/DT.png@6c48a",
+    "value": {
+      "depends": [
+        "842ff091-1ebc-4f62-a855-1c390c09af6b"
+      ]
+    }
+  },
+  "49231a6e-df7e-497f-a72e-220dbb0d95f3@f9941": {
+    "url": "db://assets/resources/game/fight_entity/character/fearOfDemons/avatar.png@f9941",
+    "value": {
+      "depends": [
+        "49231a6e-df7e-497f-a72e-220dbb0d95f3@6c48a"
+      ]
+    }
+  },
+  "aca57ba4-d382-413a-aeec-5f65024bcc01@6c48a": {
+    "url": "db://assets/resources/game/fight_entity/character/sunwukong/MK.png@6c48a",
+    "value": {
+      "depends": [
+        "aca57ba4-d382-413a-aeec-5f65024bcc01"
+      ]
+    }
+  },
+  "2abf7e41-2e90-4c7c-b3fa-3ba7eccb495d@6c48a": {
+    "url": "db://assets/resources/game/fight_entity/character/sunwukong/avatar.png@6c48a",
+    "value": {
+      "depends": [
+        "2abf7e41-2e90-4c7c-b3fa-3ba7eccb495d"
+      ]
+    }
+  },
+  "2abf7e41-2e90-4c7c-b3fa-3ba7eccb495d@f9941": {
+    "url": "db://assets/resources/game/fight_entity/character/sunwukong/avatar.png@f9941",
+    "value": {
+      "depends": [
+        "2abf7e41-2e90-4c7c-b3fa-3ba7eccb495d@6c48a"
+      ]
+    }
+  },
+  "842ff091-1ebc-4f62-a855-1c390c09af6b@f9941": {
+    "url": "db://assets/resources/game/fight_entity/character/fearOfDemons/DT.png@f9941",
+    "value": {
+      "depends": [
+        "842ff091-1ebc-4f62-a855-1c390c09af6b@6c48a"
+      ]
+    }
+  },
+  "aca57ba4-d382-413a-aeec-5f65024bcc01@f9941": {
+    "url": "db://assets/resources/game/fight_entity/character/sunwukong/MK.png@f9941",
+    "value": {
+      "depends": [
+        "aca57ba4-d382-413a-aeec-5f65024bcc01@6c48a"
+      ]
+    }
+  }
+}

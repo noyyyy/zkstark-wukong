@@ -1,0 +1,132 @@
+{
+  "path": {
+    "/Users/ruoyan/Desktop/WorkSpace/LegendOfWarcraftHeroes/assets/resources/effect/fight_result/uieffect_7.json": [
+      "/Users/ruoyan/Desktop/WorkSpace/LegendOfWarcraftHeroes/assets/resources/effect/fight_result/uieffect_7.atlas"
+    ],
+    "/Users/ruoyan/Desktop/WorkSpace/LegendOfWarcraftHeroes/assets/resources/effect/gain/uieffect_6.json": [
+      "/Users/ruoyan/Desktop/WorkSpace/LegendOfWarcraftHeroes/assets/resources/effect/gain/uieffect_6.atlas"
+    ],
+    "/Users/ruoyan/Desktop/WorkSpace/LegendOfWarcraftHeroes/assets/resources/effect/levelup/uieffect_9.json": [
+      "/Users/ruoyan/Desktop/WorkSpace/LegendOfWarcraftHeroes/assets/resources/effect/levelup/uieffect_9.atlas"
+    ],
+    "/Users/ruoyan/Desktop/WorkSpace/LegendOfWarcraftHeroes/assets/resources/effect/legend_border/skeleton.json": [
+      "/Users/ruoyan/Desktop/WorkSpace/LegendOfWarcraftHeroes/assets/resources/effect/legend_border/skeleton.atlas"
+    ],
+    "/Users/ruoyan/Desktop/WorkSpace/LegendOfWarcraftHeroes/assets/resources/effect/star/uieffect_4.json": [
+      "/Users/ruoyan/Desktop/WorkSpace/LegendOfWarcraftHeroes/assets/resources/effect/star/uieffect_4.atlas"
+    ],
+    "/Users/ruoyan/Desktop/WorkSpace/LegendOfWarcraftHeroes/assets/resources/font/font_title.fnt": [
+      "/Users/ruoyan/Desktop/WorkSpace/LegendOfWarcraftHeroes/assets/resources/font/font_title_0.png"
+    ],
+    "/Users/ruoyan/Desktop/WorkSpace/LegendOfWarcraftHeroes/assets/resources/effect/load/skeleton.json": [
+      "/Users/ruoyan/Desktop/WorkSpace/LegendOfWarcraftHeroes/assets/resources/effect/load/skeleton.atlas"
+    ],
+    "/Users/ruoyan/Desktop/WorkSpace/LegendOfWarcraftHeroes/assets/resources/effect/up_effect/uieffect_20.json": [
+      "/Users/ruoyan/Desktop/WorkSpace/LegendOfWarcraftHeroes/assets/resources/effect/up_effect/uieffect_20.atlas"
+    ],
+    "/Users/ruoyan/Desktop/WorkSpace/LegendOfWarcraftHeroes/assets/resources/image/building/courage/skeleton.json": [
+      "/Users/ruoyan/Desktop/WorkSpace/LegendOfWarcraftHeroes/assets/resources/image/building/courage/skeleton.atlas"
+    ],
+    "/Users/ruoyan/Desktop/WorkSpace/LegendOfWarcraftHeroes/assets/resources/game/fight_entity/character/fearOfDemons/DT.json": [
+      "/Users/ruoyan/Desktop/WorkSpace/LegendOfWarcraftHeroes/assets/resources/game/fight_entity/character/fearOfDemons/DT.atlas"
+    ],
+    "/Users/ruoyan/Desktop/WorkSpace/LegendOfWarcraftHeroes/assets/resources/game/fight_entity/character/sunwukong/MK.json": [
+      "/Users/ruoyan/Desktop/WorkSpace/LegendOfWarcraftHeroes/assets/resources/game/fight_entity/character/sunwukong/MK.atlas"
+    ],
+    "/Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect/fight_result/uieffect_7.json": [
+      "/Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect/fight_result/uieffect_7.atlas"
+    ],
+    "/Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect/legend_border/skeleton.json": [
+      "/Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect/legend_border/skeleton.atlas"
+    ],
+    "/Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect/gain/uieffect_6.json": [
+      "/Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect/gain/uieffect_6.atlas"
+    ],
+    "/Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect/star/uieffect_4.json": [
+      "/Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect/star/uieffect_4.atlas"
+    ],
+    "/Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect/load/skeleton.json": [
+      "/Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect/load/skeleton.atlas"
+    ],
+    "/Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/font/font_title.fnt": [
+      "/Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/font/font_title_0.png"
+    ],
+    "/Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect/levelup/uieffect_9.json": [
+      "/Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect/levelup/uieffect_9.atlas"
+    ],
+    "/Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect/up_effect/uieffect_20.json": [
+      "/Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect/up_effect/uieffect_20.atlas"
+    ],
+    "/Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/building/courage/skeleton.json": [
+      "/Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/building/courage/skeleton.atlas"
+    ],
+    "/Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/game/fight_entity/character/fearOfDemons/DT.json": [
+      "/Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/game/fight_entity/character/fearOfDemons/DT.atlas"
+    ],
+    "/Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/game/fight_entity/character/sunwukong/MK.json": [
+      "/Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/game/fight_entity/character/sunwukong/MK.atlas"
+    ]
+  },
+  "uuid": {
+    "/Users/ruoyan/Desktop/WorkSpace/LegendOfWarcraftHeroes/assets/resources/effect/fight_result/uieffect_7.json": [
+      "306795c1-704a-4247-8666-00d7df74566d@6c48a"
+    ],
+    "/Users/ruoyan/Desktop/WorkSpace/LegendOfWarcraftHeroes/assets/resources/effect/gain/uieffect_6.json": [
+      "f58612e5-8db1-44d8-92de-edf4f49a1d84@6c48a"
+    ],
+    "/Users/ruoyan/Desktop/WorkSpace/LegendOfWarcraftHeroes/assets/resources/effect/legend_border/skeleton.json": [
+      "43484123-9383-4425-a34a-e1eb22bf89ff@6c48a"
+    ],
+    "/Users/ruoyan/Desktop/WorkSpace/LegendOfWarcraftHeroes/assets/resources/effect/levelup/uieffect_9.json": [
+      "3087acef-4e6e-4b54-baad-224a2c312c1b@6c48a"
+    ],
+    "/Users/ruoyan/Desktop/WorkSpace/LegendOfWarcraftHeroes/assets/resources/effect/load/skeleton.json": [
+      "41486ff4-1182-4c25-8f67-df2cfef9510e@6c48a"
+    ],
+    "/Users/ruoyan/Desktop/WorkSpace/LegendOfWarcraftHeroes/assets/resources/effect/star/uieffect_4.json": [
+      "f4425368-11bb-4541-aeef-1fb1bc27ed6f@6c48a"
+    ],
+    "/Users/ruoyan/Desktop/WorkSpace/LegendOfWarcraftHeroes/assets/resources/effect/up_effect/uieffect_20.json": [
+      "5feda927-c554-4979-ae9d-d0cfc1abd55c@6c48a"
+    ],
+    "/Users/ruoyan/Desktop/WorkSpace/LegendOfWarcraftHeroes/assets/resources/image/building/courage/skeleton.json": [
+      "32955b56-ece6-420f-8905-00d287b5f489@6c48a"
+    ],
+    "/Users/ruoyan/Desktop/WorkSpace/LegendOfWarcraftHeroes/assets/resources/game/fight_entity/character/fearOfDemons/DT.json": [
+      "842ff091-1ebc-4f62-a855-1c390c09af6b@6c48a"
+    ],
+    "/Users/ruoyan/Desktop/WorkSpace/LegendOfWarcraftHeroes/assets/resources/game/fight_entity/character/sunwukong/MK.json": [
+      "aca57ba4-d382-413a-aeec-5f65024bcc01@6c48a"
+    ],
+    "/Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect/fight_result/uieffect_7.json": [
+      "306795c1-704a-4247-8666-00d7df74566d@6c48a"
+    ],
+    "/Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect/gain/uieffect_6.json": [
+      "f58612e5-8db1-44d8-92de-edf4f49a1d84@6c48a"
+    ],
+    "/Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect/legend_border/skeleton.json": [
+      "43484123-9383-4425-a34a-e1eb22bf89ff@6c48a"
+    ],
+    "/Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect/levelup/uieffect_9.json": [
+      "3087acef-4e6e-4b54-baad-224a2c312c1b@6c48a"
+    ],
+    "/Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect/load/skeleton.json": [
+      "41486ff4-1182-4c25-8f67-df2cfef9510e@6c48a"
+    ],
+    "/Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect/star/uieffect_4.json": [
+      "f4425368-11bb-4541-aeef-1fb1bc27ed6f@6c48a"
+    ],
+    "/Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect/up_effect/uieffect_20.json": [
+      "5feda927-c554-4979-ae9d-d0cfc1abd55c@6c48a"
+    ],
+    "/Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/building/courage/skeleton.json": [
+      "32955b56-ece6-420f-8905-00d287b5f489@6c48a"
+    ],
+    "/Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/game/fight_entity/character/fearOfDemons/DT.json": [
+      "842ff091-1ebc-4f62-a855-1c390c09af6b@6c48a"
+    ],
+    "/Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/game/fight_entity/character/sunwukong/MK.json": [
+      "aca57ba4-d382-413a-aeec-5f65024bcc01@6c48a"
+    ]
+  }
+}
