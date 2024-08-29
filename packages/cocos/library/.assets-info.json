@@ -2128,12 +2128,12 @@
     "time": 1724160735046.4941
   },
   "/Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources": {
-    "time": 1724762987180.2554,
+    "time": 1724832450041.0112,
     "uuid": "67c280fa-6999-4696-8e37-9665e38a33a4",
     "missing": false
   },
   "/Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/scenes": {
-    "time": 1724762987246.6213,
+    "time": 1724917018608.952,
     "uuid": "ad633c89-031b-4d54-b636-1509cf0eb897",
     "missing": false
   },
@@ -2143,7 +2143,7 @@
     "missing": false
   },
   "/Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/effect": {
-    "time": 1724762986989.6482,
+    "time": 1724917690418.2124,
     "uuid": "c2d8130e-ce73-4a63-bc99-091c9bad11b9",
     "missing": false
   },
@@ -2153,12 +2153,12 @@
     "missing": false
   },
   "/Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/game": {
-    "time": 1724762987070.1472,
+    "time": 1724917685411.901,
     "uuid": "73eb870f-a102-4a9d-abb1-918dca0de407",
     "missing": false
   },
   "/Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image": {
-    "time": 1724762987171.085,
+    "time": 1724832455793.2595,
     "uuid": "230e9238-f1eb-49dc-b1e7-923da0132867",
     "missing": false
   },
@@ -2233,7 +2233,7 @@
     "missing": false
   },
   "/Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/game/fight_entity": {
-    "time": 1724762987105.8418,
+    "time": 1724917685409.1946,
     "uuid": "9c61afef-d4a0-4201-9bf5-f41343c890e4",
     "missing": false
   },
@@ -2293,7 +2293,7 @@
     "missing": false
   },
   "/Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/common/common": {
-    "time": 1724768420547.4104,
+    "time": 1724769365015.014,
     "uuid": "d755c6e9-0a0b-43fb-aaf4-1dee945d480f",
     "missing": false
   },
@@ -2413,7 +2413,7 @@
     "missing": false
   },
   "/Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/scenes/Fight/Canvas": {
-    "time": 1724768420547.8389,
+    "time": 1724917018609.7754,
     "uuid": "51605303-ab04-4b65-9ef9-88101ca96839",
     "missing": false
   },
@@ -2513,7 +2513,7 @@
     "missing": false
   },
   "/Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/common/common/common.ts": {
-    "time": 1724769195686.8093,
+    "time": 1724769365015.0977,
     "uuid": "2b47e573-c7c7-42e3-b575-2d401f57aaf2",
     "missing": false
   },
@@ -2713,7 +2713,7 @@
     "missing": false
   },
   "/Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/scenes/Fight/Canvas/FightMap.ts": {
-    "time": 1724768991834.684,
+    "time": 1724917018609.9324,
     "uuid": "f3242da7-d22b-46e1-a825-6e29eb1d2484",
     "missing": false
   },
@@ -3136,7 +3136,7 @@
     "time": 1724762987263.1196
   },
   "/Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/scenes/Fight.scene": {
-    "time": 1724762987245.1675,
+    "time": 1724917358384.3047,
     "uuid": "ff2ad814-d744-4b35-bb00-89b8ff612b2e",
     "missing": false
   },

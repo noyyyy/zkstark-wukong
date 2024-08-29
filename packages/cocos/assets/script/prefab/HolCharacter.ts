@@ -203,20 +203,20 @@ export class HolCharacter extends Component {
         )
         targetState.buff = []
         // 10%数据波动
-        targetState.cure += math.randomRange(-0.1 , 0.1) * targetState.cure
-        targetState.hurt += math.randomRange(-0.1 , 0.1) * targetState.hurt
+        // targetState.cure += math.randomRange(-0.1 , 0.1) * targetState.cure
+        // targetState.hurt += math.randomRange(-0.1 , 0.1) * targetState.hurt
         // 护甲穿透生效
-        const pierceRate = 1 - targte.state.pierce / (targte.state.pierce + 1000)
-        const reduceInjury = (targte.state.defence * pierceRate) / (targte.state.defence * pierceRate + 700)
-        targetState.hurt -= targetState.hurt * reduceInjury
+        // const pierceRate = 1 - targte.state.pierce / (targte.state.pierce + 1000)
+        // const reduceInjury = (targte.state.defence * pierceRate) / (targte.state.defence * pierceRate + 700)
+        // targetState.hurt -= targetState.hurt * reduceInjury
         targetState.hurt = Math.max(targetState.hurt - targte.state.defence * 0.1 , 1)
         // 免伤
-        targetState.hurt *= 1 - targte.state.FreeInjuryPercent
+        // targetState.hurt *= 1 - targte.state.FreeInjuryPercent
         // 暴击概率
-        if (this.state.critical > math.randomRange(0 , 100)) {
-            targetState.critical = true
-            targetState.hurt *= 1.8
-        }
+        // if (this.state.critical > math.randomRange(0 , 100)) {
+        //     targetState.critical = true
+        //     targetState.hurt *= 1.8
+        // }
         // 概率格挡
         // if (targte.state.block > Math.random() * 100) {
         //     targetState.block = true

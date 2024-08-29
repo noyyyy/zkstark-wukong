@@ -64,8 +64,8 @@
     "file:///Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/scenes/Home/Canvas/HomeBuildings.ts": "./chunks/7b/7b471625b96dc50bed244253959b9ad3d2b592c3.js",
     "file:///Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/scenes/Home/Canvas/HomeUi.ts": "./chunks/ef/ef546c1d6f7e08a9082d072f1efe2b117f4fe495.js",
     "file:///Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/scenes/Hero/Canvas/CharacterDetail/HeroCharacterDetailPorperty.ts": "./chunks/97/97c94c8b74f98b94ece0e30446564db5d8795ed2.js",
-    "file:///Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/scenes/Fight/Canvas/FightMap.ts": "./chunks/84/844435196a23829f8616c8c1a97063b63f843ff6.js",
-    "file:///Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/common/common/common.ts": "./chunks/b8/b82bf5d517ca9a42f4b44509700eb9dbf0eb8fbd.js"
+    "file:///Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/common/common/common.ts": "./chunks/b8/b82bf5d517ca9a42f4b44509700eb9dbf0eb8fbd.js",
+    "file:///Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/scenes/Fight/Canvas/FightMap.ts": "./chunks/a9/a9debe03b8ecc17f7f7566f3028ac718dabcd783.js"
   },
   "scopes": {
     "./chunks/02/02454ce52c24527a6d11792cfd90549c5b418480.js": {
@@ -124,7 +124,7 @@
       "__unresolved_36": "./chunks/29/29c0a0fa8f62f01d6953b6382bdfe434fec9cb72.js",
       "__unresolved_37": "./chunks/eb/eb363953dd3df854cc8c9f7e4ca7f6938fb84bca.js",
       "__unresolved_38": "./chunks/af/afaa7e45bf4b9395074042c7f0853e868af1b98d.js",
-      "__unresolved_39": "./chunks/84/844435196a23829f8616c8c1a97063b63f843ff6.js",
+      "__unresolved_39": "./chunks/a9/a9debe03b8ecc17f7f7566f3028ac718dabcd783.js",
       "__unresolved_4": "./chunks/d3/d39c1ffaf742f187de5df4faf0fb883cda737faf.js",
       "__unresolved_40": "./chunks/61/618addf722c9a7d38ddf563b0bf18739e40b9ac7.js",
       "__unresolved_41": "./chunks/fd/fdd3a16b743917f7c00658f9b3cf2eeb5670c13c.js",
@@ -383,10 +383,10 @@
       "__unresolved_0": "./chunks/3a/3a1fd7b13056478820ebedd306d3446d1aa408cc.js",
       "__unresolved_1": "./chunks/b3/b345ff3fa1cf0aea761f7cd78e7155b6cf4bcb01.js",
       "__unresolved_2": "./chunks/3c/3c7358834054f73d76773dd591e372a4bc41291a.js",
-      "__unresolved_3": "./chunks/84/844435196a23829f8616c8c1a97063b63f843ff6.js",
+      "__unresolved_3": "./chunks/a9/a9debe03b8ecc17f7f7566f3028ac718dabcd783.js",
       "cc": "./chunks/02/02454ce52c24527a6d11792cfd90549c5b418480.js"
     },
-    "./chunks/84/844435196a23829f8616c8c1a97063b63f843ff6.js": {
+    "./chunks/a9/a9debe03b8ecc17f7f7566f3028ac718dabcd783.js": {
       "__unresolved_0": "./chunks/3a/3a1fd7b13056478820ebedd306d3446d1aa408cc.js",
       "__unresolved_1": "./chunks/3c/3c7358834054f73d76773dd591e372a4bc41291a.js",
       "__unresolved_2": "./chunks/b3/b345ff3fa1cf0aea761f7cd78e7155b6cf4bcb01.js",

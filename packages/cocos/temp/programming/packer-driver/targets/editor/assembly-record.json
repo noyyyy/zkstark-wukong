@@ -3447,7 +3447,7 @@
         "__unresolved_3": {
           "resolved": {
             "type": "chunk",
-            "id": "e6ad0471545fbf2705837902a27a03c1090cc0cb"
+            "id": "0b6e2083e356ff7a26a1de5f6b7d8c91d7fcead9"
           },
           "messages": []
         },
@@ -3833,47 +3833,12 @@
       },
       "timestamp": 1724763259874
     },
-    "e6ad0471545fbf2705837902a27a03c1090cc0cb": {
+    "b82bf5d517ca9a42f4b44509700eb9dbf0eb8fbd": {
       "imports": {
         "__unresolved_0": {
           "resolved": {
             "type": "chunk",
             "id": "84741ad843cea9a440c5d8c2d379669b6551400d"
-          },
-          "messages": []
-        },
-        "__unresolved_1": {
-          "resolved": {
-            "type": "chunk",
-            "id": "3c7358834054f73d76773dd591e372a4bc41291a"
-          },
-          "messages": []
-        },
-        "__unresolved_2": {
-          "resolved": {
-            "type": "chunk",
-            "id": "5ce0b4698145368424e1d8e9f0c4416b857fff79"
-          },
-          "messages": []
-        },
-        "__unresolved_3": {
-          "resolved": {
-            "type": "chunk",
-            "id": "fc7b1e9423ca8da6ff731f17986e5494808b3a2c"
-          },
-          "messages": []
-        },
-        "__unresolved_4": {
-          "resolved": {
-            "type": "chunk",
-            "id": "b82bf5d517ca9a42f4b44509700eb9dbf0eb8fbd"
-          },
-          "messages": []
-        },
-        "__unresolved_5": {
-          "resolved": {
-            "type": "chunk",
-            "id": "6c993e4b0a5d181940c91f3346116de0e793d5ba"
           },
           "messages": []
         },
@@ -3885,7 +3850,7 @@
           "messages": []
         }
       },
-      "timestamp": 1724768997505
+      "timestamp": 1724770427141
     },
     "0972a0f13f2921efc845aa10fe551751ad9e7e82": {
       "imports": {
@@ -4123,7 +4088,7 @@
         "__unresolved_39": {
           "resolved": {
             "type": "chunk",
-            "id": "e6ad0471545fbf2705837902a27a03c1090cc0cb"
+            "id": "0b6e2083e356ff7a26a1de5f6b7d8c91d7fcead9"
           },
           "messages": []
         },
@@ -4338,14 +4303,49 @@
           "messages": []
         }
       },
-      "timestamp": 1724769212435
+      "timestamp": 1724917027672
     },
-    "b82bf5d517ca9a42f4b44509700eb9dbf0eb8fbd": {
+    "0b6e2083e356ff7a26a1de5f6b7d8c91d7fcead9": {
       "imports": {
         "__unresolved_0": {
           "resolved": {
             "type": "chunk",
             "id": "84741ad843cea9a440c5d8c2d379669b6551400d"
+          },
+          "messages": []
+        },
+        "__unresolved_1": {
+          "resolved": {
+            "type": "chunk",
+            "id": "3c7358834054f73d76773dd591e372a4bc41291a"
+          },
+          "messages": []
+        },
+        "__unresolved_2": {
+          "resolved": {
+            "type": "chunk",
+            "id": "5ce0b4698145368424e1d8e9f0c4416b857fff79"
+          },
+          "messages": []
+        },
+        "__unresolved_3": {
+          "resolved": {
+            "type": "chunk",
+            "id": "fc7b1e9423ca8da6ff731f17986e5494808b3a2c"
+          },
+          "messages": []
+        },
+        "__unresolved_4": {
+          "resolved": {
+            "type": "chunk",
+            "id": "b82bf5d517ca9a42f4b44509700eb9dbf0eb8fbd"
+          },
+          "messages": []
+        },
+        "__unresolved_5": {
+          "resolved": {
+            "type": "chunk",
+            "id": "6c993e4b0a5d181940c91f3346116de0e793d5ba"
           },
           "messages": []
         },
@@ -4357,7 +4357,7 @@
           "messages": []
         }
       },
-      "timestamp": 1724769212442
+      "timestamp": 1724917027699
     }
   },
   "entries": {
@@ -4425,7 +4425,7 @@
     "file:///Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/scenes/Home/Canvas/HomeBuildings.ts": "c97e7b3160dc54a81f10d7f7c92b7cd54f33a8c0",
     "file:///Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/scenes/Home/Canvas/HomeUi.ts": "0e9ec6b06932273d0e5616299e493461cc4fc86d",
     "file:///Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/scenes/Hero/Canvas/CharacterDetail/HeroCharacterDetailPorperty.ts": "a33356131256bb8b26807bcd0f32ce0eec47a58a",
-    "file:///Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/scenes/Fight/Canvas/FightMap.ts": "e6ad0471545fbf2705837902a27a03c1090cc0cb",
-    "file:///Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/common/common/common.ts": "b82bf5d517ca9a42f4b44509700eb9dbf0eb8fbd"
+    "file:///Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/common/common/common.ts": "b82bf5d517ca9a42f4b44509700eb9dbf0eb8fbd",
+    "file:///Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/scenes/Fight/Canvas/FightMap.ts": "0b6e2083e356ff7a26a1de5f6b7d8c91d7fcead9"
   }
 }
