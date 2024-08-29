@@ -22,9 +22,9 @@ struct Strategy {
     id: u32,
     player: ContractAddress,
     ranking: u32,
-    strength: u32,
-    agility: u32,
-    intelligence: u32,
+    strength: u8,
+    agility: u8,
+    intelligence: u8,
 }
 
 
