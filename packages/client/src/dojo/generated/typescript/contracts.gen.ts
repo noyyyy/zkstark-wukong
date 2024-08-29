@@ -25,7 +25,7 @@ export async function setupWorld(provider: DojoProvider) {
             }
         };
 
-        // Call the `create_strategy` system with the specified Account and calldata
+        // Call the `createStrategy` system with the specified Account and calldata
         const createStrategy = async (props: {
             account: Account;
             Strength: number;
@@ -36,7 +36,7 @@ export async function setupWorld(provider: DojoProvider) {
                 return await provider.execute(
                     props.account,
                     contract_name,
-                    "create_strategy",
+                    "createStrategy",
                     [props.Strength, props.Agility, props.Intelligence]
                 );
             } catch (error) {
