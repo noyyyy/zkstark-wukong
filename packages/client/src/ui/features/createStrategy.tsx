@@ -86,16 +86,16 @@ export function CreateStrategy() {
                         (a, b) => a + b,
                         0
                     );
-                    if (sum != totalPoints) {
+                    if (sum > totalPoints) {
                         alert("invalid strategy, please choice again");
+                    } else {
+                        createStrategy({
+                            account,
+                            Strength: attributes.strength,
+                            Agility: attributes.agility,
+                            Intelligence: attributes.intelligence,
+                        });
                     }
-
-                    createStrategy({
-                        account,
-                        Strength: attributes.strength,
-                        Agility: attributes.agility,
-                        Intelligence: attributes.intelligence,
-                    });
                 }}
             >
                 Create Strategy

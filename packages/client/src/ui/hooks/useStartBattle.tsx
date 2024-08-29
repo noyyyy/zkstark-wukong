@@ -16,6 +16,9 @@ export function useStartBattle() {
     const preparedBattle = useUIStore((state) => state.preparedBattle);
 
     const data = useMemo(() => {
+        if (!preparedBattle?.challenger || !preparedBattle?.defender){
+            return
+        }
         const c = getComponentValueStrict(
             Strategy,
             getEntityIdFromKeys([BigInt(preparedBattle.challenger)])
