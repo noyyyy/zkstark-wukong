@@ -2158,7 +2158,7 @@
     "missing": false
   },
   "/Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image": {
-    "time": 1724832455793.2595,
+    "time": 1724933411161.3499,
     "uuid": "230e9238-f1eb-49dc-b1e7-923da0132867",
     "missing": false
   },
@@ -2273,7 +2273,7 @@
     "missing": false
   },
   "/Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/ui": {
-    "time": 1724762987176.4033,
+    "time": 1724933413095.8408,
     "uuid": "a3cb3b57-6458-435a-948a-577b2f70b6b2",
     "missing": false
   },
@@ -2488,7 +2488,7 @@
     "missing": false
   },
   "/Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/prefab/HolPreLoad.ts": {
-    "time": 1724762987259.2495,
+    "time": 1724933844517.788,
     "uuid": "e06588f2-aa2d-4769-bf04-2c63f709bcb4",
     "missing": false
   },
@@ -3136,7 +3136,7 @@
     "time": 1724762987263.1196
   },
   "/Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/scenes/Fight.scene": {
-    "time": 1724917358384.3047,
+    "time": 1724934094369.8337,
     "uuid": "ff2ad814-d744-4b35-bb00-89b8ff612b2e",
     "missing": false
   },
@@ -4254,5 +4254,13 @@
   },
   "/Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/game/fight_entity/character/fearOfDemons/DT.png.meta": {
     "time": 1724762987084.5059
+  },
+  "/Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/ui/wukong_logo-removebg.png.meta": {
+    "time": 1724933701566.7788
+  },
+  "/Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/ui/wukong_logo-removebg.png": {
+    "time": 1724933258000,
+    "uuid": "1b0bc858-167f-4d9a-9357-a1572a198631",
+    "missing": false
   }
 }

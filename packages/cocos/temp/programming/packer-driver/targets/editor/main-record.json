@@ -1,7 +1,7 @@
 {
   "modules": {
     "cce:/internal/x/cc": {
-      "mTimestamp": 3776.07800000906,
+      "mTimestamp": 3731.0988749861717,
       "chunkId": "cee638a986ad8fae09398db255647defcaa6612a",
       "imports": [
         {
@@ -619,7 +619,7 @@
       ]
     },
     "cce:/internal/x/prerequisite-imports": {
-      "mTimestamp": 167287081.955625,
+      "mTimestamp": 227077.5910000205,
       "chunkId": "0972a0f13f2921efc845aa10fe551751ad9e7e82",
       "imports": [
         {
@@ -2057,7 +2057,7 @@
       ]
     },
     "cce:/internal/code-quality/cr.mjs": {
-      "mTimestamp": 1724761717765,
+      "mTimestamp": 1724933622500,
       "chunkId": "84741ad843cea9a440c5d8c2d379669b6551400d",
       "imports": [],
       "type": "esm",
@@ -11021,10 +11021,10 @@
     },
     "file:///Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/prefab/HolPreLoad.ts": {
       "mTimestamp": {
-        "mtime": 1724762987259.2495,
+        "mtime": 1724933844517.788,
         "uuid": "e06588f2-aa2d-4769-bf04-2c63f709bcb4"
       },
-      "chunkId": "6c993e4b0a5d181940c91f3346116de0e793d5ba",
+      "chunkId": "774b5cc8f4c9cce20290b3710f3f8d723f789d85",
       "imports": [
         {
           "value": "cc"

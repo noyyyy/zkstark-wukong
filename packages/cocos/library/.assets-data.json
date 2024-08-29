@@ -515,12 +515,14 @@
         "ecf9e6fb-c71f-4b13-99c8-af86b7a86731@f9941",
         "ecf9e6fb-c71f-4b13-99c8-af86b7a86731@f9941",
         "91b0ccaa-b52f-4a3e-b7ef-c9cdf88c3666@f9941",
+        "91b0ccaa-b52f-4a3e-b7ef-c9cdf88c3666@f9941",
         "053d31aa-950f-4f0d-a3da-caa61c2943ed",
         "91b0ccaa-b52f-4a3e-b7ef-c9cdf88c3666@f9941",
         "91b0ccaa-b52f-4a3e-b7ef-c9cdf88c3666@f9941",
         "053d31aa-950f-4f0d-a3da-caa61c2943ed",
         "64ce3515-a48c-4572-9225-3f38e5b20ead",
         "8ef0d9e7-a546-41e4-a82a-14f67ff25788@f9941",
+        "1b0bc858-167f-4d9a-9357-a1572a198631@f9941",
         "ff2ad814-d744-4b35-bb00-89b8ff612b2e"
       ]
     }
@@ -2996,6 +2998,28 @@
     "value": {
       "depends": [
         "aca57ba4-d382-413a-aeec-5f65024bcc01@6c48a"
+      ]
+    }
+  },
+  "1b0bc858-167f-4d9a-9357-a1572a198631": {
+    "url": "db://assets/resources/image/ui/wukong_logo-removebg.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "1b0bc858-167f-4d9a-9357-a1572a198631@6c48a": {
+    "url": "db://assets/resources/image/ui/wukong_logo-removebg.png@6c48a",
+    "value": {
+      "depends": [
+        "1b0bc858-167f-4d9a-9357-a1572a198631"
+      ]
+    }
+  },
+  "1b0bc858-167f-4d9a-9357-a1572a198631@f9941": {
+    "url": "db://assets/resources/image/ui/wukong_logo-removebg.png@f9941",
+    "value": {
+      "depends": [
+        "1b0bc858-167f-4d9a-9357-a1572a198631@6c48a"
       ]
     }
   }
