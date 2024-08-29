@@ -8,8 +8,8 @@ use game::models::{UserProfile, Strategy, GlobalState, CreatedStrategy, SetProfi
 trait IHome {
     // fn initialize();
     fn setUserProfile(name: felt252);
-    fn createStrategy(Strength: u8, Agility: u8, Intelligence: u8);
-    fn battleField(challengerID: u8, defenderID: u8, result: bool);
+    fn createStrategy(Strength: u32, Agility: u32, Intelligence: u32);
+    fn battleField(challengerID: u32, defenderID: u32, result: bool);
 }
 
 use starknet::{
@@ -56,7 +56,7 @@ mod home {
             emit!(world, (SetProfile { player: Player, id: counter.user_index, profile: profile }));
         }
         // fn initialize(world: IWorldDispatcher) {}
-        fn createStrategy(world: IWorldDispatcher, Strength: u8, Agility: u8, Intelligence: u8) {
+        fn createStrategy(world: IWorldDispatcher, Strength: u32, Agility: u32, Intelligence: u32) {
             let Player = get_caller_address();
             let mut counter = get!(world, 0, (GlobalState));
             if (counter.strategy_index == 0){
@@ -82,7 +82,7 @@ mod home {
         }
         
         
-        fn battleField(world: IWorldDispatcher, challengerID: u8, defenderID: u8, result: bool) {
+        fn battleField(world: IWorldDispatcher, challengerID: u32, defenderID: u32, result: bool) {
             let mut counter = get!(world, 0, (GlobalState));
             let mut challenger_strategy = get!(world, challengerID, (Strategy));
             let mut defender_strategy = get!(world, defenderID, (Strategy));
@@ -113,7 +113,7 @@ mod home {
             set!(world, (counter));
         }
 
-        // fn challengeBattle(world: IWorldDispatcher, gameID: u8, result: bool, zkprove: u8) {
+        // fn challengeBattle(world: IWorldDispatcher, gameID: u32, result: bool, zkprove: u32) {
         //     let challenger = get_caller_address();
         //     let counter = get!(world, 0, (GlobalState));
         //     let game = counter.game_index;

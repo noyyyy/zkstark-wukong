@@ -3,35 +3,35 @@ use starknet::ContractAddress;
 // #[derive(Model, Copy, Drop, Serde)]
 // struct Example {
 //     #[key]
-//     index: u8,
-//     value: u8
+//     index: u32,
+//     value: u32
 // }
 
 
 #[derive(Model, Copy, Drop, Serde)]
 struct UserProfile {
     #[key]
-    id: u8,
+    id: u32,
     player: ContractAddress,
     name: felt252,
 }
 #[derive(Model, Copy, Drop, Serde)]
 struct Strategy {
     #[key]
-    id: u8,
+    id: u32,
     player: ContractAddress,
-    ranking: u8,
-    strength: u8,
-    agility: u8,
-    intelligence: u8,
+    ranking: u32,
+    strength: u32,
+    agility: u32,
+    intelligence: u32,
 }
 #[derive(Model, Copy, Drop, Serde)]
 struct GlobalState {
     #[key]
-    id: u8,
-    strategy_index : u8,
-    game_index : u8,
-    user_index : u8,
+    id: u32,
+    strategy_index : u32,
+    game_index : u32,
+    user_index : u32,
 }
 
 // define event that will be used later
@@ -41,7 +41,7 @@ struct SetProfile {
     #[key]
     player: ContractAddress,
     #[key]
-    id: u8,
+    id: u32,
     profile: UserProfile,
 }
 
@@ -51,7 +51,7 @@ struct CreatedStrategy {
     #[key]
     player: ContractAddress,
     #[key]
-    id: u8,
+    id: u32,
     strategies: Strategy,
 }
 
