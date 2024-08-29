@@ -2,18 +2,15 @@ use game::models::{UserProfile, Strategy, GlobalState, CreatedStrategy, SetProfi
 
 // let (mut position, mut moves) = get!(world, player, (Position, Moves));
 
-use cairo_verifier::{StarkProof};
-
-
 #[dojo::interface]
 trait IHome {
     // fn initialize();
-    fn setUserProfile(ref world: IWorldDispatcher, name: felt252);
-    fn createStrategy(ref world: IWorldDispatcher, Strength: u32, Agility: u32, Intelligence: u32);
-    fn battleField(ref world: IWorldDispatcher, challengerID: u32, defenderID: u32, result: bool);
+    fn setUserProfile(name: felt252);
+    fn createStrategy(Strength: u8, Agility: u8, Intelligence: u8);
+    fn battleField(challengerID: u8, defenderID: u8, result: bool);
 
 
-    fn challengeBattle(ref world: IWorldDispatcher, battleId: u32, result: bool, proof: StarkProof);
+    fn challengeBattle(battleId: u32, result: bool, proof: Array<felt252>);
 }
 
 
@@ -32,7 +29,6 @@ mod home {
     use core::hash::{HashStateTrait, HashStateExTrait};
     use super::IHome;
     use game::models::{UserProfile, Strategy, GlobalState, CreatedStrategy, SetProfile};
-    use cairo_verifier::{StarkProof};
 
 
     // impl: implement functions specified in trait
@@ -40,7 +36,7 @@ mod home {
     impl HomeImpl of IHome<ContractState> {
         // intialize all args
         // TODO: set as real args
-        fn setUserProfile(ref world: IWorldDispatcher, name: felt252) {
+        fn setUserProfile(world: IWorldDispatcher, name: felt252) {
             let Player = get_caller_address();
             let mut counter = get!(world, 0, (GlobalState));
             if (counter.user_index == 0) {
@@ -57,9 +53,7 @@ mod home {
         }
 
         // fn initialize(world: IWorldDispatcher) {}
-        fn createStrategy(
-            ref world: IWorldDispatcher, Strength: u32, Agility: u32, Intelligence: u32
-        ) {
+        fn createStrategy(world: IWorldDispatcher, Strength: u8, Agility: u8, Intelligence: u8) {
             let Player = get_caller_address();
             let mut counter = get!(world, 0, (GlobalState));
             counter.strategy_index += 1;
@@ -85,9 +79,7 @@ mod home {
         }
 
 
-        fn battleField(
-            ref world: IWorldDispatcher, challengerID: u32, defenderID: u32, result: bool
-        ) {
+        fn battleField(world: IWorldDispatcher, challengerID: u8, defenderID: u8, result: bool) {
             let mut counter = get!(world, 0, (GlobalState));
             let mut challenger_strategy = get!(world, challengerID, (Strategy));
             let mut defender_strategy = get!(world, defenderID, (Strategy));
@@ -128,7 +120,7 @@ mod home {
         // }
 
         fn challengeBattle(
-            ref world: IWorldDispatcher, battleId: u32, result: bool, proof: StarkProof
+            world: IWorldDispatcher, battleId: u32, result: bool, proof: Array<felt252>
         ) {}
     }
 }

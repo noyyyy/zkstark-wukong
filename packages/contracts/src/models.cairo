@@ -7,8 +7,7 @@ use starknet::ContractAddress;
 //     value: u32
 // }
 
-#[dojo::model]
-#[derive(Copy, Drop, Serde)]
+#[derive(Model, Copy, Drop, Serde)]
 struct UserProfile {
     #[key]
     id: u32,
@@ -16,8 +15,8 @@ struct UserProfile {
     name: felt252,
 }
 
-#[dojo::model]
-#[derive(Copy, Drop, Serde)]
+
+#[derive(Model, Copy, Drop, Serde)]
 struct Strategy {
     #[key]
     id: u32,
@@ -28,8 +27,8 @@ struct Strategy {
     intelligence: u32,
 }
 
-#[dojo::model]
-#[derive(Copy, Drop, Serde)]
+
+#[derive(Model, Copy, Drop, Serde)]
 struct GlobalState {
     #[key]
     id: u32,
