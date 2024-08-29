@@ -3061,7 +3061,7 @@
         "__unresolved_3": {
           "resolved": {
             "type": "chunk",
-            "id": "501e2f110e98eb5e26edd1a37a004de2938013aa"
+            "id": "f3226c67a1eaf66497ab0bd49ed8aea8ca0b10e4"
           },
           "messages": []
         },
@@ -3628,60 +3628,6 @@
       },
       "timestamp": 1724929005382
     },
-    "501e2f110e98eb5e26edd1a37a004de2938013aa": {
-      "imports": {
-        "__unresolved_0": {
-          "resolved": {
-            "type": "chunk",
-            "id": "84741ad843cea9a440c5d8c2d379669b6551400d"
-          },
-          "messages": []
-        },
-        "__unresolved_1": {
-          "resolved": {
-            "type": "chunk",
-            "id": "3c7358834054f73d76773dd591e372a4bc41291a"
-          },
-          "messages": []
-        },
-        "__unresolved_2": {
-          "resolved": {
-            "type": "chunk",
-            "id": "9227ee8689b5f3ba688cb966990d07716400221b"
-          },
-          "messages": []
-        },
-        "__unresolved_3": {
-          "resolved": {
-            "type": "chunk",
-            "id": "fc7b1e9423ca8da6ff731f17986e5494808b3a2c"
-          },
-          "messages": []
-        },
-        "__unresolved_4": {
-          "resolved": {
-            "type": "chunk",
-            "id": "b82bf5d517ca9a42f4b44509700eb9dbf0eb8fbd"
-          },
-          "messages": []
-        },
-        "__unresolved_5": {
-          "resolved": {
-            "type": "chunk",
-            "id": "774b5cc8f4c9cce20290b3710f3f8d723f789d85"
-          },
-          "messages": []
-        },
-        "cc": {
-          "resolved": {
-            "type": "chunk",
-            "id": "cee638a986ad8fae09398db255647defcaa6612a"
-          },
-          "messages": []
-        }
-      },
-      "timestamp": 1724929005410
-    },
     "cee638a986ad8fae09398db255647defcaa6612a": {
       "imports": {
         "__unresolved_0": {
@@ -3893,6 +3839,18 @@
     "84741ad843cea9a440c5d8c2d379669b6551400d": {
       "imports": {},
       "timestamp": 1724933626368
+    },
+    "774b5cc8f4c9cce20290b3710f3f8d723f789d85": {
+      "imports": {
+        "cc": {
+          "resolved": {
+            "type": "chunk",
+            "id": "cee638a986ad8fae09398db255647defcaa6612a"
+          },
+          "messages": []
+        }
+      },
+      "timestamp": 1724940355087
     },
     "0972a0f13f2921efc845aa10fe551751ad9e7e82": {
       "imports": {
@@ -4130,7 +4088,7 @@
         "__unresolved_39": {
           "resolved": {
             "type": "chunk",
-            "id": "501e2f110e98eb5e26edd1a37a004de2938013aa"
+            "id": "f3226c67a1eaf66497ab0bd49ed8aea8ca0b10e4"
           },
           "messages": []
         },
@@ -4345,10 +4303,52 @@
           "messages": []
         }
       },
-      "timestamp": 1724933849572
+      "timestamp": 1724943549509
     },
-    "774b5cc8f4c9cce20290b3710f3f8d723f789d85": {
+    "f3226c67a1eaf66497ab0bd49ed8aea8ca0b10e4": {
       "imports": {
+        "__unresolved_0": {
+          "resolved": {
+            "type": "chunk",
+            "id": "84741ad843cea9a440c5d8c2d379669b6551400d"
+          },
+          "messages": []
+        },
+        "__unresolved_1": {
+          "resolved": {
+            "type": "chunk",
+            "id": "3c7358834054f73d76773dd591e372a4bc41291a"
+          },
+          "messages": []
+        },
+        "__unresolved_2": {
+          "resolved": {
+            "type": "chunk",
+            "id": "9227ee8689b5f3ba688cb966990d07716400221b"
+          },
+          "messages": []
+        },
+        "__unresolved_3": {
+          "resolved": {
+            "type": "chunk",
+            "id": "fc7b1e9423ca8da6ff731f17986e5494808b3a2c"
+          },
+          "messages": []
+        },
+        "__unresolved_4": {
+          "resolved": {
+            "type": "chunk",
+            "id": "b82bf5d517ca9a42f4b44509700eb9dbf0eb8fbd"
+          },
+          "messages": []
+        },
+        "__unresolved_5": {
+          "resolved": {
+            "type": "chunk",
+            "id": "774b5cc8f4c9cce20290b3710f3f8d723f789d85"
+          },
+          "messages": []
+        },
         "cc": {
           "resolved": {
             "type": "chunk",
@@ -4357,7 +4357,7 @@
           "messages": []
         }
       },
-      "timestamp": 1724933849642
+      "timestamp": 1724943549559
     }
   },
   "entries": {
@@ -4417,7 +4417,6 @@
     "file:///Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/game/fight_entity/character/fearOfDemons.ts": "e00902a95a242725894733340f6bb6cbb0d16bfb",
     "file:///Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/game/fight_entity/character/sunwukong.ts": "6a2eea315fb301bd5e5004717d2a4c95db8f6ec3",
     "file:///Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/scenes/Fight/Canvas/FightFailure.ts": "afaa7e45bf4b9395074042c7f0853e868af1b98d",
-    "file:///Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/scenes/Fight/Canvas/FightMap.ts": "501e2f110e98eb5e26edd1a37a004de2938013aa",
     "file:///Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/scenes/Fight/Canvas/FightSuccess.ts": "618addf722c9a7d38ddf563b0bf18739e40b9ac7",
     "file:///Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/scenes/Fight/Canvas/FightUi.ts": "5f26a682e6024ac99043b686292cd0c34b9442f4",
     "file:///Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/scenes/Hero/Canvas/HeroAllHeros.ts": "f279c8ed4c480d33d9a9de94894660ff67d2e691",
@@ -4426,6 +4425,7 @@
     "file:///Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/scenes/Home/Canvas/HomeBuildings.ts": "c97e7b3160dc54a81f10d7f7c92b7cd54f33a8c0",
     "file:///Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/scenes/Home/Canvas/HomeUi.ts": "0e9ec6b06932273d0e5616299e493461cc4fc86d",
     "file:///Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/scenes/Hero/Canvas/CharacterDetail/HeroCharacterDetailPorperty.ts": "a33356131256bb8b26807bcd0f32ce0eec47a58a",
-    "file:///Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/prefab/HolPreLoad.ts": "774b5cc8f4c9cce20290b3710f3f8d723f789d85"
+    "file:///Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/prefab/HolPreLoad.ts": "774b5cc8f4c9cce20290b3710f3f8d723f789d85",
+    "file:///Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/scenes/Fight/Canvas/FightMap.ts": "f3226c67a1eaf66497ab0bd49ed8aea8ca0b10e4"
   }
 }

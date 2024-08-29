@@ -56,7 +56,6 @@
     "file:///Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/game/fight_entity/character/fearOfDemons.ts": "./chunks/12/12ac6cb7c0e160d5809ccdf722c23a03fb181c1f.js",
     "file:///Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/game/fight_entity/character/sunwukong.ts": "./chunks/b0/b03a89da32fd48d262e373d5ae18fc7812df9752.js",
     "file:///Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/scenes/Fight/Canvas/FightFailure.ts": "./chunks/af/afaa7e45bf4b9395074042c7f0853e868af1b98d.js",
-    "file:///Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/scenes/Fight/Canvas/FightMap.ts": "./chunks/f5/f51ddddf8ed2dc7ed39205d3c2c5ca04d545d220.js",
     "file:///Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/scenes/Fight/Canvas/FightSuccess.ts": "./chunks/61/618addf722c9a7d38ddf563b0bf18739e40b9ac7.js",
     "file:///Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/scenes/Fight/Canvas/FightUi.ts": "./chunks/fd/fdd3a16b743917f7c00658f9b3cf2eeb5670c13c.js",
     "file:///Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/scenes/Hero/Canvas/HeroAllHeros.ts": "./chunks/8d/8d960d85b262188e27522ed08ab3b09185d4747a.js",
@@ -65,7 +64,8 @@
     "file:///Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/scenes/Home/Canvas/HomeBuildings.ts": "./chunks/7b/7b471625b96dc50bed244253959b9ad3d2b592c3.js",
     "file:///Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/scenes/Home/Canvas/HomeUi.ts": "./chunks/ef/ef546c1d6f7e08a9082d072f1efe2b117f4fe495.js",
     "file:///Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/scenes/Hero/Canvas/CharacterDetail/HeroCharacterDetailPorperty.ts": "./chunks/97/97c94c8b74f98b94ece0e30446564db5d8795ed2.js",
-    "file:///Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/prefab/HolPreLoad.ts": "./chunks/96/9650bcb859cf645e9eeb68cd9df2b88faf5423c0.js"
+    "file:///Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/prefab/HolPreLoad.ts": "./chunks/96/9650bcb859cf645e9eeb68cd9df2b88faf5423c0.js",
+    "file:///Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/scenes/Fight/Canvas/FightMap.ts": "./chunks/d4/d4c15744e8e5c6cae6b7310ad14a538935fe597d.js"
   },
   "scopes": {
     "./chunks/02/02454ce52c24527a6d11792cfd90549c5b418480.js": {
@@ -124,7 +124,7 @@
       "__unresolved_36": "./chunks/29/29c0a0fa8f62f01d6953b6382bdfe434fec9cb72.js",
       "__unresolved_37": "./chunks/eb/eb363953dd3df854cc8c9f7e4ca7f6938fb84bca.js",
       "__unresolved_38": "./chunks/af/afaa7e45bf4b9395074042c7f0853e868af1b98d.js",
-      "__unresolved_39": "./chunks/f5/f51ddddf8ed2dc7ed39205d3c2c5ca04d545d220.js",
+      "__unresolved_39": "./chunks/d4/d4c15744e8e5c6cae6b7310ad14a538935fe597d.js",
       "__unresolved_4": "./chunks/d3/d39c1ffaf742f187de5df4faf0fb883cda737faf.js",
       "__unresolved_40": "./chunks/61/618addf722c9a7d38ddf563b0bf18739e40b9ac7.js",
       "__unresolved_41": "./chunks/fd/fdd3a16b743917f7c00658f9b3cf2eeb5670c13c.js",
@@ -383,10 +383,10 @@
       "__unresolved_0": "./chunks/3a/3a1fd7b13056478820ebedd306d3446d1aa408cc.js",
       "__unresolved_1": "./chunks/8b/8bcf968840d57e31383de56429e51719d73bd200.js",
       "__unresolved_2": "./chunks/3c/3c7358834054f73d76773dd591e372a4bc41291a.js",
-      "__unresolved_3": "./chunks/f5/f51ddddf8ed2dc7ed39205d3c2c5ca04d545d220.js",
+      "__unresolved_3": "./chunks/d4/d4c15744e8e5c6cae6b7310ad14a538935fe597d.js",
       "cc": "./chunks/02/02454ce52c24527a6d11792cfd90549c5b418480.js"
     },
-    "./chunks/f5/f51ddddf8ed2dc7ed39205d3c2c5ca04d545d220.js": {
+    "./chunks/d4/d4c15744e8e5c6cae6b7310ad14a538935fe597d.js": {
       "__unresolved_0": "./chunks/3a/3a1fd7b13056478820ebedd306d3446d1aa408cc.js",
       "__unresolved_1": "./chunks/3c/3c7358834054f73d76773dd591e372a4bc41291a.js",
       "__unresolved_2": "./chunks/8b/8bcf968840d57e31383de56429e51719d73bd200.js",

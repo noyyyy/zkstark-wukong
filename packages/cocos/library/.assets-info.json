@@ -2133,7 +2133,7 @@
     "missing": false
   },
   "/Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/scenes": {
-    "time": 1724917018608.952,
+    "time": 1724943272541.5083,
     "uuid": "ad633c89-031b-4d54-b636-1509cf0eb897",
     "missing": false
   },
@@ -2183,7 +2183,7 @@
     "missing": false
   },
   "/Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/prefab": {
-    "time": 1724762987259.836,
+    "time": 1724934241401.9204,
     "uuid": "b1f9a390-7f17-4c3f-9dcf-27f5d3afd2b8",
     "missing": false
   },
@@ -2273,7 +2273,7 @@
     "missing": false
   },
   "/Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/ui": {
-    "time": 1724933413095.8408,
+    "time": 1724934241401.5215,
     "uuid": "a3cb3b57-6458-435a-948a-577b2f70b6b2",
     "missing": false
   },
@@ -2413,7 +2413,7 @@
     "missing": false
   },
   "/Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/scenes/Fight/Canvas": {
-    "time": 1724917018609.7754,
+    "time": 1724943473346.4475,
     "uuid": "51605303-ab04-4b65-9ef9-88101ca96839",
     "missing": false
   },
@@ -2488,7 +2488,7 @@
     "missing": false
   },
   "/Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/prefab/HolPreLoad.ts": {
-    "time": 1724933844517.788,
+    "time": 1724934241401.991,
     "uuid": "e06588f2-aa2d-4769-bf04-2c63f709bcb4",
     "missing": false
   },
@@ -2713,7 +2713,7 @@
     "missing": false
   },
   "/Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/scenes/Fight/Canvas/FightMap.ts": {
-    "time": 1724928910860.9912,
+    "time": 1724943518299.2607,
     "uuid": "f3242da7-d22b-46e1-a825-6e29eb1d2484",
     "missing": false
   },
@@ -3136,7 +3136,7 @@
     "time": 1724762987263.1196
   },
   "/Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/scenes/Fight.scene": {
-    "time": 1724934094369.8337,
+    "time": 1724943565481.782,
     "uuid": "ff2ad814-d744-4b35-bb00-89b8ff612b2e",
     "missing": false
   },
@@ -4256,10 +4256,10 @@
     "time": 1724762987084.5059
   },
   "/Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/ui/wukong_logo-removebg.png.meta": {
-    "time": 1724933701566.7788
+    "time": 1724934241401.6018
   },
   "/Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/resources/image/ui/wukong_logo-removebg.png": {
-    "time": 1724933258000,
+    "time": 1724934241401.4436,
     "uuid": "1b0bc858-167f-4d9a-9357-a1572a198631",
     "missing": false
   }

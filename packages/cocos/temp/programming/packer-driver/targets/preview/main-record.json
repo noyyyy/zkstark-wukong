@@ -430,7 +430,7 @@
       ]
     },
     "cce:/internal/x/prerequisite-imports": {
-      "mTimestamp": 227209.05587500334,
+      "mTimestamp": 9927373.953333974,
       "chunkId": "c7801b45b9c9c382660a7a0cdbd42513887b5ce1",
       "imports": [
         {
@@ -10832,7 +10832,7 @@
     },
     "file:///Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/prefab/HolPreLoad.ts": {
       "mTimestamp": {
-        "mtime": 1724933844517.788,
+        "mtime": 1724934241401.991,
         "uuid": "e06588f2-aa2d-4769-bf04-2c63f709bcb4"
       },
       "chunkId": "9650bcb859cf645e9eeb68cd9df2b88faf5423c0",
@@ -11093,10 +11093,10 @@
     },
     "file:///Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/scenes/Fight/Canvas/FightMap.ts": {
       "mTimestamp": {
-        "mtime": 1724928910860.9912,
+        "mtime": 1724943518299.2607,
         "uuid": "f3242da7-d22b-46e1-a825-6e29eb1d2484"
       },
-      "chunkId": "f51ddddf8ed2dc7ed39205d3c2c5ca04d545d220",
+      "chunkId": "d4c15744e8e5c6cae6b7310ad14a538935fe597d",
       "imports": [
         {
           "value": "cce:/internal/code-quality/cr.mjs",
