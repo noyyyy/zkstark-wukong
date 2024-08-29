@@ -1,4 +1,4 @@
-use game::models::{Strategy, GlobalState, CreatedStrategy};
+use game::models::{UserProfile, Strategy, GlobalState, CreatedStrategy, SetProfile};
 
 // let (mut position, mut moves) = get!(world, player, (Position, Moves));
 
@@ -7,8 +7,9 @@ use game::models::{Strategy, GlobalState, CreatedStrategy};
 #[dojo::interface]
 trait IHome {
     // fn initialize();
-    fn create_strategy(Strength: u8, Agility: u8, Intelligence: u8);
-    fn battlefield(challengerID: u8, defenderID: u8, result: bool);
+    fn setUserProfile(name: felt252);
+    fn createStrategy(Strength: u8, Agility: u8, Intelligence: u8);
+    fn battleField(challengerID: u8, defenderID: u8, result: bool);
 }
 
 use starknet::{
@@ -30,7 +31,7 @@ mod home {
     use core::poseidon::{PoseidonTrait, poseidon_hash_span};
     use core::hash::{HashStateTrait, HashStateExTrait};
     use super::IHome;
-    use game::models::{Strategy, GlobalState, CreatedStrategy};
+    use game::models::{UserProfile, Strategy, GlobalState, CreatedStrategy, SetProfile};
 
 
     // impl: implement functions specified in trait
@@ -38,15 +39,36 @@ mod home {
     impl HomeImpl of IHome<ContractState> {
         // intialize all args
         // TODO: set as real args
-
-        // fn initialize(world: IWorldDispatcher) {}
-        fn create_strategy(world: IWorldDispatcher, Strength: u8, Agility: u8, Intelligence: u8) {
+        fn setUserProfile(world: IWorldDispatcher, name: felt252){
             let Player = get_caller_address();
             let mut counter = get!(world, 0, (GlobalState));
-            let mut attributes = get!(world, counter, (Strategy));
-            let uid = counter.counter;
+            if (counter.user_index == 0){
+                counter.user_index = 1;
+            }
+            else{
+                counter.user_index += 1;
+            }
+            let mut profile = get!(world, counter.user_index, (UserProfile));
+            profile.player = Player;
+            profile.name = name;
+            set!(world, (profile));
+            set!(world, (counter));
+            emit!(world, (SetProfile { player: Player, id: counter.user_index, profile: profile }));
+        }
+        // fn initialize(world: IWorldDispatcher) {}
+        fn createStrategy(world: IWorldDispatcher, Strength: u8, Agility: u8, Intelligence: u8) {
+            let Player = get_caller_address();
+            let mut counter = get!(world, 0, (GlobalState));
+            if (counter.strategy_index == 0){
+                counter.strategy_index = 1;
+            }
+            else{
+                counter.strategy_index += 1;
+            }
+            let mut attributes = get!(world, counter.strategy_index, (Strategy));
+            let uid = counter.strategy_index;
             let attribute = Strategy{
-                id : counter.counter,
+                id : counter.strategy_index,
                 player : Player,
                 ranking: uid,
                 strength : Strength,
@@ -54,17 +76,14 @@ mod home {
                 intelligence : Intelligence,
             };
             set!(world, (attribute));
-            counter.counter += 1;
-            set!(world, (GlobalState{
-                id: 0,
-                counter: counter.counter,
-            }));
+            set!(world, (counter));
             // Emit the CreateStrategy event:
-            emit!(world, (CreatedStrategy { player: Player, id: counter.counter, strategies: attribute }));
+            emit!(world, (CreatedStrategy { player: Player, id: counter.strategy_index, strategies: attribute }));
         }
         
         
-        fn battlefield(world: IWorldDispatcher, challengerID: u8, defenderID: u8, result: bool) {
+        fn battleField(world: IWorldDispatcher, challengerID: u8, defenderID: u8, result: bool) {
+            let mut counter = get!(world, 0, (GlobalState));
             let mut challenger_strategy = get!(world, challengerID, (Strategy));
             let mut defender_strategy = get!(world, defenderID, (Strategy));
             let strategyOwner = challenger_strategy.player;
@@ -74,14 +93,32 @@ mod home {
                 let tmp = challenger_strategy.ranking;
                 challenger_strategy.ranking = defender_strategy.ranking;
                 defender_strategy.ranking = tmp;
+                if (counter.game_index == 0) {
+                    counter.game_index = 1;
+                } else {
+                    counter.game_index += 1;
+                }
             } else {
                 let tmp = defender_strategy.ranking;
                 defender_strategy.ranking = challenger_strategy.ranking;
                 challenger_strategy.ranking = tmp;
+                if (counter.game_index == 0) {
+                    counter.game_index = 1;
+                } else {
+                    counter.game_index += 1;
+                }
             }
             set!(world, (challenger_strategy));
             set!(world, (defender_strategy));
+            set!(world, (counter));
         }
+
+        // fn challengeBattle(world: IWorldDispatcher, gameID: u8, result: bool, zkprove: u8) {
+        //     let challenger = get_caller_address();
+        //     let counter = get!(world, 0, (GlobalState));
+        //     let game = counter.game_index;
+        //     let challenger_strategy = get!(world, gameID, (Strategy));
+        // }
     }
 }
 
