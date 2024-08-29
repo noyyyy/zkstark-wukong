@@ -66,8 +66,7 @@ export function Rank() {
                             <td className="py-2 px-4 font-semibold">
                                 <Button
                                     onClick={() => {
-                                        setPreparedBattle({ d: strategy.id });
-                                        startBattle();
+                                        startBattle(strategy.id);
                                     }}
                                 >
                                     Battle

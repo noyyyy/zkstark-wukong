@@ -15,46 +15,44 @@ export function useStartBattle() {
 
     const preparedBattle = useUIStore((state) => state.preparedBattle);
 
-    const data = useMemo(() => {
-        if (!preparedBattle?.challenger || !preparedBattle?.defender) {
-            return undefined;
-        }
-        const c = getComponentValueStrict(
-            Strategy,
-            getEntityIdFromKeys([BigInt(preparedBattle.challenger)])
-        );
-        const d = getComponentValueStrict(
-            Strategy,
-            getEntityIdFromKeys([BigInt(preparedBattle.defender)])
-        );
+    const startBattle = useCallback(
+        (defenderId: number) => {
+            const c = getComponentValueStrict(
+                Strategy,
+                getEntityIdFromKeys([BigInt(preparedBattle.challenger)])
+            );
+            const d = getComponentValueStrict(
+                Strategy,
+                getEntityIdFromKeys([BigInt(defenderId)])
+            );
 
-        return {
-            challenger: {
-                strength: c.strength,
-                agility: c.agility,
-                intelligence: c.intelligence,
-            },
-            defender: {
-                strength: d.strength,
-                agility: d.agility,
-                intelligence: d.intelligence,
-            },
-        };
-    }, [Strategy, preparedBattle]);
+            const data = {
+                challenger: {
+                    strength: c.strength,
+                    agility: c.agility,
+                    intelligence: c.intelligence,
+                },
+                defender: {
+                    strength: d.strength,
+                    agility: d.agility,
+                    intelligence: d.intelligence,
+                },
+            };
+            if (!preparedBattle?.challenger) {
+                alert("invalid battle input");
+                return;
+            }
 
-    const startBattle = useCallback(() => {
-        if (!data) {
-            alert("invalid battle input");
-        }
+            const iframe = document.getElementById(
+                "Cocos Game"
+            ) as HTMLIFrameElement;
 
-        const iframe = document.getElementById(
-            "Cocos Game"
-        ) as HTMLIFrameElement;
+            const jsonStr = JSON.stringify(data);
+            iframe.contentWindow!.postMessage(jsonStr, "*");
 
-        const d = JSON.stringify(data);
-        iframe.contentWindow!.postMessage(d, "*");
-
-        setShow(ShowItem.Cocos, !getShow(ShowItem.Cocos));
-    }, [data, setShow, getShow]);
+            setShow(ShowItem.Cocos, !getShow(ShowItem.Cocos));
+        },
+        [setShow, getShow, Strategy, preparedBattle.challenger]
+    );
     return { startBattle };
 }
