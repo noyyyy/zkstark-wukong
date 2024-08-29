@@ -42,7 +42,19 @@ export class FightMap extends Component {
     protected async start() {
 
         window.addEventListener("message" , async (event) => {
-            const battleData = JSON.parse(event.data) as ClientData;
+            
+            let battleData:ClientData = {
+                challenger: null ,
+                defender: null
+            }
+            
+            try {
+                const q = JSON.parse(event.data) as ClientData;
+                battleData = q
+            } catch(e){
+                console.log("数据格式错误")
+            }
+            console.log("battleData", battleData)
             if(battleData.challenger == null || battleData.defender == null){
                 return
             }
