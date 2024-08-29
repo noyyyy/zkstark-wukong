@@ -39,11 +39,7 @@ mod home {
         fn setUserProfile(world: IWorldDispatcher, name: felt252) {
             let Player = get_caller_address();
             let mut counter = get!(world, 0, (GlobalState));
-            if (counter.user_index == 0) {
-                counter.user_index = 1;
-            } else {
-                counter.user_index += 1;
-            }
+            counter.user_index += 1;
             let mut profile = get!(world, counter.user_index, (UserProfile));
             profile.player = Player;
             profile.name = name;
@@ -92,20 +88,12 @@ mod home {
                 let tmp = challenger_strategy.ranking;
                 challenger_strategy.ranking = defender_strategy.ranking;
                 defender_strategy.ranking = tmp;
-                if (counter.game_index == 0) {
-                    counter.game_index = 1;
-                } else {
-                    counter.game_index += 1;
-                }
+                counter.game_index += 1;
             } else {
                 let tmp = defender_strategy.ranking;
                 defender_strategy.ranking = challenger_strategy.ranking;
                 challenger_strategy.ranking = tmp;
-                if (counter.game_index == 0) {
-                    counter.game_index = 1;
-                } else {
-                    counter.game_index += 1;
-                }
+                counter.game_index += 1;
             }
             set!(world, (challenger_strategy));
             set!(world, (defender_strategy));
