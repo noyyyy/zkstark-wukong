@@ -16,8 +16,8 @@ export function useStartBattle() {
     const preparedBattle = useUIStore((state) => state.preparedBattle);
 
     const data = useMemo(() => {
-        if (!preparedBattle?.challenger || !preparedBattle?.defender){
-            return
+        if (!preparedBattle?.challenger || !preparedBattle?.defender) {
+            return undefined;
         }
         const c = getComponentValueStrict(
             Strategy,
@@ -43,6 +43,10 @@ export function useStartBattle() {
     }, [Strategy, preparedBattle]);
 
     const startBattle = useCallback(() => {
+        if (!data) {
+            alert("invalid battle input");
+        }
+
         const iframe = document.getElementById(
             "Cocos Game"
         ) as HTMLIFrameElement;
