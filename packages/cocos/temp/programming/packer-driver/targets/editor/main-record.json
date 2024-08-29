@@ -619,7 +619,7 @@
       ]
     },
     "cce:/internal/x/prerequisite-imports": {
-      "mTimestamp": 155309101.622333,
+      "mTimestamp": 167287081.955625,
       "chunkId": "0972a0f13f2921efc845aa10fe551751ad9e7e82",
       "imports": [
         {
@@ -8067,10 +8067,10 @@
     },
     "file:///Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/prefab/HolCharacter.ts": {
       "mTimestamp": {
-        "mtime": 1724762987256.8806,
+        "mtime": 1724928661216.049,
         "uuid": "3bfdd41b-5b99-4c14-af4b-1414b720aabf"
       },
-      "chunkId": "5ce0b4698145368424e1d8e9f0c4416b857fff79",
+      "chunkId": "9227ee8689b5f3ba688cb966990d07716400221b",
       "imports": [
         {
           "value": "cce:/internal/code-quality/cr.mjs",
@@ -8298,10 +8298,10 @@
     },
     "file:///Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/game/fight/character/CharacterState.ts": {
       "mTimestamp": {
-        "mtime": 1724762987251.9019,
+        "mtime": 1724928990302.5881,
         "uuid": "644ca047-33f0-493d-9836-9684a1de87d5"
       },
-      "chunkId": "b5a1aec23c2cefb527cbf78596a9ef36f29b9d02",
+      "chunkId": "025f34608b5d360510e6e6c203375162c6e87c83",
       "imports": [
         {
           "value": "cce:/internal/code-quality/cr.mjs",
@@ -10632,10 +10632,10 @@
     },
     "file:///Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/game/fight_entity/character/sunwukong.ts": {
       "mTimestamp": {
-        "mtime": 1724762987255.9841,
+        "mtime": 1724928573752.682,
         "uuid": "b5ba8a4d-d656-40d0-ad60-fa005c9c3846"
       },
-      "chunkId": "0609e5bb6ea9ea553b969d8a0ecdb5c8eb6c108e",
+      "chunkId": "6a2eea315fb301bd5e5004717d2a4c95db8f6ec3",
       "imports": [
         {
           "value": "cce:/internal/code-quality/cr.mjs",
@@ -11282,10 +11282,10 @@
     },
     "file:///Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/scenes/Fight/Canvas/FightMap.ts": {
       "mTimestamp": {
-        "mtime": 1724917018609.9324,
+        "mtime": 1724928910860.9912,
         "uuid": "f3242da7-d22b-46e1-a825-6e29eb1d2484"
       },
-      "chunkId": "0b6e2083e356ff7a26a1de5f6b7d8c91d7fcead9",
+      "chunkId": "501e2f110e98eb5e26edd1a37a004de2938013aa",
       "imports": [
         {
           "value": "cce:/internal/code-quality/cr.mjs",

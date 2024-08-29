@@ -54,7 +54,8 @@ export class FightMap extends Component {
                 equipment: [],
                 strength: battleData.challenger.strength,
                 agility: battleData.challenger.agility,
-                intelligence: battleData.challenger.intelligence    
+                intelligence: battleData.challenger.intelligence,
+                isDefencer: false  
             })
             common.rightCharacter.set({row: 2 , col: 2} , {
                 id: "sunwukong" ,
@@ -63,7 +64,8 @@ export class FightMap extends Component {
                 equipment: [],
                 strength: battleData.defender.strength,
                 agility: battleData.defender.agility,
-                intelligence: battleData.defender.intelligence
+                intelligence: battleData.defender.intelligence,
+                isDefencer: true
             })
             console.log( '数据改了')
             await this.battle();
