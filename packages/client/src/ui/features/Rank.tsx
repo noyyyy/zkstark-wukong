@@ -3,7 +3,6 @@ import { useDojo } from "../hooks/useDojo";
 import { HasValue, getComponentValueStrict } from "@dojoengine/recs";
 import { useMemo } from "react";
 import { shortenAddress } from "../lib/utils";
-import { Account } from "starknet";
 import { Button } from "../components/button";
 import { useUIStore } from "../../store";
 import { useStartBattle } from "../hooks/useStartBattle";
@@ -35,10 +34,10 @@ export function Rank() {
                 <thead>
                     <tr className="bg-gray-100">
                         <th className="py-2 px-4 text-left">Rank</th>
-                        <th className="py-2 px-4 text-left">Player</th>{" "}
-                        <th className="py-2 px-4 text-left">Strength</th>{" "}
-                        <th className="py-2 px-4 text-left">Agility</th>{" "}
-                        <th className="py-2 px-4 text-left">Intelligence</th>{" "}
+                        <th className="py-2 px-4 text-left">Player</th>
+                        <th className="py-2 px-4 text-left">Strength</th>
+                        <th className="py-2 px-4 text-left">Agility</th>
+                        <th className="py-2 px-4 text-left">Intelligence</th>
                         <th className="py-2 px-4 text-left">Action</th>
                     </tr>
                 </thead>
@@ -53,16 +52,16 @@ export function Rank() {
                             </td>
                             <td className="py-2 px-4 text-gray-600">
                                 {shortenAddress(strategy.player.toString())}
-                            </td>{" "}
+                            </td>
                             <td className="py-2 px-4 font-semibold">
                                 {strategy.strength}
-                            </td>{" "}
+                            </td>
                             <td className="py-2 px-4 font-semibold">
                                 {strategy.agility}
-                            </td>{" "}
+                            </td>
                             <td className="py-2 px-4 font-semibold">
                                 {strategy.intelligence}
-                            </td>{" "}
+                            </td>
                             <td className="py-2 px-4 font-semibold">
                                 <Button
                                     onClick={() => {
@@ -70,7 +69,7 @@ export function Rank() {
                                     }}
                                 >
                                     Battle
-                                </Button>{" "}
+                                </Button>
                             </td>
                         </tr>
                     ))}

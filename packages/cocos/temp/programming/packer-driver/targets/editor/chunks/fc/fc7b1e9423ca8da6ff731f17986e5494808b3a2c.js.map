@@ -1,1 +1,0 @@
-{"version":3,"sources":["file:///Users/ruoyan/Desktop/WorkSpace/cairo-provable-game/packages/cocos/assets/script/game/fight/RoundState.ts"],"names":["RoundState"],"mappings":";;;iBAIaA,U;;;;;;;;;;;;;AAJb;AACA;AACA;AACA;4BACaA,U,GAAN,MAAMA,UAAN,CAAiB,E","sourcesContent":["/** \n * 回合状态对象\n * 每个回合都会创建对应的该对象\n */\nexport class RoundState {\n\n}"]}

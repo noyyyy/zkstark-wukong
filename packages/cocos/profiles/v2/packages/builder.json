@@ -11,7 +11,7 @@
         "progress": 1,
         "state": "success",
         "stage": "build",
-        "message": "2024-8-29 23:14:17 build success in 11517 ms!",
+        "message": "29-08-2024 23:29:00 build success in 69236 ms!",
         "options": {
           "name": "HeroOfLegend",
           "platform": "web-desktop",
@@ -57,7 +57,7 @@
           "packages": {},
           "__version__": "1.3.5"
         },
-        "time": "8-29-2024 23:14",
+        "time": "8-29-2024 23:27",
         "dirty": false
       }
     }
