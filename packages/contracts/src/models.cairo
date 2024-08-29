@@ -7,15 +7,17 @@ use starknet::ContractAddress;
 //     value: u8
 // }
 
-
-#[derive(Model, Copy, Drop, Serde)]
+#[dojo::model]
+#[derive(Copy, Drop, Serde)]
 struct UserProfile {
     #[key]
     id: u8,
     player: ContractAddress,
     name: felt252,
 }
-#[derive(Model, Copy, Drop, Serde)]
+
+#[dojo::model]
+#[derive(Copy, Drop, Serde)]
 struct Strategy {
     #[key]
     id: u8,
@@ -25,13 +27,15 @@ struct Strategy {
     agility: u8,
     intelligence: u8,
 }
-#[derive(Model, Copy, Drop, Serde)]
+
+#[dojo::model]
+#[derive(Copy, Drop, Serde)]
 struct GlobalState {
     #[key]
     id: u8,
-    strategy_index : u8,
-    game_index : u8,
-    user_index : u8,
+    strategy_index: u8,
+    game_index: u8,
+    user_index: u8,
 }
 
 // define event that will be used later

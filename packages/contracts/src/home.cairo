@@ -2,19 +2,19 @@ use game::models::{UserProfile, Strategy, GlobalState, CreatedStrategy, SetProfi
 
 // let (mut position, mut moves) = get!(world, player, (Position, Moves));
 
+use cairo_verifier::{StarkProof};
 
 
 #[dojo::interface]
 trait IHome {
     // fn initialize();
-    fn setUserProfile(name: felt252);
-    fn createStrategy(Strength: u8, Agility: u8, Intelligence: u8);
-    fn battleField(challengerID: u8, defenderID: u8, result: bool);
-}
+    fn setUserProfile(ref world: IWorldDispatcher, name: felt252);
+    fn createStrategy(ref world: IWorldDispatcher, Strength: u8, Agility: u8, Intelligence: u8);
+    fn battleField(ref world: IWorldDispatcher, challengerID: u8, defenderID: u8, result: bool);
 
-use starknet::{
-    ContractAddress, Zeroable, contract_address_try_from_felt252, get_caller_address, get_block_info
-};
+
+    fn challengeBattle(ref world: IWorldDispatcher, battleId: u32, result: bool, proof: StarkProof);
+}
 
 
 #[dojo::contract]
@@ -32,6 +32,7 @@ mod home {
     use core::hash::{HashStateTrait, HashStateExTrait};
     use super::IHome;
     use game::models::{UserProfile, Strategy, GlobalState, CreatedStrategy, SetProfile};
+    use cairo_verifier::{StarkProof};
 
 
     // impl: implement functions specified in trait
@@ -39,13 +40,12 @@ mod home {
     impl HomeImpl of IHome<ContractState> {
         // intialize all args
         // TODO: set as real args
-        fn setUserProfile(world: IWorldDispatcher, name: felt252){
+        fn setUserProfile(ref world: IWorldDispatcher, name: felt252) {
             let Player = get_caller_address();
             let mut counter = get!(world, 0, (GlobalState));
-            if (counter.user_index == 0){
+            if (counter.user_index == 0) {
                 counter.user_index = 1;
-            }
-            else{
+            } else {
                 counter.user_index += 1;
             }
             let mut profile = get!(world, counter.user_index, (UserProfile));
@@ -55,40 +55,47 @@ mod home {
             set!(world, (counter));
             emit!(world, (SetProfile { player: Player, id: counter.user_index, profile: profile }));
         }
+
         // fn initialize(world: IWorldDispatcher) {}
-        fn createStrategy(world: IWorldDispatcher, Strength: u8, Agility: u8, Intelligence: u8) {
+        fn createStrategy(
+            ref world: IWorldDispatcher, Strength: u8, Agility: u8, Intelligence: u8
+        ) {
             let Player = get_caller_address();
             let mut counter = get!(world, 0, (GlobalState));
-            if (counter.strategy_index == 0){
-                counter.strategy_index = 1;
-            }
-            else{
-                counter.strategy_index += 1;
-            }
+            counter.strategy_index += 1;
             let mut attributes = get!(world, counter.strategy_index, (Strategy));
             let uid = counter.strategy_index;
-            let attribute = Strategy{
-                id : counter.strategy_index,
-                player : Player,
+            let attribute = Strategy {
+                id: counter.strategy_index,
+                player: Player,
                 ranking: uid,
-                strength : Strength,
-                agility : Agility,
-                intelligence : Intelligence,
+                strength: Strength,
+                agility: Agility,
+                intelligence: Intelligence,
             };
             set!(world, (attribute));
             set!(world, (counter));
             // Emit the CreateStrategy event:
-            emit!(world, (CreatedStrategy { player: Player, id: counter.strategy_index, strategies: attribute }));
+            emit!(
+                world,
+                (CreatedStrategy {
+                    player: Player, id: counter.strategy_index, strategies: attribute
+                })
+            );
         }
-        
-        
-        fn battleField(world: IWorldDispatcher, challengerID: u8, defenderID: u8, result: bool) {
+
+
+        fn battleField(
+            ref world: IWorldDispatcher, challengerID: u8, defenderID: u8, result: bool
+        ) {
             let mut counter = get!(world, 0, (GlobalState));
             let mut challenger_strategy = get!(world, challengerID, (Strategy));
             let mut defender_strategy = get!(world, defenderID, (Strategy));
             let strategyOwner = challenger_strategy.player;
             let currentUser = get_caller_address();
-            if(strategyOwner == currentUser){panic!("Owner of Strategy does not match currentUser address.");};
+            if (strategyOwner == currentUser) {
+                panic!("Owner of Strategy does not match currentUser address.");
+            };
             if result {
                 let tmp = challenger_strategy.ranking;
                 challenger_strategy.ranking = defender_strategy.ranking;
@@ -119,6 +126,10 @@ mod home {
         //     let game = counter.game_index;
         //     let challenger_strategy = get!(world, gameID, (Strategy));
         // }
+
+        fn challengeBattle(
+            ref world: IWorldDispatcher, battleId: u32, result: bool, proof: StarkProof
+        ) {}
     }
 }
 
