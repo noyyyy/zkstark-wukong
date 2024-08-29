@@ -24,6 +24,8 @@ export type CharacterStateCreate = {
     agility?: number
     // 智力
     intelligence?: number
+    //
+    isDefencer?: boolean
 }
 
 export class CharacterState extends BasicState<CharacterMetaState> {
@@ -99,7 +101,7 @@ export class CharacterState extends BasicState<CharacterMetaState> {
         // create.lv * meta.AttackGrowth * ((create.star - 1) * 0.15 + 1) * (create.lv / 80 + 0.8)
         this.defence = 0
         // create.lv * meta.DefenceGrowth * ((create.star - 1) * 0.15 + 1) * (create.lv / 80 + 0.8)
-        this.speed = meta.BasicSpeed + create.agility * 5
+        this.speed = meta.BasicSpeed + create.agility * 5 + (create.isDefencer? 1 : 0)
         // create.lv * meta.SpeedGrowth * ((create.star - 1) * 0.15 + 1) * (create.lv / 80 + 0.8)
         this.pierce = 0
         // create.lv * meta.PierceGrowth * ((create.star - 1) * 0.15 + 1) * (create.lv / 80 + 0.8)

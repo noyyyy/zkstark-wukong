@@ -9,18 +9,17 @@ export type Store = {
 
 export enum ShowItem {
     Cocos,
+    CreateStrategy,
 }
 
 export type UIStore = {
     loggedIn: boolean;
     setLoggedIn: (loggedIn: boolean) => void;
-    agreeTerm: boolean;
-    setAgreeTerm: (agreeTerm: boolean) => void;
-    phaserRect: DOMRect;
-    setPhaserRect: (rect: DOMRect) => void;
     shows: Map<ShowItem, boolean>;
     getShow: (i: ShowItem) => boolean;
     setShow: (i: ShowItem, shouldShow: boolean) => void;
+    preparedBattle: { challenger: number; defender: number };
+    setPreparedBattle: (args: { c?: number; d?: number }) => void;
 };
 
 export const store = create<Store>(() => ({
@@ -31,10 +30,6 @@ export const store = create<Store>(() => ({
 export const useUIStore = create<UIStore>((set, get) => ({
     loggedIn: false,
     setLoggedIn: (loggedIn: boolean) => set(() => ({ loggedIn })),
-    agreeTerm: false,
-    setAgreeTerm: (agreeTerm: boolean) => set(() => ({ agreeTerm })),
-    phaserRect: new DOMRect(0, 0, 0, 0),
-    setPhaserRect: (rect: DOMRect) => set(() => ({ phaserRect: rect })),
     shows: new Map(),
     getShow: (i: ShowItem) => {
         return get().shows.get(i) || false;
@@ -46,4 +41,12 @@ export const useUIStore = create<UIStore>((set, get) => ({
             return { shows: newMap };
         });
     },
+    preparedBattle: { challenger: 0, defender: 0 },
+    setPreparedBattle: ({ c, d }: { c?: number; d?: number }) =>
+        set((state) => ({
+            preparedBattle: {
+                challenger: c ?? state.preparedBattle.challenger,
+                defender: d ?? state.preparedBattle.defender,
+            },
+        })),
 }));

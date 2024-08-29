@@ -8,6 +8,16 @@ import { common } from '../../../common/common/common';
 import { HolPreLoad } from '../../../prefab/HolPreLoad';
 const { ccclass, property } = _decorator;
 
+export interface Strategy {
+    strength: number;
+    agility: number;
+    intelligence: number;
+}
+
+export interface ClientData {
+    challenger: Strategy;
+    defender: Strategy;
+}
 @ccclass('FightMap')
 export class FightMap extends Component {
 
@@ -32,8 +42,32 @@ export class FightMap extends Component {
     protected async start() {
 
         window.addEventListener("message" , async (event) => {
-            const battleData = event.data;
-
+            const battleData = JSON.parse(event.data) as ClientData;
+            if(battleData.challenger == null || battleData.defender == null){
+                return
+            }
+            console.log("battleData", battleData);
+            common.leftCharacter.set({row: 2 , col: 2} , {
+                id: "sunwukong" ,
+                lv: 1 ,
+                star: 1 ,
+                equipment: [],
+                strength: battleData.challenger.strength,
+                agility: battleData.challenger.agility,
+                intelligence: battleData.challenger.intelligence,
+                isDefencer: false  
+            })
+            common.rightCharacter.set({row: 2 , col: 2} , {
+                id: "sunwukong" ,
+                lv: 1 ,
+                star: 1 ,
+                equipment: [],
+                strength: battleData.defender.strength,
+                agility: battleData.defender.agility,
+                intelligence: battleData.defender.intelligence,
+                isDefencer: true
+            })
+            console.log( '数据改了')
             await this.battle();
             console.log( '打架了')
         })
@@ -71,7 +105,13 @@ export class FightMap extends Component {
             // 战斗失败结算
             else this.fightEnd()
             // 战斗演示结束 给客户端发消息 
-            
+            const battleResult = JSON.stringify({
+                result: result,
+                isEnd: true
+            })
+            window.postMessage(battleResult);
+            console.log("Result", result);
+            console.log("IsEnd", true);
         })
         // 设置 100%
         holPreLoad.setProcess(100)

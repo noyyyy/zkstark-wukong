@@ -10,11 +10,31 @@ export function createSystemCalls(
     {}: ClientComponents,
     rpcProvider: RpcProvider
 ) {
-    const spawn = async (account: Account) => {
+    const createStrategy = async (props: {
+        account: Account;
+        Strength: number;
+        Agility: number;
+        Intelligence: number;
+    }) => {
         try {
-            const { transaction_hash: txHash } = await client.home.initialize({
-                account,
-            });
+            const { transaction_hash: txHash } =
+                await client.home.createStrategy(props);
+
+            // const result =
+            // await client.provider.provider.waitForTransaction(txHash);
+        } catch (e) {
+            console.error(e);
+        }
+    }; //
+    const battlefield = async (props: {
+        account: Account;
+        challengerID: number;
+        defenderID: number;
+        result: number;
+    }) => {
+        try {
+            const { transaction_hash: txHash } =
+                await client.home.battlefield(props);
 
             // const result =
             // await client.provider.provider.waitForTransaction(txHash);
@@ -24,6 +44,7 @@ export function createSystemCalls(
     };
 
     return {
-        spawn,
+        createStrategy,
+        battlefield,
     };
 }

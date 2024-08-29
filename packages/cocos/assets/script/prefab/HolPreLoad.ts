@@ -10,7 +10,7 @@ export class HolPreLoad extends Component {
     @property(Node)
     public TipNode: Node
 
-    private $tips: string[] = ["战斗初始化ing"]
+    private $tips: string[] = ["initalizing..."]
 
     private $current: number = 0
     private $process: number = 0

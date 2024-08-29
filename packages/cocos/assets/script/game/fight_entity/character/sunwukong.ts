@@ -64,15 +64,15 @@ class Character extends CharacterMetaState {
     `.replace(/ /ig , "")
 
     OnCreateState(self: CharacterState): void {
-        if (self.star >= 2) {
-            self.speed *= 1.2
-            self.attack *= 1.2
-            self.pierce *= 1.2
-        }
-        if (self.star >= 4) {
-            self.maxHp *= 1.2
-            self.attack *= 1.2
-        }
+        // if (self.star >= 2) {
+        //     self.speed *= 1.2
+        //     self.attack *= 1.2
+        //     self.pierce *= 1.2
+        // }
+        // if (self.star >= 4) {
+        //     self.maxHp *= 1.2
+        //     self.attack *= 1.2
+        // }
     }
 
     GetOnAttack(): (self: CharacterState, actionState: ActionState, fightMap: FightMap) => Promise<any> {
