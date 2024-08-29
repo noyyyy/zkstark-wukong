@@ -9,8 +9,8 @@ use cairo_verifier::{StarkProof};
 trait IHome {
     // fn initialize();
     fn setUserProfile(ref world: IWorldDispatcher, name: felt252);
-    fn createStrategy(ref world: IWorldDispatcher, Strength: u8, Agility: u8, Intelligence: u8);
-    fn battleField(ref world: IWorldDispatcher, challengerID: u8, defenderID: u8, result: bool);
+    fn createStrategy(ref world: IWorldDispatcher, Strength: u32, Agility: u32, Intelligence: u32);
+    fn battleField(ref world: IWorldDispatcher, challengerID: u32, defenderID: u32, result: bool);
 
 
     fn challengeBattle(ref world: IWorldDispatcher, battleId: u32, result: bool, proof: StarkProof);
@@ -58,7 +58,7 @@ mod home {
 
         // fn initialize(world: IWorldDispatcher) {}
         fn createStrategy(
-            ref world: IWorldDispatcher, Strength: u8, Agility: u8, Intelligence: u8
+            ref world: IWorldDispatcher, Strength: u32, Agility: u32, Intelligence: u32
         ) {
             let Player = get_caller_address();
             let mut counter = get!(world, 0, (GlobalState));
@@ -86,7 +86,7 @@ mod home {
 
 
         fn battleField(
-            ref world: IWorldDispatcher, challengerID: u8, defenderID: u8, result: bool
+            ref world: IWorldDispatcher, challengerID: u32, defenderID: u32, result: bool
         ) {
             let mut counter = get!(world, 0, (GlobalState));
             let mut challenger_strategy = get!(world, challengerID, (Strategy));
@@ -120,7 +120,7 @@ mod home {
             set!(world, (counter));
         }
 
-        // fn challengeBattle(world: IWorldDispatcher, gameID: u8, result: bool, zkprove: u8) {
+        // fn challengeBattle(world: IWorldDispatcher, gameID: u32, result: bool, zkprove: u32) {
         //     let challenger = get_caller_address();
         //     let counter = get!(world, 0, (GlobalState));
         //     let game = counter.game_index;
