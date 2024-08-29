@@ -1,6 +1,7 @@
 import { store } from "../store";
 import { logDebug } from "./lib/utils";
-import { Main } from "./Main";
+import { Home } from "./Home";
+import { Loading } from "./features/Loading";
 
 export const UI = () => {
     const layers = store((state) => {
@@ -12,7 +13,7 @@ export const UI = () => {
 
     logDebug("layers", layers);
 
-    if (!layers.networkLayer || !layers.phaserLayer) return <div>loading</div>;
+    if (!layers.networkLayer || !layers.phaserLayer) return <Loading />;
 
-    return <Main />;
+    return <Home />;
 };

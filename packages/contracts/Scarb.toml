@@ -21,7 +21,7 @@ initializer_class_hash = "0xbeef"
 rpc_url = "http://localhost:5050/"
 account_address = "0x6162896d1d7ab204c7ccac6dd5f8e9e7c25ecd5ae4fcb4ad32e57786bb46e03"
 private_key = "0x1800000000300000180000000000030000000000003006001800006600"
-world_address = "0x645cb3e9b4d7ae1afd34d64085e61519e431c39d4811f4e6bbc5f16b66fb0"
+world_address = "0x13ec15b82128cd3a780d4e74c694d372db530fd99eb5139494689d1881f2514"
 
 [tool.dojo.world]
 name = "game"
