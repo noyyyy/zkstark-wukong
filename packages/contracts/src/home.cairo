@@ -1,6 +1,6 @@
 use game::models::{UserProfile, Strategy, GlobalState, CreatedStrategy, SetProfile};
+use game::proofType::{StarkProof};
 
-// let (mut position, mut moves) = get!(world, player, (Position, Moves));
 
 #[dojo::interface]
 trait IHome {
@@ -10,7 +10,7 @@ trait IHome {
     fn battleField(challengerID: u8, defenderID: u8, result: bool);
 
 
-    fn challengeBattle(battleId: u32, result: bool, proof: Array<felt252>);
+    fn challengeBattle(battleId: u32, result: bool, proof: StarkProof);
 }
 
 
@@ -29,6 +29,7 @@ mod home {
     use core::hash::{HashStateTrait, HashStateExTrait};
     use super::IHome;
     use game::models::{UserProfile, Strategy, GlobalState, CreatedStrategy, SetProfile};
+    use game::proofType::{StarkProof};
 
 
     // impl: implement functions specified in trait
@@ -108,7 +109,7 @@ mod home {
         // }
 
         fn challengeBattle(
-            world: IWorldDispatcher, battleId: u32, result: bool, proof: Array<felt252>
+            world: IWorldDispatcher, battleId: u32, result: bool, proof: StarkProof
         ) {}
     }
 }
