@@ -1,6 +1,12 @@
 
 # zkStark: WuKong
 
+zkStark Wukong is a strategy auto battle game. Player distribute 30 points among strength, agility, intelligence to create strategy, then use strategy to battle with other strategy.
+
+The intent of this project is to research how to make provable game using cairo and verify on chain.
+
+It uses [stone-prover](https://github.com/starkware-libs/stone-prover/) to generate stark proof and use [integrity](https://github.com/HerodotusDev/integrity) to verify on chain.
+
 
 # Get started
 
