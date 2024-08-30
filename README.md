@@ -17,6 +17,12 @@ Require:
 3. [node](https://nodejs.org/) >=18
 4. [pnpm](https://pnpm.io/)
 
+git clone recursively
+
+```bash
+git clone --recurse-submodules https://github.com/noyyyy/zkstark-wukong.git
+```
+
 Install dependencies
 
 ```bash
